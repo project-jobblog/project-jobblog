@@ -8,15 +8,14 @@ layout: post
 toc: true
 guid: /?p=69
 permalink: /tips-you-need-to-find-your-dream-job-and-get-layout: post
-toc: true-faster/
+toc: true
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2020/12/Tips-you-Need-to-Find-your-Dream-Job-and-Get-layout: post
-toc: true-Faster.jpg
+image: /wp-content/uploads/2020/12/Tips-you-Need-to-Find-your-Dream-Job-and-Get-layout.jpg
 categories:
   - Job Tips
  
