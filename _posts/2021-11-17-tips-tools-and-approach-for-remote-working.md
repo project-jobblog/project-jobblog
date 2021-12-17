@@ -64,6 +64,6 @@ Find a way to work in the same location every day so that you associate that loc
 There are a number of apps that will keep you out of your computer and phone for a set amount of time each day, or that will plan work time and breaks throughout the day so you can stay on track and avoid distractions as much as possible. Working for 30 minutes and then taking a five-minute break is the most popular method. To help structure your work routine in small intervals, you can download a timer tool like the Be Focused app. It&#8217;s critical to remember to take pauses[! Stay Focused](https://play.google.com/store/apps/details?id=com.stayfocused&hl=en&gl=US), and [Help Me Focus](https://play.google.com/store/apps/details?id=com.apps.dsimpletools.helpmefocus&hl=en&gl=US) are some of the most popular apps for blocking access to specific apps and websites on your personal devices.
 
  
-## **Looking for Remote Jobs?** {.has-text-align-center}
+
 
   

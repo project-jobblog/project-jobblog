@@ -124,9 +124,4 @@ And since they normally lead a large team, a large part of their role often incl
 There is indeed no better time than now to enter the IT industry. You&#8217;ll need a lot of hustle and determination to get any of these high-paying jobs, but with a bit of courage, initiative, and luck, we&#8217;re sure you&#8217;re going to end up in one of these positions in due time.
 
 
-### Find exciting tech job opportunities near you {.has-text-align-center}
-
-<div class="wp-block-image">
-  <figure class="aligncenter"><a href="https://www.jobssearches.org/"><img loading="lazy" width="216" height="66" src="/wp-content/uploads/2021/01/button_find-a-job-2.png" alt="" class="wp-image-246" /></a></figure>
-</div>
 
