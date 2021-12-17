@@ -4,7 +4,7 @@ title: "PHCarrer"
 description: "We've helped million+ people grow their careers. These articles share tips on resumes, the job search, and more"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/icon.png'
-baseurl: 'https://project-jobblog.github.io'
+baseurl: ''
 url: 
 google_analytics: 'G-6XCXLHK0WG'
 disqus: ''
