@@ -1,6 +1,6 @@
 ---
 id: 157
-title: /category/ Reduce Stress at Work
+title: Simple Ways To Reduce Stress at Work
 date: 2021-10-22T03:12:00+00:00
 author: PhCareer
 layout: post
@@ -44,7 +44,7 @@ It&#8217;s time to confront the problem if you feel like your career is at risk.
 
 <figure class="wp-block-image size-full">
 
-<img loading="lazy" width="768" height="461" src="/wp-content/uploads/2021/10/stress-at-work.jpg" alt="/category/ Reduce Stress at Work" class="wp-image-993" srcset="/wp-content/uploads/2021/10/stress-at-work.jpg 768w, /wp-content/uploads/2021/10/stress-at-work-300x180.jpg 300w" sizes="(max-width: 768px) 100vw, 768px" /> </figure> 
+<img loading="lazy" width="768" height="461" src="/wp-content/uploads/2021/10/stress-at-work.jpg" alt="Ways Reduce Stress at Work" class="wp-image-993" srcset="/wp-content/uploads/2021/10/stress-at-work.jpg 768w, /wp-content/uploads/2021/10/stress-at-work-300x180.jpg 300w" sizes="(max-width: 768px) 100vw, 768px" /> </figure> 
 
 ### Office Politics &#8211; Get Acquainted With
 
