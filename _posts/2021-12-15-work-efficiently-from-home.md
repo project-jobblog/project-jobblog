@@ -1,23 +1,21 @@
 ---
-id: 1074
 title: How to Work Efficiently from Home During Lockdown?
-date: 2021-12-15T21:11:38+00:00
+date: '2021-12-15 21:11:38 +0000'
 author: PhCareer
 layout: post
 toc: true
-guid: /?p=1074
-permalink: /work-efficiently-from-home/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
+guid: "/?p=1074"
+permalink: "/work-efficiently-from-home/"
 theme-transparent-header-meta:
-  - default
-image: /wp-content/uploads/2021/12/How-to-Work-Efficiently-from-Home.png
+- default
+image: "/wp-content/uploads/2021/12/How-to-Work-Efficiently-from-Home.png"
 categories:
-  - Work From Home
- 
+- Work From Home
+- Hybrid Workplace
+- Part-Time Jobs
+
 ---
+
 How to Work Efficiently from Home During Lockdown? Even though several countries have lifted their Coronavirus limitations, we all know life will never be the same. This is also true for many employees around the world. [74% of organizations](https://www.gartner.com/en/newsroom/press-releases/2020-04-03-gartner-cfo-surey-reveals-74-percent-of-organizations-to-shift-some-employees-to-remote-work-permanently2) expect to shift a small number of employees to remote work (after the lockdown). That, too, on an ongoing basis.
 
 If you&#8217;re still working from home due to the lockdown, it&#8217;s a good idea to organize your day ahead of time. Even if that is not the case, changing work dynamics may force you to work from home in the future. Read this blog to learn about some tried-and-true methods for maintaining a spotless working habit at home!

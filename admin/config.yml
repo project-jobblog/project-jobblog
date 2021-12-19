@@ -20,7 +20,6 @@ collections:
       - { label: "Category", name: "categories", widget: "select", options: ["Job Search", "Job Tips", "Hiring"] }
       - { label: "TOC", name: "toc", widget: "boolean", default: true }
       - { label: "Comments", name: "comments", widget: "boolean", default: true }
-      - { label: "BeforeTOC", name: "beforetoc", widget: "string"}
       - { label: "Author", name: "author", widget: "string", default: PhCareer }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       
