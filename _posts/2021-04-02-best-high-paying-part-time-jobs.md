@@ -5,7 +5,7 @@ date: 2021-04-02T20:07:06+00:00
 author: PhCareer
 layout: post
 toc: true
-guid: https://jobssearches.org/blog/?p=512
+guid: /?p=512
 permalink: /best-high-paying-part-time-jobs/
 site-sidebar-layout:
   - default

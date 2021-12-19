@@ -1,13 +1,13 @@
 ---
 id: 69
-title: Tips you Need to Find your Dream Job and Get layout: post
+title: Tips you Need to Find your Dream Job and Get layout 
 toc: true Faster
 date: 2020-12-01T20:27:16+00:00
 author: PhCareer
 layout: post
 toc: true
 guid: /?p=69
-permalink: /tips-you-need-to-find-your-dream-job-and-get-layout: post
+permalink: /tips-you-need-to-find-your-dream-job-and-get-layout 
 toc: true
 site-sidebar-layout:
   - default
@@ -49,10 +49,12 @@ Hiring managers spend just a few seconds reading a resume, so with a cover lette
 
 Give your qualifications a short overview and touch on how you expect to help the business succeed. Hiring managers want to know what separates you from other candidates. Without this, your resume will not stand out and you may be passed up for the role.
 
+
+
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/12/cv.png" alt=" Tips you Need to Find your Dream Job and Get layout: post
-toc: true Faster" class="wp-image-70" width="658" height="329" srcset="/wp-content/uploads/2020/12/cv.png 700w, /wp-content/uploads/2020/12/cv-300x150.png 300w" sizes="(max-width: 658px) 100vw, 658px" /></figure>
+  <figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/12/cv.png" alt=" Tips you Need to Find your Dream Job and Get Job Faster" class="wp-image-70" width="658" height="329" srcset="/wp-content/uploads/2020/12/cv.png 700w, /wp-content/uploads/2020/12/cv-300x150.png 300w" sizes="(max-width: 658px) 100vw, 658px" /></figure>
 </div>
+
 
 ### Don&#8217;t Settle Up
 

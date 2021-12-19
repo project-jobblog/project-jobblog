@@ -69,4 +69,4 @@ Let coworkers know if your toddler could disrupt your video call, if you need to
 
 ### **Want to Advance Your Career**
 
-The truth is that there is no magic formula for figuring out how to work from home with kids. Everyone&#8217;s patience and time are needed. Want to hear more about how to keep your job at the forefront of your mind? If you **sign up for Jobs Searches newsletter**, we&#8217;ll give you career advice and job hunting tips to help you stay focused while balancing other things.
+The truth is that there is no magic formula for figuring out how to work from home with kids. Everyone&#8217;s patience and time are needed. Want to hear more about how to keep your job at the forefront of your mind? 

@@ -38,7 +38,7 @@ In the healthcare, technology, and financial industries, the highest-paying work
 
 **Average Salary**: $111,887
 
-### [Pharmacy Manager](https://www.jobssearches.org/searches/keyword-Pharmacy-Manager/location-33165)
+### Pharmacy Manager
 
 **Requirements**: Complete a doctorate in pharmacy (Pharm.D) and obtain a license in the state you wish to work. You may also need a master’s degree in business administration (MBA) or a public health graduate degree.
 

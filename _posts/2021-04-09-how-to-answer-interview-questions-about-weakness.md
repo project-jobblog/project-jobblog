@@ -64,4 +64,4 @@ For example, if you missed a critical deadline and irritated your manager, clari
 
 ### **Get through interview questions about your weaknesses**
 
-This is far from the only difficult interview question you&#8217;ll be asked. There will be plenty more on the way. Do you need assistance with your answers? **Jobs Searches** will provide you with free professional advice as well as career advice to keep you ahead of the competition.
+This is far from the only difficult interview question you&#8217;ll be asked. There will be plenty more on the way. Do you need assistance with your answers? **PH Careers** will provide you with free professional advice as well as career advice to keep you ahead of the competition.

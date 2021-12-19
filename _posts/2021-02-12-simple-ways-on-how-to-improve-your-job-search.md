@@ -19,7 +19,7 @@ categories:
   - Job Search
  
 ---
-The phase of job searching can be busy. Candidates spend time crafting and submitting resumes and cover letters, contacting networks, and waiting for replies to be heard. But it&#8217;s also a good idea to take a step back regularly. From the ground up, here&#8217;s how to improve your [job search](https://www.jobssearches.org/) strategy.
+The phase of job searching can be busy. Candidates spend time crafting and submitting resumes and cover letters, contacting networks, and waiting for replies to be heard. But it&#8217;s also a good idea to take a step back regularly. From the ground up, here&#8217;s how to improve your job search strategy.
 
 ### **_Become an expert at networking_**
 

@@ -15,7 +15,6 @@ theme-transparent-header-meta:
   - default
 image: /wp-content/uploads/2020/12/remote-jobs-1.jpg
 categories:
-  - Uncategorized
   - Work From Home
  
 ---

@@ -115,5 +115,5 @@ Salary is $15+ per hour. Salaries range from less than $25K + to more than $48K+
 
 A CCMA shortage has arisen in the past 10 years, and is expected to continue through the next decade. To stand out from the crowd of applicants, make sure you show off your experience and training when you apply for a job.
 
-When you&#8217;re ready to apply, look at **Jobs Searches** for a variety of positions and submit your application.
+
 

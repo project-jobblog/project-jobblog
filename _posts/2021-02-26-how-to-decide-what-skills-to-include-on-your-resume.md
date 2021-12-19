@@ -64,7 +64,7 @@ Branding deals with the next step in determining which skills can go on your res
 
 By that, we mean understanding what kind of service you provide in a company, and what skills help that service.
 
-After all, we know every job seeker here at Jobs Searches is a company-of-one. In order to draw buyers (employers looking to invest in you), are you branding your company (yourself) correctly?
+After all, we know every job seeker here at Ph Careers is a company-of-one. In order to draw buyers (employers looking to invest in you), are you branding your company (yourself) correctly?
 
 ### **Customize Your Resume**
 

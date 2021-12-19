@@ -55,6 +55,6 @@ When it comes time for the interview, communicate these thoughts to the intervie
 
 Continue the interview regardless of the outcome. Some businesses may require the role straight away. Others might not be in such a hurry. A thank-you message to your interviewer for their time in considering you as a candidate communicates a more positive message than anything else. Even if you weren&#8217;t selected for the final position, thanking them for their time is a good idea because you never know where your career path will lead you in the future.
 
-Having a positive attitude and knowing how to make your CV stand out from the piles and mounds of resumes on the headhunter&#8217;s desk are the keys to getting recruited quickly. **Jobs Searches** provides a variety of tools and advice to assist you in creating a world-class resume that will set you apart from the competition. Your next project is just around the corner with these tools on your side.
+Having a positive attitude and knowing how to make your CV stand out from the piles and mounds of resumes on the headhunter&#8217;s desk are the keys to getting recruited quickly. **PH Careers** provides a variety of tools and advice to assist you in creating a world-class resume that will set you apart from the competition. Your next project is just around the corner with these tools on your side.
 
   

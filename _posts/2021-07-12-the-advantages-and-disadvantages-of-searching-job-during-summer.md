@@ -70,10 +70,3 @@ Given that it is summer, hiring managers may be taking time off for holidays and
 ### **Find Success in Your Summer Job Search**
 
 Summer job hunting can be fruitful if you approach it with the appropriate mindset. If you plan beforehand and wait patiently, you might just obtain your dream job.
-
-Jobs Searches can assist you in your job search at any time of year. Every day, we add to our database of flexible and remote jobs.
-
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><a href="https://www.jobssearches.org/searches/keyword-summer-jobs/location-united-states"><img loading="lazy" width="320" height="66" src="/wp-content/uploads/2021/07/button_find-summer-jobs.png" alt="Summer Jobs" class="wp-image-773" srcset="/wp-content/uploads/2021/07/button_find-summer-jobs.png 320w, /wp-content/uploads/2021/07/button_find-summer-jobs-300x62.png 300w" sizes="(max-width: 320px) 100vw, 320px" /></a></figure>
-</div>
-

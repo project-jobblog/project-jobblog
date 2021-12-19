@@ -113,9 +113,6 @@ Add These Skills to Your Nursing Resume If You&#8217;re an Entry-Level Nurse
   * Therapeutic language
   * Interaction with patients
   * Patient education
- 
-<div class="wp-block-image">
-  <figure class="aligncenter size-full"><a href="https://www.jobssearches.org/searches/keyword-nurse/location-united-states"><img loading="lazy" width="216" height="66" src="/wp-content/uploads/2021/08/button_find-a-job.png" alt="Find A Job" class="wp-image-866" /></a></figure>
-</div>
+
 
   

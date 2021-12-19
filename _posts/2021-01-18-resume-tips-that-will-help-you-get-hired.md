@@ -23,7 +23,7 @@ categories:
 
 
 
-The first important step in beginning a job search is a strong resume. It is the door to an interview and to a job later. Usually, a recruiter spends less than 10 seconds looking at a resume. Therefore, the seeker lies the duty of making a power-packed one gets heard. You should seek the advice of resume experts to give your resume a competitive edge. With its professional resume writing services and its library of resume posts, Jobs Searches is one such expert to make your resume stand out!
+The first important step in beginning a job search is a strong resume. It is the door to an interview and to a job later. Usually, a recruiter spends less than 10 seconds looking at a resume. Therefore, the seeker lies the duty of making a power-packed one gets heard. You should seek the advice of resume experts to give your resume a competitive edge. With its professional resume writing services and its library of resume posts, PH Careers is one such expert to make your resume stand out!
 
 These keys must be kept in mind to make a resume shine in the heap.
 

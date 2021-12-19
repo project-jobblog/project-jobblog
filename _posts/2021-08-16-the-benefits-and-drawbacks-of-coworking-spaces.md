@@ -89,4 +89,4 @@ Finally, while there are some free coworking spaces, most places charge users. A
   * **Con:** Some individuals believe that paying to work somewhere when you have a perfectly nice home office available is a waste of money. Similarly, feeling compelled to use the space as a result of signing up for a plan may appear to be a blow to the freedom that brought you to telecommuting in the first place.
   * **Pro:** It could be money well spent, and some businesses will pay or assist with the costs of coworking space.
 
-More advice on how to succeed as a remote worker, whether from home or at a coworking space Jobs Searches blog contains a wealth of information for remote employees, including how to boost productivity, interact with bosses and coworkers, and save money as a remote worker.
+More advice on how to succeed as a remote worker, whether from home or at a coworking space PH Careers blog contains a wealth of information for remote employees, including how to boost productivity, interact with bosses and coworkers, and save money as a remote worker.
