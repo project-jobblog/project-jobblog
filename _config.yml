@@ -82,3 +82,11 @@ sass:
   style: compressed
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+
+
+defaults:
+  - scope:
+      path: 'admin/*' # also tried 'page' and 'page/**'
+    values:
+      sitemap: false
