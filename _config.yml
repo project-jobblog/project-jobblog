@@ -4,7 +4,7 @@ title: "Zooted"
 description: "We've helped thousand+ people grow their careers. These articles share tips on resumes, the job search, and more"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/icon.png'
-baseurl: 'https://www.zooted.me'
+baseurl: ''
 url: 'https://www.zooted.me'
 google_analytics: 'G-6XCXLHK0WG'
 disqus: ''
