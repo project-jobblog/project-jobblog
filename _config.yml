@@ -74,8 +74,6 @@ lazyimages: "enabled"
 authorbox: "enabled"
 
 
-
-
 # Sass
 sass:
   sass_dir: _sass
