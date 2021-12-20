@@ -88,3 +88,5 @@ defaults:
       path: 'admin/*' # also tried 'page' and 'page/**'
     values:
       sitemap: false
+
+      
