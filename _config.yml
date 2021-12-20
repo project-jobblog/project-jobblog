@@ -7,7 +7,7 @@ favicon: 'assets/images/icon.png'
 baseurl: ''
 url: 'https://www.zooted.me'
 google_analytics: 'G-6XCXLHK0WG'
-disqus: ''
+disqus: 'zooted'
 mailchimp-list: 'https://club.us5.list-manage.com/subscribe/post?u=a839bbbdc37891b132e7db91c&amp;id=d151dabdf3'
 include: ["_pages"]
 permalink: /:title/
