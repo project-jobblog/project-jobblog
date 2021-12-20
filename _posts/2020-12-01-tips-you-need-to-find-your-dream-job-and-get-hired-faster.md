@@ -1,13 +1,13 @@
 ---
 id: 69
-title: Tips you Need to Find your Dream Job and Get layout 
+title: Tips you Need to Find your Dream Job
 toc: true Faster
 date: 2020-12-01T20:27:16+00:00
 author: PhCareer
 layout: post
 toc: true
 guid: /?p=69
-permalink: /tips-you-need-to-find-your-dream-job-and-get-layout 
+permalink: /tips-you-need-to-find-your-dream-job 
 toc: true
 site-sidebar-layout:
   - default

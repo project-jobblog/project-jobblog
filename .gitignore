@@ -6,4 +6,3 @@ site
 *~
 .jekyll-cache
 docker-compose.yml
-wp-content/uploads/wp-jekyll.zip
