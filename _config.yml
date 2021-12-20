@@ -4,8 +4,8 @@ title: "Zooted"
 description: "We've helped thousand+ people grow their careers. These articles share tips on resumes, the job search, and more"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/icon.png'
-baseurl: ''
-url: 
+baseurl: 'https://www.zooted.me/'
+url: 'https://www.zooted.me/'
 google_analytics: 'G-6XCXLHK0WG'
 disqus: ''
 mailchimp-list: 'https://club.us5.list-manage.com/subscribe/post?u=a839bbbdc37891b132e7db91c&amp;id=d151dabdf3'
