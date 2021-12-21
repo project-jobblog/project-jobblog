@@ -17,7 +17,7 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Featured", name: "image", widget: "image" }
-      - { label: "Category", name: "categories", widget: "select", options: ["Job Search", "Job Tips", "Hiring"] }
+      - { label: "Category", name: "categories", widget: "relation", collection: "categories", searchFields: ["name"], valueField: "name" }
       - { label: "TOC", name: "toc", widget: "boolean", default: true }
       - { label: "Comments", name: "comments", widget: "boolean", default: true }
       - { label: "Author", name: "author", widget: "string", default: PhCareer }
