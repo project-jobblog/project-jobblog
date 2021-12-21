@@ -1,22 +1,23 @@
 ---
-id: 125
-title: Things to Do on your First Day Back at Work
-date: 2020-12-15T16:51:43+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=125
-permalink: /things-to-do-on-your-first-day-back-at-work/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2020/12/Things-to-Do-on-your-First-Day-Back-at-Work.jpg
+permalink: /things-to-do-on-your-first-day-back-at-work/
+toc: true
+guid: /?p=125
+layout: post
+title: Things to Do on your First Day Back at Work
+image: /assets/images/first-day-back-at-work.png
 categories:
-  - Career Guides
-
+  - Career Guide
+  - Job Search
+comments: true
+author: PhCareer
+date: 2020-12-15T16:51:43+00:00
+id: 125
 ---
 After a holiday, going back to work is never easy, right? But it&#8217;s time to snap back to reality — swap those early morning sleep-ins, and put your office face on. Work is a-calling!
 
