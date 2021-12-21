@@ -5,19 +5,19 @@ site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2020/12/remote-jobs-1.jpg
+permalink: /the-benefits-and-drawbacks-of-telecommuting/
 toc: true
 guid: /?p=75
 layout: post
-author: PhCareer
-permalink: /the-benefits-and-drawbacks-of-telecommuting/
-date: 2020-12-02T18:03:50+00:00
 title: The Benefits And Drawbacks of Telecommuting
-comments: true
-id: 75
+image: /assets/images/telecommuting.png
 categories:
   - Work From Home
   - Job Search
+comments: true
+author: PhCareer
+date: 2020-12-02T18:03:50+00:00
+id: 75
 ---
 Telecommuting is becoming more common, and there are a few major benefits and reasons why. There are still several inconveniences or drawbacks of telecommuting, however.
 
