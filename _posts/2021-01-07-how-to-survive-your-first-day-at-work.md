@@ -1,23 +1,22 @@
 ---
-id: 210
-title: How To Survive Your First Day At Work?
-date: 2021-01-07T16:56:07+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=210
-permalink: /how-to-survive-your-first-day-at-work/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/01/tips-first-day-work.jpg
+permalink: /how-to-survive-your-first-day-at-work/
+toc: true
+guid: /?p=210
+layout: post
+title: How To Survive Your First Day At Work?
+image: /assets/images/first-day-at-work.jfif
 categories:
-  - Career Guides
-  - Job Tips
- 
+  - Career Guide
+comments: true
+author: PhCareer
+date: 2021-01-07T16:56:07+00:00
+id: 210
 ---
 Your first day at work is as taxing as the job search process that precedes it when it comes to experiencing anxiety and excitement. You are likely to be a bundle of nerves on your first day, stepping into an unknown setting. Your first day of work, both memorable and frustrating, is all about meeting your new colleagues and boss, familiarizing yourself with the new work process, etc.
 
