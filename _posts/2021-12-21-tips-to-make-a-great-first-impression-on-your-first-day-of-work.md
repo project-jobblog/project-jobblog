@@ -26,7 +26,7 @@ It is important that you prepare everything in order to make a great first impre
 
 <br/><br/>
 
-> **Related:[ How to Find Your Dream Job?](https://www.jobssearches.org/blog/how-to-find-your-dream-job/)**
+> **Related:[ How to Find Your Dream Job?](/how-to-find-your-dream-job/)**
 
 <br/><br/>
 
