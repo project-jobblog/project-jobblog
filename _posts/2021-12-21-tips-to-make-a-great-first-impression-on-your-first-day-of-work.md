@@ -9,8 +9,6 @@ toc: true
 comments: true
 author: PhCareer
 ---
- 
-
 They said that the first impressions last a lifetime, so whether you have an incoming interview or a big sales meeting coming, it is important to make sure you give them your best.
 
 It also just takes a few moments for someone to check, analyze, and make a decision about you when they see you for the very first time. Here are a few strategies you can use to avoid giving off a negative impression.
@@ -26,6 +24,10 @@ It is important that you prepare everything in order to make a great first impre
 * What do you think will be the questions?
 * Do research about the company or the person you will be meeting.
 * Can you provide them the relevant information about yourself, experience, and goals?
+
+<br/><br/>
+
+> **Related:[ How to Find Your Dream Job?](https://www.jobssearches.org/blog/how-to-find-your-dream-job/)**
 
 <br/><br/>
 
@@ -53,4 +55,4 @@ You can always start with some casual small talk to ease the stress if you feel 
 
 ### Pay attention
 
-Although there should be good etiquette and respectful actions, you will need to be as attentive as you can be. Since you don’t want to give the impression that you are easily distracted, don’t be distracted by small stuff and other people. That said, make sure the [cell phone ](https://www.cheapinternetserviceprovider-jna.com/tag/mobile-phone-plans)is silent. Do balance speaking and listening as well. You can try to engage your discussion partner with questions if you feel like you are dominating the meeting.
+Although there should be good etiquette and respectful actions, you will need to be as attentive as you can be. Since you don’t want to give the impression that you are easily distracted, don’t be distracted by small stuff and other people. That said, make sure the cell phone is silent. Do balance speaking and listening as well. You can try to engage your discussion partner with questions if you feel like you are dominating the meeting.
