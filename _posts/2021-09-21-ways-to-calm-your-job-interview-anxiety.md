@@ -1,12 +1,4 @@
 ---
-id: 572
-title: How to Stay Calm And Compose During a Your Job Interview
-date: 2021-09-21T21:28:00+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=572
-permalink: /ways-to-calm-your-job-interview-anxiety/
 site-sidebar-layout:
   - default
 site-content-layout:
@@ -14,10 +6,18 @@ site-content-layout:
 theme-transparent-header-meta:
   - default
 image: /wp-content/uploads/2021/04/Job-Interview.jpg
+toc: true
+guid: /?p=572
+layout: post
+author: PhCareer
+permalink: /ways-to-calm-your-job-interview-anxiety/
+date: 2021-09-21T21:28:00+00:00
+title: How to Stay Calm And Compose During a Your Job Interview
+comments: true
+id: 572
 categories:
   - Job Interview
-  - Job Tips
-
+  - Job Hiring
 ---
 Do you have any job interview anxiety yet?. You&#8217;re going to have a big job interview soon. This may be the case! It&#8217;s your one and only chance to land the perfect job. Do you get nervous just thinking about a job interview? Do you have concerns that your nerves would prevent you from impressing your interviewer?
 
@@ -45,7 +45,7 @@ So let&#8217;s talk about how to plan in a way that empowers you and reduces you
 
 No matter how much you want the job, it&#8217;s just a one-time chance. The fact that you get this job does not mean your whole future is in jeopardy. You don&#8217;t even have a good understanding of the job. Sure, it appears to be a good idea on paper, but it isn&#8217;t your only choice.
 
-From the perspective of the interviewer, enthusiasm is fine, but neediness can be uncomfortable. Consider it like a first date. You want to [make a good impression](/how-to-make-a-great-impression-at-work/) and demonstrate the best qualities. You don&#8217;t want to come off as a possible bunny boiler who has yet to be asked out.
+From the perspective of the interviewer, enthusiasm is fine, but neediness can be uncomfortable. Consider it like a first date. You want to [make a good impression](e/tips-to-make-a-great-first-impression-on-your-first-day-of-work) and demonstrate the best qualities. You don&#8217;t want to come off as a possible bunny boiler who has yet to be asked out.
 
 Whatever happens, this interview will serve as a learning opportunity that will help you become a stronger job applicant and a more knowledgeable professional in the long run.
 
@@ -60,7 +60,6 @@ Concentrate on exuding confidence and putting all of your previous preparation t
 Keep in mind that you are there because your resume or the impact you made during the screening interview impressed them. That&#8217;s a compelling reason to be optimistic on the day of the interview.
 
 Keep in mind that you are there because your resume or the impact you made during the screening interview impressed them. That&#8217;s a compelling reason to be optimistic on the day of the interview.
-
 
 <figure class="wp-block-image size-large">
 
@@ -94,23 +93,23 @@ Some people find that anti-anxiety strategies, such as breathing exercises and m
 
 **Here are a few that have proven to be effective for nervous candidates:**
 
-  * **Visualization** — Visualizing a successful interview can help you relax. Imagine yourself in the interview room, making a great first impression, and feel the deep sense of positive trust that you will experience. When you pair the picture with a strong positive feeling and associate the two, you&#8217;ll get the best performance. It&#8217;s a quick and simple way to concentrate your thoughts and boost your self-assurance.
-  * **Power Posture** — Did you know that a simple two-minute body language trick will boost your morale and help you perform better in interviews? Before your interview, “power posing” entails posing like a superhero for two minutes. Simply stand stall and solid with hands on hips and legs confidently apart, as if you were &#8220;Superman.&#8221;
-      * It can seem ridiculous, but it works. Power posing resulted in substantial increases in testosterone and significant decreases in [cortisol](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037). This method alters the composition of the body.
-      * A follow-up study focused on work interviews explicitly. The interviewers overwhelmingly selected the &#8220;high-power&#8221; posers as recruiting content.
-      * Right now, give it a shot and see for yourself. Only remember to practice posing in front of the mirror before the interview.
+* **Visualization** — Visualizing a successful interview can help you relax. Imagine yourself in the interview room, making a great first impression, and feel the deep sense of positive trust that you will experience. When you pair the picture with a strong positive feeling and associate the two, you&#8217;ll get the best performance. It&#8217;s a quick and simple way to concentrate your thoughts and boost your self-assurance.
+* **Power Posture** — Did you know that a simple two-minute body language trick will boost your morale and help you perform better in interviews? Before your interview, “power posing” entails posing like a superhero for two minutes. Simply stand stall and solid with hands on hips and legs confidently apart, as if you were &#8220;Superman.&#8221;
 
-  * **Redirecting Inquiries** — You won&#8217;t know the answer to every question, and the job interviewer will purposefully leave you guessing. Some interviewers ask you stress questions solely to see how you react.
-      * The best way to handle these tough questions is to gracefully redirect them to a related subject you&#8217;re familiar with, ideally while emphasizing your strengths. Maintain a cool and composed demeanor at all times. Allowing one difficult question to alter the mood of the interview is not a good idea. Concentrate on answering the next questions thoroughly and concluding the meeting on a positive note.
+  * It can seem ridiculous, but it works. Power posing resulted in substantial increases in testosterone and significant decreases in [cortisol](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037). This method alters the composition of the body.
+  * A follow-up study focused on work interviews explicitly. The interviewers overwhelmingly selected the &#8220;high-power&#8221; posers as recruiting content.
+  * Right now, give it a shot and see for yourself. Only remember to practice posing in front of the mirror before the interview.
+* **Redirecting Inquiries** — You won&#8217;t know the answer to every question, and the job interviewer will purposefully leave you guessing. Some interviewers ask you stress questions solely to see how you react.
 
-  * **Taking a breath** — Box breathing is a quick and efficient breathing exercise that is often referred to as &#8220;box breathing.&#8221; It takes only a few seconds to complete, no matter where you are, and it works wonders for reducing anxiety.
+  * The best way to handle these tough questions is to gracefully redirect them to a related subject you&#8217;re familiar with, ideally while emphasizing your strengths. Maintain a cool and composed demeanor at all times. Allowing one difficult question to alter the mood of the interview is not a good idea. Concentrate on answering the next questions thoroughly and concluding the meeting on a positive note.
+* **Taking a breath** — Box breathing is a quick and efficient breathing exercise that is often referred to as &#8220;box breathing.&#8221; It takes only a few seconds to complete, no matter where you are, and it works wonders for reducing anxiety.
 
 **How to Box-Breathe:**
 
 Box breathing can be accomplished in easy steps:
 
-  * Slowly inhale for 4 seconds, then hold your breath for 4 seconds at the end of the inhale.
-  * Exhale for 4 seconds, then hold your breath for 4 seconds at the end of the exhale and repeat.
+* Slowly inhale for 4 seconds, then hold your breath for 4 seconds at the end of the inhale.
+* Exhale for 4 seconds, then hold your breath for 4 seconds at the end of the exhale and repeat.
 
 After completing the cycle only once, you can feel immediately calmer, but repeat it as many times as possible to feel the anxiety dissipate.
 
@@ -120,7 +119,8 @@ After completing the cycle only once, you can feel immediately calmer, but repea
   </p>
 </blockquote>
 
-  * **Maintaining a Pace** — It&#8217;s possible that your anxiety has taken over and you&#8217;re speaking too quickly if you&#8217;re stumbling over your thoughts. When you&#8217;re nervous, your mannerisms and voice seem to pick up. It can also make you talk before you have fully considered the issue.
-      * Don&#8217;t rush and don&#8217;t be afraid to take a breath. You&#8217;re more likely to say something you&#8217;ll regret if you rush to fill any silence. Don&#8217;t be embarrassed to take a break. Before answering difficult questions, interviewers expect you to take a breath and consider.
-      * If your pause becomes uncomfortable, say something like, “That&#8217;s a great question.” I just need a few minutes to think about the best example to give.”
-      * We guarantee that if you follow our advice and put in the necessary preparation time, your nerves will not sabotage you during your window of opportunity. Feel the anxiety and still ace the interview!
+* **Maintaining a Pace** — It&#8217;s possible that your anxiety has taken over and you&#8217;re speaking too quickly if you&#8217;re stumbling over your thoughts. When you&#8217;re nervous, your mannerisms and voice seem to pick up. It can also make you talk before you have fully considered the issue.
+
+  * Don&#8217;t rush and don&#8217;t be afraid to take a breath. You&#8217;re more likely to say something you&#8217;ll regret if you rush to fill any silence. Don&#8217;t be embarrassed to take a break. Before answering difficult questions, interviewers expect you to take a breath and consider.
+  * If your pause becomes uncomfortable, say something like, “That&#8217;s a great question.” I just need a few minutes to think about the best example to give.”
+  * We guarantee that if you follow our advice and put in the necessary preparation time, your nerves will not sabotage you during your window of opportunity. Feel the anxiety and still ace the interview!
