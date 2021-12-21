@@ -1,24 +1,23 @@
 ---
-id: 972
-title: How to Become a Social Media Manager?
-date: 2021-10-14T17:10:03+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=972
-permalink: /how-to-become-a-social-media-manager/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/10/Social-Media-Manager.jpg
+image: /assets/images/how-to-become-a-social-media-manager.jfif
+toc: true
+guid: /?p=972
+layout: post
+author: PhCareer
+permalink: /how-to-become-a-social-media-manager/
+date: 2021-10-14T17:10:03+00:00
+title: How to Become a Social Media Manager?
+comments: true
+id: 972
 categories:
   - Job Search
-  - Managers
-  - Marketing Jobs
- 
+  - Marketing
 ---
 What does it mean to be a social media manager? The cornerstone of a company&#8217;s social media initiatives is formed by these specialists, who are part marketing gurus, part communication experts, part public-relations masters, and part tech whizzes.
 
