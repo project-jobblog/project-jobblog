@@ -6,7 +6,7 @@ author: PhCareer
 layout: post
 toc: true
 guid: /?p=735
-permalink: /the-many-advantages-of-video-interviews/
+permalink: /video-interview/
 site-sidebar-layout:
   - default
 site-content-layout:
