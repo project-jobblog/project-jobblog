@@ -1,12 +1,4 @@
 ---
-id: 83
-title: What to Expect in a Final Job Interview?
-date: 2020-12-04T20:28:26+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=83
-permalink: /what-to-expect-in-a-final-job-interview/
 site-sidebar-layout:
   - default
 site-content-layout:
@@ -14,9 +6,17 @@ site-content-layout:
 theme-transparent-header-meta:
   - default
 image: /wp-content/uploads/2020/12/how-to-answer-common-interview-questions-best.jpg
+toc: true
+guid: /?p=83
+layout: post
+author: PhCareer
+permalink: /what-to-expect-in-a-final-job-interview/
+date: 2020-12-04T20:28:26+00:00
+title: What to Expect in a Final Job Interview?
+comments: true
+id: 83
 categories:
   - Job Tips
- 
 ---
 This article will instantly help if you&#8217;re planning for a final round work interview.
 
