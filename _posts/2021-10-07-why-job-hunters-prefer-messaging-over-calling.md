@@ -1,24 +1,24 @@
 ---
-id: 956
-title: Why Job Hunters Prefer Messaging Over Calling?
-date: 2021-10-07T22:01:11+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=956
-permalink: /why-job-hunters-prefer-messaging-over-calling/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/10/Job-Hunters-Prefer-Messaging-Over-Calling.jpg
+image: /assets/images/why-job-hunters-prefer-messaging-over-calling.png
+toc: true
+guid: /?p=956
+layout: post
+author: PhCareer
+permalink: /why-job-hunters-prefer-messaging-over-calling/
+date: 2021-10-07T22:01:11+00:00
+title: Why Job Hunters Prefer Messaging Over Calling?
+comments: true
+id: 956
 categories:
-  - Employer
-  - Job Offer
   - Job Search
-
+  - Job Interview
+  - Job Hiring
 ---
 Great communication between applicants and recruiters has become not just an important aspect of a positive candidate experience, but also a necessity in the twenty-first century. With the advancement of mobile technology and messaging apps, today&#8217;s workforce has come to demand quick and easy communication. That is why so many businesses have installed chatbots on their careers pages or within other messaging apps such as WhatsApp or Facebook Messenger.
 
