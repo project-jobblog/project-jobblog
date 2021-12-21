@@ -1,23 +1,23 @@
 ---
-id: 422
-title: How Do You Find A Good Employer?
-date: 2021-03-08T16:49:39+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=422
-permalink: /how-do-you-find-a-good-employer/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/03/How-Do-You-Find-A-Good-Employer.jpg
+permalink: /how-do-you-find-a-good-employer/
+toc: true
+guid: /?p=422
+layout: post
+title: How Do You Find A Good Employer?
+image: /assets/images/good-employer.png
 categories:
   - Career Guides
   - Job Interview
-
+comments: true
+author: PhCareer
+date: 2021-03-08T16:49:39+00:00
+id: 422
 ---
 Trust. A basic five-letter word with the ability to make or break any relationship. And we&#8217;re not only talking about personal relationships here; trust and a good employer is also important in the workplace.
 
