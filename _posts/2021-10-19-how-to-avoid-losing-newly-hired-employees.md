@@ -1,23 +1,23 @@
 ---
-id: 979
-title: How to Avoid Losing Newly Hired Employees?
-date: 2021-10-19T16:24:06+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=979
-permalink: /how-to-avoid-losing-newly-hired-employees/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/10/How-to-Avoid-Losing-Newly-Hired-Employees-1.jpg
+image: /assets/images/how-to-avoid-losing-newly-employee.png
+toc: true
+guid: /?p=979
+layout: post
+author: PhCareer
+permalink: /how-to-avoid-losing-newly-hired-employees/
+date: 2021-10-19T16:24:06+00:00
+title: How to Avoid Losing Newly Hired Employees?
+comments: true
+id: 979
 categories:
-  - Career Guides
-  - Employer
-
+  - Career Guide
+  - Job Hiring
 ---
 How to Avoid Losing Newly Hired Employees? Recruiting the top employee takes time, money, and effort, but the value they offer to your company pays off in the long run.
 
