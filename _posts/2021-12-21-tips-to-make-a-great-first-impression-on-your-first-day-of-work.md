@@ -40,7 +40,7 @@ People hate it when the person they are meeting is late. So, make sure that you 
 
 <br/><br/>
 
-> **Also Read : [Tips you Need to Find your Dream Job and Get Hired Faster](/tips-you-need-to-find-your-dream-job-and-get-hired-faster/)**
+> **Also Read : [Tips you Need to Find your Dream Job and Get Hired Faster](/how-to-get-hired-faster/)**
 
 <br/><br/>
 
