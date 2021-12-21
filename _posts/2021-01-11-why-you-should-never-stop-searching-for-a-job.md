@@ -1,23 +1,23 @@
 ---
-id: 226
-title: Why you Should Never Stop Searching for a Job?
-date: 2021-01-11T16:20:52+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=226
-permalink: /why-you-should-never-stop-searching-for-a-job/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/01/Never-Stop-Searching-for-a-Job.jpg
+permalink: /why-you-should-never-stop-searching-for-a-job/
+toc: true
+guid: /?p=226
+layout: post
+title: Why you Should Never Stop Searching for a Job?
+image: /assets/images/searching-for-a-job.jpg
 categories:
   - Job Search
   - Job Tips
- 
+comments: true
+author: PhCareer
+date: 2021-01-11T16:20:52+00:00
+id: 226
 ---
 It is just for the unemployed to look for a career, right? You can and should continue to look for the perfect job, contrary to common opinion. It may seem counter-intuitive, but it is important for your professional success to search constantly, even if you never follow any of these leads.
 
