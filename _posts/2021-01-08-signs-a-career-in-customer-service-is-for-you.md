@@ -1,23 +1,23 @@
 ---
-id: 220
-title: Signs a Career in Customer Service is For you
-date: 2021-01-08T22:48:11+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=220
-permalink: /signs-a-career-in-customer-service-is-for-you/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/01/Signs-a-Career-in-Customer-Service-is-For-you.jpg
+permalink: /signs-a-career-in-customer-service-is-for-you/
+toc: true
+guid: /?p=220
+layout: post
+title: Signs a Career in Customer Service is For you
+image: /assets/images/full-time-job.jpg
 categories:
-  - Career Guides
-  - Job Tips
- 
+  - Work From Home
+  - Career Guide
+comments: true
+author: PhCareer
+date: 2021-01-08T22:48:11+00:00
+id: 220
 ---
 You may have all the ideals of a **job-seeker**, but what businesses are looking for is more nuanced than you think it is in prospective customer service workers. Although the customer service professional has a persistent reputation for high turnover rates and burnout, there are individuals who excel and make a career out of this sector. If you have the following qualities, one of them might be you.
 
