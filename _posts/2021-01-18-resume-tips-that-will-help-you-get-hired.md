@@ -1,24 +1,24 @@
 ---
-id: 255
-title: Resume Tips That Will Help You Get Hired
-date: 2021-01-18T16:09:31+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=255
-permalink: /resume-tips-that-will-help-you-get-hired/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/01/Resume-Tips-That-Will-Help-You-Get-Hired.jpg
+permalink: /resume-tips-that-will-help-you-get-hired/
+toc: true
+guid: /?p=255
+layout: post
+title: Resume Tips That Will Help You Get Hired
+image: /assets/images/resume-tips.jpg
 categories:
   - Job Interview
   - Job Offer
   - Job Search
-
+comments: true
+author: PhCareer
+date: 2021-01-18T16:09:31+00:00
+id: 255
 ---
 
 
