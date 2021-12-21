@@ -5,7 +5,7 @@ site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/04/Job-Interview.jpg
+image: /assets/images/how-to-stay-calm-and-compose-during-a-your-job-interview.webp
 toc: true
 guid: /?p=572
 layout: post
