@@ -1,23 +1,24 @@
 ---
-id: 239
-title: Tips On How to Find a New Job After Being Fired
-date: 2021-10-13T16:29:00+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=239
-permalink: /how-to-find-a-new-job-after-being-laid-off/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/01/Tips-On-How-to-Find-a-New-Job-After-Being-Fired.jpg
+image: /assets/images/tips-on-how-to-find-a-new-job-after-being-fired.jpg
+toc: true
+guid: /?p=239
+layout: post
+author: PhCareer
+permalink: /how-to-find-a-new-job-after-being-laid-off/
+date: 2021-10-13T16:29:00+00:00
+title: Tips On How to Find a New Job After Being Fired
+comments: true
+id: 239
 categories:
   - Job Search
-  - Job Tips
- 
+  - Career Guide
+  - Job Hiring
 ---
 As several states react to the COVID-19 crisis by closing any non-essential enterprises, the national unemployment rate is growing, resulting in abrupt lay-offs of millions of employees.
 
