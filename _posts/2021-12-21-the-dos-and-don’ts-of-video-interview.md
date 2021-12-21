@@ -20,7 +20,7 @@ Video interview is here to stay, whether you like them or not. You must know wha
 
 ### **Check your background with some practice recordings**
 
-Because interviewers are aware that you are most likely doing this from home, don’t be concerned about having personal items in the backdrop. However, make sure you’re aware of your past and whether it implies the messaging and brand you want to convey. If at all possible, try to keep the number of items in the backdrop to a minimum. As a result, the interviewer will be able to concentrate more on their core subject—you!
+Because interviewers are aware that you are most likely[ working from home](/category/work-from-home/), don’t be concerned about having personal items in the backdrop. However, make sure you’re aware of your past and whether it implies the messaging and brand you want to convey. If at all possible, try to keep the number of items in the backdrop to a minimum. As a result, the interviewer will be able to concentrate more on their core subject—you!
 
 <br/><br/>
 
@@ -51,8 +51,6 @@ You’ll be on camera, so this should be a no-brainer. You should dress as profe
 You might want to position your camera or laptop such that you can stand up while using it. Make an effort to smile and maintain a cheerful attitude. The interviewers want to see your enthusiasm and enthusiasm. Practice answering inquiries while smiling and displaying attention if you’re like me and have a face that shows you’re deep in thinking.
 
 <br/><br/>
-
-
 
 ![The Dos and Don’ts of Video Interview](/assets/images/video-interview-tips.jpg)
 
@@ -93,7 +91,5 @@ Just because you did an out-of-the-box interview doesn’t mean you’re not res
 The dos and don’ts of video interviews are essentially the same as those of onsite interviews. The only difference is that you’re telling a camera about all of your skills and knowledge. It can be strange at first; you should absolutely perform some dry runs on camera before the interview to get used to being on camera.
 
 Also, do everything you can to distinguish yourself apart from the other interviewees: conduct the interview in a quiet environment, be prepared, communicate clearly and effectively, keep eye contact with the camera, and be prepared.
-
-
 
 <br/><br/>
