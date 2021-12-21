@@ -5,17 +5,19 @@ site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/11/IT-Consultant.jpg
+permalink: /career-guide-it-consultant-job-description/
 toc: true
 guid: /?p=1046
 layout: post
-author: PhCareer
-permalink: /career-guide-it-consultant-job-description/
-date: 2021-11-24T23:15:26+00:00
 title: "Career Guide: IT Consultant Job Description"
+image: /wp-content/uploads/2021/11/IT-Consultant.jpg
+categories:
+  - Management Consulting
+  - Information Technology
 comments: true
+author: PhCareer
+date: 2021-11-24T23:15:26+00:00
 id: 1046
-categories: Job Tips
 ---
 Analyzing and diagnosing a company&#8217;s security framework is part of an IT consultant job description. Client data has become a critical component of any large company that collects, stores, and transfers client data. Information security is a critical function in modern industries, from eCommerce initiatives that collect payment information to businesses with a broad network of clients and staff.
 
