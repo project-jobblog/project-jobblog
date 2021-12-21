@@ -81,11 +81,10 @@ sass:
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
 
-
 collections:
       - Work From Home
       - Job Search
-      - Jobns Hiring
+      - Job Hiring
       - Resume Guide
       - Engineering
       - Accounting
