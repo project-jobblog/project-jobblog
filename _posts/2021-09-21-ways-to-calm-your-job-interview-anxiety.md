@@ -45,7 +45,7 @@ So let&#8217;s talk about how to plan in a way that empowers you and reduces you
 
 No matter how much you want the job, it&#8217;s just a one-time chance. The fact that you get this job does not mean your whole future is in jeopardy. You don&#8217;t even have a good understanding of the job. Sure, it appears to be a good idea on paper, but it isn&#8217;t your only choice.
 
-From the perspective of the interviewer, enthusiasm is fine, but neediness can be uncomfortable. Consider it like a first date. You want to [make a good impression](e/tips-to-make-a-great-first-impression-on-your-first-day-of-work) and demonstrate the best qualities. You don&#8217;t want to come off as a possible bunny boiler who has yet to be asked out.
+From the perspective of the interviewer, enthusiasm is fine, but neediness can be uncomfortable. Consider it like a first date. You want to [make a good impression](/tips-to-make-a-great-first-impression-on-your-first-day-of-work/) and demonstrate the best qualities. You don&#8217;t want to come off as a possible bunny boiler who has yet to be asked out.
 
 Whatever happens, this interview will serve as a learning opportunity that will help you become a stronger job applicant and a more knowledgeable professional in the long run.
 
