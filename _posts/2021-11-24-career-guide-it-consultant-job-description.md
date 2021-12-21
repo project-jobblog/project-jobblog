@@ -14,6 +14,7 @@ image: /wp-content/uploads/2021/11/IT-Consultant.jpg
 categories:
   - Management Consulting
   - Information Technology
+  - Marketing
 comments: true
 author: PhCareer
 date: 2021-11-24T23:15:26+00:00
