@@ -1,22 +1,23 @@
 ---
-id: 136
-title: Things That Can Ruin Your Job Interview
-date: 2020-12-17T19:10:15+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=136
-permalink: /things-that-can-ruin-your-job-interview/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2020/12/Things-That-Can-Ruin-Your-Job-Interview.jpg
+permalink: /things-that-can-ruin-your-job-interview/
+toc: true
+guid: /?p=136
+layout: post
+title: Things That Can Ruin Your Job Interview
+image: /assets/images/ruin-your-job-interview.png
 categories:
   - Job Interview
- 
+  - Career Guide
+comments: true
+author: PhCareer
+date: 2020-12-17T19:10:15+00:00
+id: 136
 ---
 For several reasons, job candidates are rejected from job applications. Lying on your CV, hitting the top of the late list, unprepared or underprepared. Then there are people who are being overconfident and rude, destroy their chances, while some others are cast aside due to their lack of social skills or simply because they seem too nervous.
 
