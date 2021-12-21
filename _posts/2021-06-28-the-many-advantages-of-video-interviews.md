@@ -10,7 +10,7 @@ toc: true
 guid: /?p=735
 layout: post
 title: The Many Advantages of Video Interviews
-image: /wp-content/uploads/2021/06/video-interviews.jpg
+image: /assets/images/video-interviews.jpg
 categories:
   - Career Guides
   - Job Interview
