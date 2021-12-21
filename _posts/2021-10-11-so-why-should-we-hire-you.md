@@ -1,23 +1,23 @@
 ---
-id: 234
-title: 'How To Answer &#8220;Why Should I Hire You?&#8221;'
-date: 2021-10-11T16:11:00+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=234
-permalink: /so-why-should-we-hire-you/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/01/Why-Should-We-Hire-You-interview-question.jpg
+image: /assets/images/why-should-i-hire-you.jpg
+toc: true
+guid: /?p=234
+layout: post
+author: PhCareer
+permalink: /so-why-should-we-hire-you/
+date: 2021-10-11T16:11:00+00:00
+title: "How To Answer : Why Should I Hire You?"
+comments: true
+id: 234
 categories:
   - Job Search
-  - Job Tips
-
+  - Job Hiring
 ---
 It&#8217;s an interview question which can make the palms of any candidate sweat. It not only forces you to look inwardly and present arguments why you are amazing, but it can also build or destroy your chances of landing the job.
 
