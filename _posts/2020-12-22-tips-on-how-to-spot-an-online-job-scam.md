@@ -1,22 +1,24 @@
 ---
-id: 151
-title: Tips on How to Spot an Online Job Scam
-date: 2020-12-22T16:52:58+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=151
-permalink: /tips-on-how-to-spot-an-online-job-scam/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2020/12/Tips-on-How-to-Spot-an-Online-Job-Scam.jpg
+image: /assets/images/job-scam.jpg
+toc: true
+guid: /?p=151
+layout: post
+author: PhCareer
+permalink: /tips-on-how-to-spot-an-online-job-scam/
+date: 2020-12-22T16:52:58+00:00
+title: Tips on How to Spot an Online Job Scam
+comments: true
+id: 151
 categories:
-  - Job Tips
- 
+  - Career Guide
+  - Job Search
+  - Job Hiring
 ---
 Have you ever received a job offer out of the blue? Have you ever wondered if it&#8217;s a scam or a real one? Maybe you have good reason to be careful. In this tech-obsessed, always-on world, online fraud has become the new reality. Scammers continue to search for soft targets and their ploys are still vulnerable to job seekers.
 
