@@ -1,22 +1,22 @@
 ---
-id: 130
-title: High Paying Jobs that Makes Over $100,000 Per Year
-date: 2020-12-16T18:52:57+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=130
-permalink: /high-paying-jobs-that-make-over-100000-per-year/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2020/12/High-Paying-Jobs-that-Make-Over-100000-Per-Year-1.jpg
+image: /assets/images/high-paying-jobs.jpg
+toc: true
+guid: /?p=130
+layout: post
+author: PhCareer
+permalink: /high-paying-jobs-that-make-over-100000-per-year/
+date: 2020-12-16T18:52:57+00:00
+title: High Paying Jobs that Makes Over $100,000 Per Year
+comments: true
+id: 130
 categories:
   - Job Tips
- 
 ---
 In the healthcare, technology, and financial industries, the highest-paying workers are most frequently found. It requires many years of industry experience for several professionals before you have the credentials to be offered a high paying job. Early in your career, however, some positions pay well. While certain high paying jobs require long hours and significant decision-making, others require rigorous physical labor or team leadership.
 
