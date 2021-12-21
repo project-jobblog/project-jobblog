@@ -16,7 +16,8 @@ title: What to Expect in a Final Job Interview?
 comments: true
 id: 83
 categories:
-  - Job Tips
+  - Job Interview
+  - Job Hiring
 ---
 This article will instantly help if you&#8217;re planning for a final round work interview.
 
