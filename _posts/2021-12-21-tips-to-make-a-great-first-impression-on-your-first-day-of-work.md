@@ -3,8 +3,7 @@ layout: post
 title: Tips to Make a Great First Impression on Your First Day of Work
 image: /assets/images/make-a-good-impression-on-your-first-day.png
 categories:
-  - Job Hiring
-  - Job Interview
+  - Career Guide
 toc: true
 comments: true
 author: PhCareer
