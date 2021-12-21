@@ -83,7 +83,6 @@ exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
 
 collections:
-    name:
       - Work From Home
       - Job Search
       - Jobns Hiring
