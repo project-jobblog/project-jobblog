@@ -1,23 +1,24 @@
 ---
-id: 963
-title: Become A Graphic Designer With No Experience
-date: 2021-10-12T15:45:49+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=963
-permalink: /become-a-graphic-designer-with-no-experience/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/10/Become-A-Graphic-Designer-With-No-Experience-1.jpg
+image: /assets/images/become-a-graphic-designer-with-no-experience.jpg
+toc: true
+guid: /?p=963
+layout: post
+author: PhCareer
+permalink: /become-a-graphic-designer-with-no-experience/
+date: 2021-10-12T15:45:49+00:00
+title: Become A Graphic Designer With No Experience
+comments: true
+id: 963
 categories:
-  - freelance
-  - Graphic Design
-
+  - Graphic Designer
+  - Marketing
+  - Career Guide
 ---
 Graphic designers employ an aesthetic approach to create interesting pieces of content that compel consumers to take action, whether it&#8217;s an eye-catching Instagram post or a magazine ad for a local business. Perhaps you were inspired by the work of another designer, prompting you to look for this article!
 
