@@ -1,23 +1,23 @@
 ---
-id: 108
-title: What are the best jobs for over 50 years old professionals?
-date: 2020-12-10T18:01:44+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=108
-permalink: /what-are-the-best-jobs-for-over-50-years-old-professionals/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2020/12/jobsforover50.jpg
+permalink: /what-are-the-best-jobs-for-over-50-years-old-professionals/
+toc: true
+guid: /?p=108
+layout: post
+title: What are the best jobs for over 50 years old professionals?
+image: /assets/images/best-jobs-for-over-50.png
 categories:
-  - Career Guides
-  - Job Tips
- 
+  - Work From Home
+  - Job Search
+comments: true
+author: PhCareer
+date: 2020-12-10T18:01:44+00:00
+id: 108
 ---
 If you want to reenter the workforce after taking time off or want to try a new profession later in life, for individuals over 50, there are many satisfying employment opportunities. We will address the best occupations for over-50-year-olds in this post, along with average incomes and primary duties. A flexible or part-time work schedule is used in most of these occupations.
 
