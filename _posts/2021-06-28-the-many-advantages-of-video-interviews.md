@@ -1,23 +1,23 @@
 ---
-id: 735
-title: The Many Advantages of Video Interviews
-date: 2021-06-28T17:06:23+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=735
-permalink: /video-interview/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
+permalink: /video-interview/
+toc: true
+guid: /?p=735
+layout: post
+title: The Many Advantages of Video Interviews
 image: /wp-content/uploads/2021/06/video-interviews.jpg
 categories:
   - Career Guides
   - Job Interview
-
+comments: true
+author: PhCareer
+date: 2021-06-28T17:06:23+00:00
+id: 735
 ---
 Video interviews have been more popular in recent years as more companies recognize the value of including a visual element in the first stages of the recruitment process. Some people, on the other hand, haven&#8217;t felt obliged to use this method yet.
 
