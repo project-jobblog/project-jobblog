@@ -1,23 +1,23 @@
 ---
-id: 984
-title: Cover Letter Tips for New Freelancers
-date: 2021-10-20T21:41:19+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=984
-permalink: /cover-letter-tips-for-new-freelancers/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/10/Cover-Letter-Tips-for-New-Freelancers-1.jpg
+image: /assets/images/cover-letter-tips.jfif
+toc: true
+guid: /?p=984
+layout: post
+author: PhCareer
+permalink: /cover-letter-tips-for-new-freelancers/
+date: 2021-10-20T21:41:19+00:00
+title: Cover Letter Tips for New Freelancers
+comments: true
+id: 984
 categories:
   - Career Guides
   - freelance
- 
 ---
 **Cover Letter Tips for New Freelancers:** You&#8217;re not alone if you&#8217;ve opted to leave the full-time office grind (or if you&#8217;ve decided to bypass that choice entirely) and pursue the riskier but highly rewarding life of an independent contractor.
 
