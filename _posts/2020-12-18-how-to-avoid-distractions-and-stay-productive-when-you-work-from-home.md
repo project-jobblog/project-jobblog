@@ -1,23 +1,23 @@
 ---
-id: 141
-title: How to Avoid Distractions and Stay Productive When You Work from Home
-date: 2020-12-18T16:40:44+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=141
-permalink: /how-to-avoid-distractions-and-stay-productive-when-you-work-from-home/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2020/12/How-to-Avoid-Distractions-and-Stay-Productive-When-You-Work-from-Home.jpg
+permalink: /how-to-avoid-distractions-and-stay-productive-when-you-work-from-home/
+toc: true
+guid: /?p=141
+layout: post
+title: How to Avoid Distractions and Stay Productive When You Work from Home
+image: /assets/images/stay-productive-when-you-work-from-home.jpeg
 categories:
-  - Career Guides
-  - Job Tips
- 
+  - Work From Home
+  - Career Guide
+comments: true
+author: PhCareer
+date: 2020-12-18T16:40:44+00:00
+id: 141
 ---
 When working from home, does staying concentrated and efficient sound like a task? The [COVID-19 pandemic](https://www.google.com/search?q=COVID-19+pandemic&oq=COVID-19+pandemic) has forced us to work from home and it is not easy for all of us. What&#8217;s the way out then? When working from home, how can one remain concentrated and prevent distractions? Fortunately, there are some things still under our influence.
 
