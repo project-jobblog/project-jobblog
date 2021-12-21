@@ -1,22 +1,23 @@
 ---
-id: 199
-title: How to Turn Your Internship into a Full-time Job
-date: 2021-01-05T16:04:10+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=199
-permalink: /how-to-turn-your-internship-into-a-full-time-job/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/01/How-to-Turn-Your-Internship-into-a-Full-time-Job.jpg
+permalink: /how-to-turn-your-internship-into-a-full-time-job/
+toc: true
+guid: /?p=199
+layout: post
+title: How to Turn Your Internship into a Full-time Job
+image: /assets/images/full-time-job.webp
 categories:
-  - Full-time Job
- 
+  - Work From Home
+  - Career Guide
+comments: true
+author: PhCareer
+date: 2021-01-05T16:04:10+00:00
+id: 199
 ---
 Before taking those first steps down your career path, internships are a great way to gain practical, first-hand work experience. Not only are these experiences beneficial over time, but they also provide the ability to develop expertise and network with individuals employed in one&#8217;s chosen sector. Plus, it&#8217;s probably the perfect time to learn the most about your industry, while with a prospective employer having your foot in the door as well.
 
