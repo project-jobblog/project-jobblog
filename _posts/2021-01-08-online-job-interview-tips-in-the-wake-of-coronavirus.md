@@ -1,23 +1,23 @@
 ---
-id: 216
-title: Online Job Interview Tips in the Wake of Coronavirus
-date: 2021-01-08T16:35:20+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=216
-permalink: /online-job-interview-tips-in-the-wake-of-coronavirus/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/01/Online-Job-Interview-Tips-in-the-Wake-of-Coronavirus.jpg
+image: /assets/images/job-interview-tips-in-the-wake-of-coronavirus.jpg
+toc: true
+guid: /?p=216
+layout: post
+author: PhCareer
+permalink: /online-job-interview-tips-in-the-wake-of-coronavirus/
+date: 2021-01-08T16:35:20+00:00
+title: Online Job Interview Tips in the Wake of Coronavirus
+comments: true
+id: 216
 categories:
   - Job Interview
   - Work From Home
- 
 ---
 Coronavirus (COVID-19) may have slowed things around the world, but this has not stopped enterprises from finding new employees.
 
