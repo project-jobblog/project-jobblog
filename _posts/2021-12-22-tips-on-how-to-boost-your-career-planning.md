@@ -98,6 +98,10 @@ Take notes every time you accomplish something while you're working. After all, 
 
 <br/><br/>
 
+> **Related: [Common CV Mistakes You Must Avoid to Stay Updated](/common-cv-mistakes-you-must-avoid-to-stay-updated/)**
+
+<br/><br/>
+
 ### **Make a timetable**
 
 Now that you have your roadmap, it's time to add a crucial component: time. You can create a career timeline by determining when you want to complete each phase.
@@ -116,8 +120,6 @@ If learning a new talent, getting a degree, or getting more training is the firs
 
 > **Related:  [How to Learn New Skills for Your Resume](/how-to-learn-new-skills-for-your-resume/)**
 
-
-
 <br/><br/>
 
 ### **Rinse and Repeat**
@@ -132,4 +134,4 @@ Because you already have a firm foundation, going over it again often takes less
 
 Finally, career planning is a fantastic tool. It assists you in getting from where you are to where you desire to be. That's fantastic. Make career planning a habit, and you'll be able to stay on track or modify your course as needed. That is, in the end, the key to long-term success. You'll be flexible and open, allowing you to go forward with purpose rather than by chance.
 
-Best of luck!
+<br/><br/>
