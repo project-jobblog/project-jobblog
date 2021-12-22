@@ -37,9 +37,9 @@ Learning new skills at your own speed and in your own time is a terrific method 
 
 Many available positions look for candidates with professional certificates. You can add qualifications to your resume that will provide you an advantage in the recruiting process if you get qualified in an industry-specific sector.
 
-<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="700" height="525" src="/wp-content/uploads/2021/08/How-to-Learn-New-Skills-for-Your-Resume.jpg" alt="How to Learn New Skills for Your Resume" class="wp-image-858" srcset="/wp-content/uploads/2021/08/How-to-Learn-New-Skills-for-Your-Resume.jpg 700w, /wp-content/uploads/2021/08/How-to-Learn-New-Skills-for-Your-Resume-300x225.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /> </figure> 
+
+<img loading="lazy" width="700" height="525" src="/wp-content/uploads/2021/08/How-to-Learn-New-Skills-for-Your-Resume.jpg" alt="How to Learn New Skills for Your Resume" class="wp-image-858" srcset="/wp-content/uploads/2021/08/How-to-Learn-New-Skills-for-Your-Resume.jpg 700w, /wp-content/uploads/2021/08/How-to-Learn-New-Skills-for-Your-Resume-300x225.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /> 
 
 <blockquote class="wp-block-quote">
   <p>
