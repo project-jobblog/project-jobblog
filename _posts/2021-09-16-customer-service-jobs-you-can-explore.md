@@ -15,6 +15,7 @@ categories:
   - Human Resources
   - Telecommunications
   - Healthcare
+  - Finance
 comments: true
 author: PhCareer
 date: 2021-09-16T15:56:00+00:00
@@ -48,6 +49,6 @@ By nature, the healthcare industry has a variety of positions in customer servic
 
 Today, online travel agencies may be all the rage, but getting planning assistance from a live, breathing human will put the minds of people at ease. In the capacity of technical support, you might look into joining an online booking agent, or work at a conventional brick-and-mortar travel agency where you can aid people in any aspect of their journey, from drawing up itineraries to booking hotels, transportation, and other attractions. You should sign up with a virtual travel company if you prefer sporadic human contact as opposed to being fully absorbed in solving people&#8217;s travel woes.
 
-### Financial advisor
+### Financial Advisor
 
 If numbers are your calling, but you also love to give people a helping hand and make a difference in their lives, what you can do is take on a client-facing position in a financial institution like a bank. A number of finance work profiles enable you to communicate with consumers, such as private banking, which includes handling the funds of high net worth individuals, credits, as well as any positions that come under the front office&#8217;s influence (analyst, technical support, customer care).
