@@ -1,24 +1,24 @@
 ---
-id: 436
-title: 'Interview Question:  Why did you leave your last job?'
-date: 2021-03-11T17:45:30+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=436
-permalink: /interview-question-why-did-you-leave-your-last-job/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/03/Interview-Question-Why-did-you-leave-your-last-job-scaled.jpg
+permalink: /interview-question-why-did-you-leave-your-last-job/
+toc: true
+guid: /?p=436
+layout: post
+title: "Interview Question:  Why did you leave your last job?"
+image: /assets/images/interview-question-why-did-you-leave-your-last-job-scaled.jpg
 categories:
   - Job Interview
   - Job Search
   - Job Tips
-
+comments: true
+author: PhCareer
+date: 2021-03-11T17:45:30+00:00
+id: 436
 ---
 When looking for a new career, you should be prepared to justify why you&#8217;re a free agent to a hiring manager. some reasons you leave your job include &#8220;additional obligation, increased compensation, and relocation.&#8221; You may also justify your resume holes by claiming that you took time off to raise a family or return to school. After a period of economic hardship, even being laid off no longer carries the stigma it once did.
 
@@ -44,7 +44,7 @@ An interviewer should be happy with that answer if you have no other holes on yo
 
 ### **You had to leave to care for a family member or a health problem**
 
-Your responsibility to your wellbeing and loved ones is at the top of the list of good reasons to leave a job. Although you don&#8217;t have to go into detail if you took a [Family and Medical Leave Act](https://www.dol.gov/agencies/whd/fmla) and then didn&#8217;t return to work until your 12-week period expired, you can provide the interviewer with some main details.
+Your responsibility to your wellbeing and loved ones is at the top of the list of good reasons to leave a job. Although you don&#8217;t have to go into detail if you took a Family and Medical Leave Act and then didn&#8217;t return to work until your 12-week period expired, you can provide the interviewer with some main details.
 
 You should explain that this was a one-time problem that has now been fixed, and that the case does not represent a trend. A hiring manager won&#8217;t be concerned that they&#8217;ll hire you just to fire you after a few months.
 
@@ -60,9 +60,9 @@ Instead, say that you&#8217;ve hit your position&#8217;s growth limit and are re
 
 Here are a few more general tips to bear in mind if you&#8217;re resigning from a job for some reason:
 
-  * **Less is better in this case.** Give just enough details to justify why you&#8217;re leaving without going into too much detail.
-  * **Be truthful.** Although you should definitely frame your departure in a positive light, you can never outright lie about what happened.
-  * **Don&#8217;t stray from the subject.** Just share information that is important to the organization and role you are applying for.
+* **Less is better in this case.** Give just enough details to justify why you&#8217;re leaving without going into too much detail.
+* **Be truthful.** Although you should definitely frame your departure in a positive light, you can never outright lie about what happened.
+* **Don&#8217;t stray from the subject.** Just share information that is important to the organization and role you are applying for.
 
 ### **You didn&#8217;t agree with the ethics of your previous employer**
 
@@ -78,13 +78,13 @@ Then turn your attention on what you appreciate about the organization you&#8217
 
 <blockquote class="wp-block-quote">
   <p>
-    <strong>Also Read: <a href="/how-do-you-find-a-good-employer/">How Do You Find A Good Employer?</a></strong>*
+    <strong>Also Read: <a href="/how-do-you-find-a-good-employer/">How Do You Find A Good Employer?</a></strong>
   </p>
 </blockquote>
 
 ### **You were in need of a transition**
 
-Is it that you really couldn&#8217;t take what you were doing anymore that you&#8217;re changing careers? If that&#8217;s the case, that&#8217;s probably not the right way to explain that to a potential employer. Instead, say something like, &#8220;I&#8217;m looking for ways to put my newly learned [web design](https://www.webdevpl.us) skills to good use&#8221; or whatever new passion or old interest you want to tap into.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
+Is it that you really couldn&#8217;t take what you were doing anymore that you&#8217;re changing careers? If that&#8217;s the case, that&#8217;s probably not the right way to explain that to a potential employer. Instead, say something like, &#8220;I&#8217;m looking for ways to put my newly learned [web design](https://www.webdevpl.us) skills to good use&#8221; or whatever new passion or old interest you want to tap into.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\
 Again, potential employers are searching for consistency, so do your best to show that you&#8217;re not only applying for this job on the spur of the moment, but that you&#8217;ve done your homework and done your research to ensure that this is what you want.
 
 ### **Show off your abilities**
