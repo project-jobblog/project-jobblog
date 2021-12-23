@@ -1,18 +1,16 @@
 ---
-id: 701
-title: Types of Resume Format You Should Know
-date: 2021-06-17T19:46:43+00:00
-author: PhCareer
-layout: post
 toc: true
 guid: /?p=701
+layout: post
+title: Types of Resume Format You Should Know
+image: /assets/images/types-of-resume.jpg
 permalink: /types-of-resume-format-you-should-know/
-
-
-image: /wp-content/uploads/2021/06/types-of-resume.jpg
+author: PhCareer
+date: 2021-06-17T19:46:43+00:00
 categories:
-  - Resume Tips
-
+  - Resume Guide
+comments: true
+id: 701
 ---
 Wait, there are different types of resume? Yes, of course. In fact, there are three different sorts of resumes: chronological, functional, and a blend of the two. Let&#8217;s go over the basics of each kind and look at a specific example.
 
