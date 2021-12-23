@@ -1,23 +1,23 @@
 ---
-id: 230
-title: 'Productivity Tips  for a Better Workday'
-date: 2021-01-12T00:12:43+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=230
-permalink: /productivity-tips-for-a-better-workday/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/01/Productivity-Tips-for-a-Better-Workday.jpg
+permalink: /productivity-tips-for-a-better-workday/
+toc: true
+guid: /?p=230
+layout: post
+title: Productivity Tips  for a Better Workday
+image: /assets/images/productivity-tips-for-a-better-workday.jpg
 categories:
   - Career Guides
   - Work From Home
- 
+comments: true
+author: PhCareer
+date: 2021-01-12T00:12:43+00:00
+id: 230
 ---
 It&#8217;s not easy to keep focused at work. What&#8217;s worse &#8211; it takes you an hour for a job that should take 30 minutes as you continuously clear email and social media updates. Under all that ever-increasing workload, there are some individuals with an uncanny ability to get things done in every organization, and in time!
 
