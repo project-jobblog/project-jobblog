@@ -1,19 +1,17 @@
 ---
-id: 627
-title: Skills Needed to Become A Copywriter
-date: 2021-05-20T18:17:23+00:00
-author: PhCareer
-layout: post
 toc: true
 guid: /?p=627
+layout: post
+title: Skills Needed to Become A Copywriter
+image: /assets/images/copywriter.svg
 permalink: /skills-needed-to-become-a-copywriter/
-
-
-image: /wp-content/uploads/2021/05/copywriter.jpg
+author: PhCareer
+date: 2021-05-20T18:17:23+00:00
 categories:
-  - freelance
-  - Full-time Job
-
+  - Publishing
+  - Work From Home
+comments: true
+id: 627
 ---
 One of the most common career paths for arts and humanities graduates is copywriter. Although many copywriting positions require an essay-based degree, the demands of the work necessitate the development of basic writing skills that are not taught in formal education.
 
