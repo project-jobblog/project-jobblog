@@ -1,19 +1,16 @@
 ---
-id: 823
-title: 'Common Signs You&#8217;re in a Toxic Work Environment'
-date: 2021-07-29T20:17:49+00:00
-author: PhCareer
-layout: post
 toc: true
 guid: /?p=823
+layout: post
+title: Common Signs You&#8217;re in a Toxic Work Environment
+image: /assets/images/toxic-work-environment.png
 permalink: /common-signs-youre-in-a-toxic-work-environment/
-
-
-image: /wp-content/uploads/2021/07/Common-Signs-Youre-in-a-Toxic-Work-Environment.jpg
+author: PhCareer
+date: 2021-07-29T20:17:49+00:00
 categories:
-  - Employer
-  - Job Tips
-
+  - Career Guide
+comments: true
+id: 823
 ---
 Common Signs You&#8217;re in a Toxic Work Environment. Teams that are productive, joyful, and engaged have one thing in common: they operate in a pleasant, supportive, and healthy environment. Toxic work environments? They do appear to be a little different. Gossip, conflict, and poor communication are all too common in bad circumstances. So, how can you determine if toxicity is a problem at your company? Keep an eye out for warning signs of a toxic work environment and find out what you can do about it.
 
@@ -21,10 +18,10 @@ Common Signs You&#8217;re in a Toxic Work Environment. Teams that are productive
 
 No business owner wants to work in a harmful environment. It may result in:
 
-  * Misunderstandings
-  * Missed possibilities for growth
-  * Employee turnover is high.
-  * A smudge on one&#8217;s reputation
+* Misunderstandings
+* Missed possibilities for growth
+* Employee turnover is high.
+* A smudge on one&#8217;s reputation
 
 Toxic workplaces all have a few things in common. But if you know what to look for in a toxic work environment, you can halt them in their tracks before they do serious damage to your reputation. Here are toxic workplace warning signals to be aware of, as well as what you can do about them.
 
@@ -32,7 +29,7 @@ Toxic workplaces all have a few things in common. But if you know what to look f
 
 If staff seem to be dropping like flies, there&#8217;s probably a reason for that. High employee turnover may also be a result of workplace toxicity in specific situations. In fact, one out of every five employees has left their job because of a toxic work environment.
 
-If your staff turnover rate is increasing, do some research to figure out why. Maybe it&#8217;s because of low pay or benefits, a lack of [work-life balance](/category/work-life-balance/), or limited prospects for advancement.
+If your staff turnover rate is increasing, do some research to figure out why. Maybe it&#8217;s because of low pay or benefits, a lack of work-life balance, or limited prospects for advancement.
 
 During an exit interview, ask questions to learn why employees are leaving. That way, you can pinpoint issues and determine whether high turnover is due to a hostile work environment.
 
@@ -50,10 +47,10 @@ When it comes to running a business, communication is crucial. However, if you a
 
 Take a glance around to see whether you have bad communication. Consider the following questions:
 
-  * Do you and your team have mutual trust?
-  * Is there a lot of conflict?
-  * How do employees interact with one another?
-  * Do you communicate effectively with your coworkers?
+* Do you and your team have mutual trust?
+* Is there a lot of conflict?
+* How do employees interact with one another?
+* Do you communicate effectively with your coworkers?
 
 You should also consider other issues such as project communication, time management, and priority alignment.
 
@@ -63,10 +60,10 @@ Gossipy conduct, cliques, and exclusion are all signs of a toxic work environmen
 
 So, how can you determine if your workplace is becoming toxic and gossip is out of hand? Keep a lookout for the following:
 
-  * Aggressive passive-aggressive statements
-  * An increase in workplace tension and drama
-  * Whispering
-  * Unfavorable body language
+* Aggressive passive-aggressive statements
+* An increase in workplace tension and drama
+* Whispering
+* Unfavorable body language
 
 Gossiping can create not only upset feelings but can also lower staff morale and force workers to leave your company.
 
@@ -82,10 +79,10 @@ Another sign that your workplace is toxic is a lack of motivation among your cow
 
 So, how do you tell whether or not your team is motivated? Keep an eye out for:
 
-  * Work quality has deteriorated
-  * A rise in absences
-  * A shift in mindset
-  * Inability to concentrate
+* Work quality has deteriorated
+* A rise in absences
+* A shift in mindset
+* Inability to concentrate
 
 Remember that just because your team isn&#8217;t motivated doesn&#8217;t mean your environment is unhealthy. However, it never hurts to double-check that it isn&#8217;t toxic and to take action if it is.
 
@@ -105,11 +102,11 @@ So, how is your company performing in terms of expansion? Are you suffocating yo
 
 You may help employees grow at work by:
 
-  * Provide employees with training sessions
-  * Inquire about employees&#8217; career aspirations.
-  * Provide staff with resources
-  * Provide educational support
-  * Make expansion plans
-  * Work with employees as mentors
+* Provide employees with training sessions
+* Inquire about employees&#8217; career aspirations.
+* Provide staff with resources
+* Provide educational support
+* Make expansion plans
+* Work with employees as mentors
 
 The more you can do to assist your team in developing and succeeding, the better. Employee growth also equals more growth for your business, so it&#8217;s a win-win situation.
