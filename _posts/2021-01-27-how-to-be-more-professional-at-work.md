@@ -1,22 +1,22 @@
 ---
-id: 287
-title: How to Be More Professional at Work
-date: 2021-01-27T17:53:06+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=287
-permalink: /how-to-be-more-professional-at-work/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/01/How-to-Be-More-Professional-at-Work.jpg
+permalink: /how-to-be-more-professional-at-work/
+toc: true
+guid: /?p=287
+layout: post
+title: How to Be More Professional at Work
+image: /assets/images/how-to-be-more-professional-at-work.webp
 categories:
-  - Job Tips
- 
+  - Career Guide
+comments: true
+author: PhCareer
+date: 2021-01-27T17:53:06+00:00
+id: 287
 ---
 It is crucial that you always carry yourself with professionalism and grace in the workplace, regardless of where you work, especially considering how it can affect your chances of getting ahead in the business. Even if you work with only two other workers in a small startup, professionalism is crucial, we&#8217;ve compiled a list of useful tips about how to be professional at work.
 
