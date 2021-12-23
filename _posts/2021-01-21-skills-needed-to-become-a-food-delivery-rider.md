@@ -1,23 +1,23 @@
 ---
-id: 268
-title: Skills Needed to Become a Food Delivery Rider
-date: 2021-01-21T18:26:16+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=268
-permalink: /skills-needed-to-become-a-food-delivery-rider/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/01/Skills-Needed-to-Become-a-Food-Delivery-Rider.jpg
+permalink: /skills-needed-to-become-a-food-delivery-rider/
+toc: true
+guid: /?p=268
+layout: post
+title: Skills Needed to Become a Food Delivery Rider
+image: /assets/images/skills-needed-to-become-a-food-delivery-rider.jpg
 categories:
   - Full-time Job
   - Job Search
-
+comments: true
+author: PhCareer
+date: 2021-01-21T18:26:16+00:00
+id: 268
 ---
 
 
