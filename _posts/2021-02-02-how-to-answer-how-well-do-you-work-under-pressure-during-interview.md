@@ -19,32 +19,32 @@ All jobs involve some degree of pressure, whether it is meeting goals, meeting d
 
 **The following tips will assist you to answer &#8220;How Well Do You Work Under Pressure?&#8221;**
 
-### **_Emphasize How You Handle Stress_**
+### ***Emphasize How You Handle Stress***
 
 Employers recognize that work may be stressful from time to time and are well aware of the impact that overstressed and overworked workers have on their companies, which is exactly why they are searching for applicants who can implement realistic tactics under pressure. Your answer should convey the ability to remain concentrated during a major crisis on the task at hand, and certainly not how stressful.
 
-### **_Relate your response to Real-Life Experiences_**
+### ***Relate your response to Real-Life Experiences***
 
 That is to say, not truth fabrications. Your response should communicate the ability to prioritize and assess several different tasks at once, efficiently manage your own time, think clearly in a situation, and choose the most cost-effective and time-effective solution, so make sure this is communicated by your response. If you are new to the world of work and have no experience to draw on, talking about a difficult situation in other areas of life, such as test cycles or times of family tension, is completely okay.
 
 It&#8217;s important that you apply it to the position you&#8217;re interviewing for, however, whatever you want to speak about, i.e.: talk about how the specific experience will help you excel in the job, and make sure you don&#8217;t get too personal.
 
-### **_Reflect on a time when you have been struggling with outside forces pressure_**
+### ***Reflect on a time when you have been struggling with outside forces pressure***
 
 Never, ever talk of a time when it was a direct product of your own behavior to feel pressured. Even if you came through in the end, employers will just see you as a detriment to their business and you become slim to none of the chances of hiring. Having said that, don&#8217;t point fingers, either. Alternatively, speak about a time when the burden was a result of something beyond your, or someone else&#8217;s, control, such as an elevated number of shoppers if you work in retail, for example, and make sure you explain how your common sense, initiative, forward-thinking and problem-solving skills helped you handle the unique situation.
 
-### **_Talk About How You Succeed Under Pressure_**
+### ***Talk About How You Succeed Under Pressure***
 
 It&#8217;s important to note that your end-goal here is to ensure that employers are perfectly capable of managing stuff when things get rough and that in demanding times your job performance is not impeded. By reflecting on a situation where you were under huge pressure and describing how you rose to the occasion, you can do this.
 
-## **_Sample Responses: &#8220;How Well Do You Work Under Pressure?&#8221;_**
+## ***Sample Responses: &#8220;How Well Do You Work Under Pressure?&#8221;***
 
 When the time comes to tell employers how well you can work under pressure, check out the following examples for inspiration.
 
-  * In my current job, I constantly work under pressure and I believe I have become a stronger, more productive worker because of it. For example, when I work with an unsatisfied client, I can concentrate on the task at hand rather than feeling stressed. I believe that during these cases, my ability to connect effectively with clients helps alleviate my own stress as well as any stress that the client can experience.
-  * The pressure is still on in my role as an [SEO specialist](https://www.webdevpl.us). There are deadlines to be met and there is a constant workload. But, by having a comprehensive schedule, I am able to easily and efficiently organize my work into small tasks and complete projects.
-  * Under different deadlines and projects, I am able to prosper. I once had to work on three big [computer engineering job](/highest-paying-it-jobs-in-2021/) projects, for instance, which were all due in the same week. However, I was able to finish all three tasks ahead of time and prevent any undue stress by prioritizing my duties, collaborating effectively with my colleagues and putting in additional effort.
-  * It helps me to be motivated and productive by getting several different tasks to work on or an imminent deadline to meet. The answer is not to panic, but to stay focused on my very best execution. It helps me to channel my energy into performing tasks effectively and without problems.
+* In my current job, I constantly work under pressure and I believe I have become a stronger, more productive worker because of it. For example, when I work with an unsatisfied client, I can concentrate on the task at hand rather than feeling stressed. I believe that during these cases, my ability to connect effectively with clients helps alleviate my own stress as well as any stress that the client can experience.
+* The pressure is still on in my role as an [SEO specialist](https://www.webdevpl.us). There are deadlines to be met and there is a constant workload. But, by having a comprehensive schedule, I am able to easily and efficiently organize my work into small tasks and complete projects.
+* Under different deadlines and projects, I am able to prosper. I once had to work on three big [computer engineering job](/high-paying-tech-jobs-in-2021/) projects, for instance, which were all due in the same week. However, I was able to finish all three tasks ahead of time and prevent any undue stress by prioritizing my duties, collaborating effectively with my colleagues and putting in additional effort.
+* It helps me to be motivated and productive by getting several different tasks to work on or an imminent deadline to meet. The answer is not to panic, but to stay focused on my very best execution. It helps me to channel my energy into performing tasks effectively and without problems.
 
 <blockquote class="wp-block-quote">
   <p>
@@ -52,24 +52,23 @@ When the time comes to tell employers how well you can work under pressure, chec
   </p>
 </blockquote>
 
-
 <figure class="wp-block-image size-large">
 
 <img loading="lazy" width="545" height="357" src="/wp-content/uploads/2021/02/work-under-pressure.png" alt="work under pressure" class="wp-image-309" srcset="/wp-content/uploads/2021/02/work-under-pressure.png 545w, /wp-content/uploads/2021/02/work-under-pressure-300x197.png 300w" sizes="(max-width: 545px) 100vw, 545px" /> </figure> 
 
-## **_Mistakes and Answers to Avoid During Interview_**
+## ***Mistakes and Answers to Avoid During Interview***
 
 Yes, mistakes are supposed to be made and, yes, we&#8217;re just human, but it can be devastating to make even the slightest mistake in an interview. However, because we want to see you excel and land your dream career, while addressing this unique interview question, here are some things you need to avoid:
 
-### **_Saying You Never Feel Pressured_**
+### ***Saying You Never Feel Pressured***
 
 But don&#8217;t try to trick the hiring manager into believing that you are-they won&#8217;t fall for it. You&#8217;re not perfect. At least once in your working life, you&#8217;ve no doubt felt stressed, so use it to your advantage.
 
-### **_Concentrating about how stress has made you feel_**
+### ***Concentrating about how stress has made you feel***
 
 It is a [job interview](/category/job-interview/), not a therapy session, after all. The interviewer does not care about your emotions; they are only interested in learning if in demanding circumstances you are able to work effectively.
 
-### **_Talking about a moment when you put yourself in a stressful situation_**
+### ***Talking about a moment when you put yourself in a stressful situation***
 
 For example, this might be procrastinating if you were supposed to work on an important report. You&#8217;ll always be seen as lazy and untrustworthy even though you came through in the end and submitted the report by the defined deadline.
 
