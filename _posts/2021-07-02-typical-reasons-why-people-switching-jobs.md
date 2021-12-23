@@ -1,18 +1,17 @@
 ---
-id: 753
-title: Typical Reasons Why People Switching Jobs
-date: 2021-07-02T17:11:29+00:00
-author: PhCareer
-layout: post
 toc: true
 guid: /?p=753
+layout: post
+title: Typical Reasons Why People Switching Jobs
+image: /assets/images/switching-jobs.png
 permalink: /typical-reasons-why-people-switching-jobs/
-
-
-image: /wp-content/uploads/2021/07/Switching-Jobs.jpg
+author: PhCareer
+date: 2021-07-02T17:11:29+00:00
 categories:
-  - Job Tips
-
+  - Job Search
+  - Career Guide
+comments: true
+id: 753
 ---
 Switching jobs frequently necessitates transferring your skills and expertise to a new career or workplace. Perhaps you&#8217;re an web developer who wants to branch out into nonprofit tech services. Perhaps you&#8217;re a teacher who wants to try your hand at writing for a change.
 
