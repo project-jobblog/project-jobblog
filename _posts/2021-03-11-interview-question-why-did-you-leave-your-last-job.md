@@ -10,7 +10,7 @@ toc: true
 guid: /?p=436
 layout: post
 title: "Interview Question:  Why did you leave your last job?"
-image: /wp-content/uploads/2021/03/Interview-Question-Why-did-you-leave-your-last-job-scaled.jpg
+image: /assets/images/interview-question-why-did-you-leave-your-last-job-scaled.jpg
 categories:
   - Job Interview
   - Job Search
