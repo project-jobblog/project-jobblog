@@ -66,7 +66,7 @@ Prepare strong interview responses to common phone interview questions, such as:
 </blockquote>
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large"><img loading="lazy" width="500" height="330" src="/wp-content/uploads/2021/06/How-to-Succeed-in-Your-Phone-Job-Interview.jpg" alt="How to Succeed in Your Phone Job Interview" class="wp-image-692" srcset="/wp-content/uploads/2021/06/How-to-Succeed-in-Your-Phone-Job-Interview.jpg 500w, /wp-content/uploads/2021/06/How-to-Succeed-in-Your-Phone-Job-Interview-300x198.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
+  <figure class="aligncenter size-large"><img loading="lazy" src="/wp-content/uploads/2021/06/How-to-Succeed-in-Your-Phone-Job-Interview.jpg" alt="How to Succeed in Your Phone Job Interview" class="wp-image-692" srcset="/wp-content/uploads/2021/06/How-to-Succeed-in-Your-Phone-Job-Interview.jpg 500w, /wp-content/uploads/2021/06/How-to-Succeed-in-Your-Phone-Job-Interview-300x198.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
 </div>
 
 ### **Get some practice with your phone interview**
