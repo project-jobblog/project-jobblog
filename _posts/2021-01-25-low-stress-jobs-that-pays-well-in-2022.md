@@ -1,22 +1,23 @@
 ---
-id: 279
-title: Low-Stress Jobs That Pays Well in 2022
-date: 2021-01-25T17:39:59+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=279
-permalink: /low-stress-jobs-that-pays-well-in-2022/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/01/Low-Stress-Jobs-That-Pays-Well-in-2021.jpg
+permalink: /low-stress-jobs-that-pays-well-in-2022/
+toc: true
+guid: /?p=279
+layout: post
+title: Low-Stress Jobs That Pays Well in 2022
+image: /assets/images/low-stress-jobs-that-pays-well-in-2022.jpg
 categories:
   - Job Search
- 
+  - Biotech
+comments: true
+author: PhCareer
+date: 2021-01-25T17:39:59+00:00
+id: 279
 ---
 
 Like most working people, a large portion of your time is typically consumed by your career. As such, you probably want to spend your time in a rewarding career and in a business that addresses your goals. You may be interested in moving professions to one of several low-stress jobs if your current work creates undue stress because of hours, company culture, or other factors.
