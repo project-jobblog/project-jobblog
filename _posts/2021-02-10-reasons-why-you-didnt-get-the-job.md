@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=335
 permalink: /reasons-why-you-didnt-get-the-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/02/Reasons-Why-You-Didnt-Get-the-Job.jpg
 categories:
   - Career Guides

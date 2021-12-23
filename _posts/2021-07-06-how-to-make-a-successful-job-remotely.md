@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=762
 permalink: /how-to-make-a-successful-job-remotely/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/07/How-to-Make-a-Successful-Job-Remotely.jpg
 categories:
   - Remote Jobs

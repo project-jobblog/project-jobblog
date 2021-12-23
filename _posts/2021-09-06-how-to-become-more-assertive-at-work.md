@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=911
 permalink: /how-to-become-more-assertive-at-work/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/09/assertive-at-work.jpg
 categories:
   - Career Guides

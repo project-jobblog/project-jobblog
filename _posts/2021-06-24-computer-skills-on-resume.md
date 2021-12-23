@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=724
 permalink: /computer-skills-on-resume/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/06/computer-skills-1.jpg
 categories:
   - IT jobs

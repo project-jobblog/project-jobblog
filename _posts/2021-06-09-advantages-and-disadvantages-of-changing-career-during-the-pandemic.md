@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=678
 permalink: /advantages-and-disadvantages-of-changing-career-during-the-pandemic/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/06/Changing-Career-During-the-Pandemic.jpg
 categories:
   - Career Guides

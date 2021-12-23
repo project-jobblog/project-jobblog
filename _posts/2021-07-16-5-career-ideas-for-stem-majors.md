@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=790
 permalink: /5-career-ideas-for-stem-majors/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/07/5-Career-Ideas-for-STEM-Majors-1.jpg
 categories:
   - Career Guides

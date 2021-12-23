@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /assets/images/cover-letter-tips.jfif
 toc: true
 guid: /?p=984

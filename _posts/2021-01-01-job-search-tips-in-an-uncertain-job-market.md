@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=181
 permalink: /job-search-tips-in-an-uncertain-job-market/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/01/How-Has-Coronavirus-Impacted-the-Job-Market-scaled.jpeg
 categories:
   - Job Tips

@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=316
 permalink: /how-to-stay-calm-during-a-job-interview/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/02/How-To-Stay-Calm-During-A-Stressful-Job-Interview.jpg
 categories:
   - Job Interview

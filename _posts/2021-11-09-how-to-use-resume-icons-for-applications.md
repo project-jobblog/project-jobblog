@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 permalink: /how-to-use-resume-icons-for-applications/
 toc: true
 guid: /?p=1024

@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=861
 permalink: /the-benefits-and-drawbacks-of-coworking-spaces/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/08/The-Benefits-and-Drawbacks-of-Coworking-Spaces.jpg
 categories:
   - Job Search

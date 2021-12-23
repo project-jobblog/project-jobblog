@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=687
 permalink: /how-to-include-volunteer-experience-on-your-resume/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/06/How-to-Include-Volunteer-Experience-on-Your-Resume.jpeg
 categories:
   - Cover Letter

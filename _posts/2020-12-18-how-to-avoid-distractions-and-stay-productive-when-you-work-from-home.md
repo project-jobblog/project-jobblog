@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 permalink: /how-to-avoid-distractions-and-stay-productive-when-you-work-from-home/
 toc: true
 guid: /?p=141

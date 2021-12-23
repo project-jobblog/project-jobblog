@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=682
 permalink: /must-have-expertise-to-land-a-successful-advertising-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/06/advertising.jpg
 categories:
   - Full-time Job

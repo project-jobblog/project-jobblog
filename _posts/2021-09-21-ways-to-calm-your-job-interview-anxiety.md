@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /assets/images/how-to-stay-calm-and-compose-during-a-your-job-interview.webp
 toc: true
 guid: /?p=572

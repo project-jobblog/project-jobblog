@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=177
 permalink: /how-to-make-the-jump-from-freelance-to-full-time-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2020/12/How-to-make-the-jump-from-freelance-to-full-time.png
 categories:
   - Job Tips

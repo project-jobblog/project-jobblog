@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: ?p=507
 permalink: /best-entry-level-media-communications-jobs/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/04/Best-Entry-Level-Media-Communications-Jobs-scaled.jpg
 categories:
   - Job Tips

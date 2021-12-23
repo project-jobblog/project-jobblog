@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=432
 permalink: /is-digital-marketing-a-good-career-in-2021/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/Is-Digital-Marketing-a-Good-Career-in-2021.jpg
 categories:
   - Career Guides

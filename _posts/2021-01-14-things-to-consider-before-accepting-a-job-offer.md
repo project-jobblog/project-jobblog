@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 permalink: /things-to-consider-before-accepting-a-job-offer/
 toc: true
 guid: /?p=244

@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=581
 permalink: /tips-on-how-to-improve-your-mental-health-at-work/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/04/Tips-on-How-to-Improve-Your-Mental-Health-at-Work.jpg
 categories:
   - Career Guides

@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 permalink: /career-guide-it-consultant-job-description/
 toc: true
 guid: /?p=1046

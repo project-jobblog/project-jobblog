@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=379
 permalink: /questions-to-ask-yourself-before-relocating-for-a-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/02/Questions-to-Ask-Yourself-Before-Relocating-for-a-Job.jpg
 categories:
   - Job Interview

@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=358
 permalink: /perfect-high-paying-jobs-for-fashion-lovers/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/02/Perfect-High-Paying-Jobs-for-Fashion-Lovers-1.jpg
 categories:
   - Full-time Job

@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=637
 permalink: /how-to-become-a-more-successful-job-seeker/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/05/How-to-Become-a-More-Successful-Job-Seeker.jpg
 categories:
   - Job Search

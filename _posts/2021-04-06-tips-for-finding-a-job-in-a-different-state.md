@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=525
 permalink: /tips-for-finding-a-job-in-a-different-state/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/04/Tips-for-Finding-a-Job-in-a-Different-State-1.jpg
 categories:
   - Job Search

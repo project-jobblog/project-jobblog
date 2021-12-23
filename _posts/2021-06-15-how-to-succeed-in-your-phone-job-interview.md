@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=691
 permalink: /how-to-succeed-in-your-phone-job-interview/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/06/How-to-Succeed-in-Your-Phone-Job-Interview-1.jpg
 categories:
   - Career Guides

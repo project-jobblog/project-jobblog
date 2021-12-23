@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 permalink: /interview-question-why-did-you-leave-your-last-job/
 toc: true
 guid: /?p=436

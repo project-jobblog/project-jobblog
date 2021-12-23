@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=348
 permalink: /the-fastest-growing-remote-jobs-in-2021/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/02/The-Fastest-Growing-Remote-jobs-in-2021-1.jpg
 categories:
   - Remote Jobs

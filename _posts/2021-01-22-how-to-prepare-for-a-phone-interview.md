@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 permalink: /how-to-prepare-for-a-phone-interview/
 toc: true
 guid: /?p=274

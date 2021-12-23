@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=554
 permalink: /things-you-need-to-know-to-become-a-real-estate-agent/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/04/Things-You-Need-To-Know-to-Become-a-Real-Estate-Agent.jpg
 categories:
   - Job Search

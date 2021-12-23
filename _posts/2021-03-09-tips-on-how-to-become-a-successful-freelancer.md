@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=426
 permalink: /tips-on-how-to-become-a-successful-freelancer/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/Tips-on-How-to-Become-a-Successful-Freelancer.jpg
 categories:
   - freelance

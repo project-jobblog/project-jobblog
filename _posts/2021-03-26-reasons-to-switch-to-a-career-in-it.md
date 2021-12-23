@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=491
 permalink: /reasons-to-switch-to-a-career-in-it/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/Reasons-to-Switch-to-a-Career-in-IT.jpg
 categories:
   - IT jobs

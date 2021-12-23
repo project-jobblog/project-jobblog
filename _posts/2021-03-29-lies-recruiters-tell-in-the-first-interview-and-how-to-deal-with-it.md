@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=497
 permalink: /lies-recruiters-tell-in-the-first-interview-and-how-to-deal-with-it/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/Lies-Recruiters-Tell-in-the-First-Interview-.jpg
 categories:
   - Career Guides

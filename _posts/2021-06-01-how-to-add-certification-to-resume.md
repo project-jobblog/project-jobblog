@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=658
 permalink: /how-to-add-certification-to-resume/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/06/How-to-Add-Certification-to-Resume.jpg
 categories:
   - Cover Letter

@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=602
 permalink: /how-to-overcome-a-bad-day-at-work/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/05/How-to-Overcome-A-Bad-Day-At-Work-1.jpg
 categories:
   - Career Guides

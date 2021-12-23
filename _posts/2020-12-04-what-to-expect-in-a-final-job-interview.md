@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2020/12/how-to-answer-common-interview-questions-best.jpg
 toc: true
 guid: /?p=83

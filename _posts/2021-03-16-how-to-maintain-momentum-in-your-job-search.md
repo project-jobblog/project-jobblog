@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=450
 permalink: /how-to-maintain-momentum-in-your-job-search/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/How-To-Maintain-Momentum-In-Your-Job-Search.jpg
 categories:
   - Career Guides

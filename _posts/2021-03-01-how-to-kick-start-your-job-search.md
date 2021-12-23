@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=398
 permalink: /how-to-kick-start-your-job-search/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/How-to-Kick-Start-Your-Job-Search.jpg
 categories:
   - Job Offer

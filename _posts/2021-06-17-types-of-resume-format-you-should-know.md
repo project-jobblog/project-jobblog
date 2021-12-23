@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=701
 permalink: /types-of-resume-format-you-should-know/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/06/types-of-resume.jpg
 categories:
   - Resume Tips

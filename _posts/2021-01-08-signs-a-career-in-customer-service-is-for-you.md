@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 permalink: /signs-a-career-in-customer-service-is-for-you/
 toc: true
 guid: /?p=220

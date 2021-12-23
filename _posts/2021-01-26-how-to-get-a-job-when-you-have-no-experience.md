@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=283
 permalink: /how-to-get-a-job-when-you-have-no-experience/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/01/How-to-Get-a-Job-When-You-Have-No-Experience-1.jpg
 categories:
   - Job Search

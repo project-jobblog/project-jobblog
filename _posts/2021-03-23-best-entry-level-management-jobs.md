@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=474
 permalink: /best-entry-level-management-jobs/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/Best-Entry-Level-Management-Jobs.jpg
 categories:
   - agricultural manager

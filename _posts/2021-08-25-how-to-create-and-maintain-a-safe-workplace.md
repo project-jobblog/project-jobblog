@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=881
 permalink: /how-to-create-and-maintain-a-safe-workplace/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/08/Safe-Workplace.jpg
 categories:
   - Employer

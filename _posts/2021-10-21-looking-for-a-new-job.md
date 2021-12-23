@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=988
 permalink: /looking-for-a-new-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/10/Why-Are-You-Looking-for-a-New-Job-scaled.jpg
 categories:
   - Job Interview

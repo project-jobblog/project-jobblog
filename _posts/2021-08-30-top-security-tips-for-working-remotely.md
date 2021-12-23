@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=899
 permalink: /top-security-tips-for-working-remotely/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/08/Top-Security-Tips-for-Working-Remotely.jpg
 categories:
   - Remote Jobs

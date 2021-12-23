@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=297
 permalink: /how-to-overcome-job-search-biggest-challenges/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/01/How-to-Overcome-Job-Search-Biggest-Challenges.jpg
 categories:
   - Job Tips

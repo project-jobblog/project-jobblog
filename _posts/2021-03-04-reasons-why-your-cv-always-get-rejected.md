@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=411
 permalink: /reasons-why-your-cv-always-get-rejected/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/Reasons-Why-your-CV-Always-Get-Rejected.jpg
 categories:
   - Job Search

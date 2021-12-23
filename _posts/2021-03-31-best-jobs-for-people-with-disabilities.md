@@ -6,12 +6,8 @@ author: PhCareer
 layout: post
 toc: true
 permalink: /best-jobs-for-people-with-disabilities/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/Best-Jobs-for-People-with-Disabilities.jpg
 categories:
   - Career Guides

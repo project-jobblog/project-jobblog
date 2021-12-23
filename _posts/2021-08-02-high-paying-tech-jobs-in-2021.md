@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=304
 permalink: /high-paying-tech-jobs-in-2021/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/02/high-paying-tech-jobs.jpg
 categories:
   - Full-time Job

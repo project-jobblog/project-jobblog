@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=809
 permalink: /what-companies-are-looking-for-in-a-new-hire/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/07/What-Companies-Are-Looking-for-in-a-New-Hire.jpg
 categories:
   - Career Guides

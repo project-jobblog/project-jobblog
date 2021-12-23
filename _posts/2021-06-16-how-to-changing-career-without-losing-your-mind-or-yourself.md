@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=695
 permalink: /how-to-changing-career-without-losing-your-mind-or-yourself/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/06/Changing-Career-Without-Losing-Your-Mind-Or-Yourself-1.jpg
 categories:
   - Job Offer

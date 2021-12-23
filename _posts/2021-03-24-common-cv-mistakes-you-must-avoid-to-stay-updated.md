@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=483
 permalink: /common-cv-mistakes-you-must-avoid-to-stay-updated/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/Common-CV-Mistakes-You-Must-Avoid-to-Stay-Updated-1.jpg
 categories:
   - Career Guides

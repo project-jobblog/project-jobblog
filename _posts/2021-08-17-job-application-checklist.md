@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=454
 permalink: /job-application-checklist/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/Job-Application-Checklist-2.jpg
 categories:
   - Full-time Job

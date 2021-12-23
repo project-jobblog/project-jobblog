@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 permalink: /what-are-the-best-jobs-for-over-50-years-old-professionals/
 toc: true
 guid: /?p=108

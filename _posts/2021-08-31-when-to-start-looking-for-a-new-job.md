@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=903
 permalink: /when-to-start-looking-for-a-new-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/08/start-looking-for-a-new-job.jpg
 categories:
   - Job Offer

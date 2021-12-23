@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=613
 permalink: /low-stress-remote-jobs-for-working-parents/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/05/Low-Stress-Remote-Jobs-For-Working-Parents-1.jpg
 categories:
   - Career Guides

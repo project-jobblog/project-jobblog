@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=827
 permalink: /interview-question-how-do-you-describe-yourself-in-one-sentence/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/07/How-do-you-Describe-yourself-In-One-Sentence-1.jpg
 categories:
   - Job Interview

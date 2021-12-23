@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /assets/images/why-job-hunters-prefer-messaging-over-calling.png
 toc: true
 guid: /?p=956

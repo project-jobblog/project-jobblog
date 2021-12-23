@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=402
 permalink: /how-to-land-your-remote-dream-job-in-3-simple-steps/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/How-To-Land-Your-Remote-Dream-Job-in-3-Simple-Steps.jpg
 categories:
   - Remote Jobs

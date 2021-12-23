@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=996
 permalink: /nursing-resume-how-to-write-an-entry-level-resume/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/10/Nursing-Resume-1.jpg
 categories:
   - Medical

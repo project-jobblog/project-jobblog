@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=537
 permalink: /how-to-avoid-employment-and-job-scams/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/04/How-to-Avoid-Employment-And-Job-Scams-1.jpg
 categories:
   - Career Guides

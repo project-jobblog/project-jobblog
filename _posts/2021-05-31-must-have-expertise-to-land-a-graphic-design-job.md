@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=652
 permalink: /must-have-expertise-to-land-a-graphic-design-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/05/Must-Have-Expertise-to-Land-A-Graphic-Design-Job.jpg
 categories:
   - Graphic Design

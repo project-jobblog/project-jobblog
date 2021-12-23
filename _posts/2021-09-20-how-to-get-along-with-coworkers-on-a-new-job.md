@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=937
 permalink: /how-to-get-along-with-coworkers-on-a-new-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/09/How-to-Get-Along-with-Coworkers-On-A-New-Job.jpg
 categories:
   - Job Tips

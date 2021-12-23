@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=188
 permalink: /most-popular-digital-marketing-jobs-in-the-united-states/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/01/What-Is-Digital-Marketing.jpg
 categories:
   - Job Interview

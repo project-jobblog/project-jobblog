@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=648
 permalink: /things-you-should-never-say-during-a-job-interview/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/05/Things-You-Should-Never-Say-During-a-Job-Interview-1.jpg
 categories:
   - Job Interview

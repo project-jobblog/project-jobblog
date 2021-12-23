@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 permalink: /how-to-get-a-job-at-18-with-no-experience/
 toc: true
 guid: /?p=205

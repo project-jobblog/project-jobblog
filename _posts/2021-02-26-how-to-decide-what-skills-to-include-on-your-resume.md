@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=392
 permalink: /how-to-decide-what-skills-to-include-on-your-resume/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/02/How-To-Decide-What-Skills-To-Include-On-Your-Resume.jpg
 categories:
   - Job Interview

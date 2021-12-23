@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 permalink: /skill-to-have-to-land-a-job-in-retail/
 toc: true
 guid: /?p=312

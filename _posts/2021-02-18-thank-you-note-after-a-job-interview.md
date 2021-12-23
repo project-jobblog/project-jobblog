@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=365
 permalink: /thank-you-note-after-a-job-interview/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/02/Thank-You-Note-After-a-Job-Interview.jpg
 categories:
   - Job Interview

@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=786
 permalink: /common-signs-youre-underpaid-at-your-current-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/07/Common-Signs-Youre-Underpaid-at-Your-Current-Job-1.jpg
 categories:
   - Career Guides

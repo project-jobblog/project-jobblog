@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 permalink: /the-benefits-and-drawbacks-of-telecommuting/
 toc: true
 guid: /?p=75

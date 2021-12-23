@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=663
 permalink: /how-to-apply-for-the-best-summer-jobs/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/06/best-summer-jobs.jpg
 categories:
   - freelance

@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=407
 permalink: /flexible-jobs/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/Top-10-Jobs-with-Flexible-Working-Hours.jpg
 categories:
   - Job Search

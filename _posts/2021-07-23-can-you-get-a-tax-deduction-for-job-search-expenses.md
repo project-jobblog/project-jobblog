@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=805
 permalink: /can-you-get-a-tax-deduction-for-job-search-expenses/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/07/Can-You-Get-a-Tax-Deduction-for-Job-Search-Expenses-1.jpg
 categories:
   - Career Guides

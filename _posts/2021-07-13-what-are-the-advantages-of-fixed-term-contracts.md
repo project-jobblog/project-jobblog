@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=777
 permalink: /what-are-the-advantages-of-fixed-term-contracts/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/07/What-Are-The-Advantages-of-Fixed-Term-Contracts.jpg
 categories:
   - Career Guides

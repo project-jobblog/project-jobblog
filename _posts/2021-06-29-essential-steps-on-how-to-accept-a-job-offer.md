@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=741
 permalink: /essential-steps-on-how-to-accept-a-job-offer/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/06/how-to-accept-a-job-offer-1024x576-1.jpg
 categories:
   - Job Offer

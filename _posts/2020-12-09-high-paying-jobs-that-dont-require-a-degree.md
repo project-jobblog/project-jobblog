@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=97
 permalink: /high-paying-jobs-that-dont-require-a-degree/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2020/12/High-Paying-Jobs-That-Dont-Require-a-Degree.jpg
 categories:
   - Career Guides

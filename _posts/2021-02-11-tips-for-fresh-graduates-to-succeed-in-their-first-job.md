@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=340
 permalink: /tips-for-fresh-graduates-to-succeed-in-their-first-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/02/Tips-for-Fresh-Graduates-to-Succeed-in-Their-First-Job.jpg
 categories:
   - Career Guides

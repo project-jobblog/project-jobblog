@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=818
 permalink: /best-work-from-home-jobs-for-military-spouses/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/07/Best-Work-From-Home-Jobs-for-Military-Spouses.jpg
 categories:
   - Work From Home

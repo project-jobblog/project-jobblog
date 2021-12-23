@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=757
 permalink: /returning-to-offices-will-require-new-rules/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/07/Returning-to-Offices-Will-Require-New-Rules.jpg
 categories:
   - Career Guides

@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=623
 permalink: /how-to-find-your-first-job-after-college/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/05/How-To-Find-Your-First-Job-After-College-scaled.jpg
 categories:
   - Job Search

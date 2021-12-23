@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=823
 permalink: /common-signs-youre-in-a-toxic-work-environment/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/07/Common-Signs-Youre-in-a-Toxic-Work-Environment.jpg
 categories:
   - Employer

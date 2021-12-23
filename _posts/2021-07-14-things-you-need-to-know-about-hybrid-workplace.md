@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=781
 permalink: /things-you-need-to-know-about-hybrid-workplace/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/07/Things-You-Need-To-Know-About-Hybrid-Workplace.jpg
 categories:
   - Career Guides

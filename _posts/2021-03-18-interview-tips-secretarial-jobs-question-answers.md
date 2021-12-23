@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=458
 permalink: /interview-tips-secretarial-jobs-question-answers/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/Secretarial-Job-Question-and-Answers.jpg
 categories:
   - Career Guides

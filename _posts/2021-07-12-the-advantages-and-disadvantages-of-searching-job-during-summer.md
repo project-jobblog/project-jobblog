@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=772
 permalink: /the-advantages-and-disadvantages-of-searching-job-during-summer/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/07/The-Advantages-and-Disadvantages-of-Searching-Job-During-Summer.jpg
 categories:
   - Job Tips

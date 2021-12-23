@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=1038
 permalink: /tips-tools-and-approach-for-remote-working/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/11/Remote-Working.png
 categories:
   - Work From Home

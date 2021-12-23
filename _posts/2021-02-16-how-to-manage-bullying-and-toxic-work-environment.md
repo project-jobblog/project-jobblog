@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=354
 permalink: /how-to-manage-bullying-and-toxic-work-environment/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/02/How-to-Manage-Bullying-and-Toxic-Work-Environment.jpg
 categories:
   - Job Tips

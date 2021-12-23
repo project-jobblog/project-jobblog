@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=922
 permalink: /how-to-deal-with-rejections-during-the-job-search/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/09/How-to-Deal-with-Rejections-During-the-Job-Search.jpg
 categories:
   - Job Search

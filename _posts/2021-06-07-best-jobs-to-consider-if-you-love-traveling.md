@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=667
 permalink: /best-jobs-to-consider-if-you-love-traveling/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/06/Best-Jobs-To-Consider-If-You-Love-Traveling.jpg
 categories:
   - freelance

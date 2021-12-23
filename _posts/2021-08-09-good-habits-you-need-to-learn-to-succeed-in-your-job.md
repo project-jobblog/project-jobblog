@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=848
 permalink: /good-habits-you-need-to-learn-to-succeed-in-your-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/08/Good-Habits-You-Need-to-Learn-to-Succeed-in-Your-Job-1.jpg
 categories:
   - Career Guides

@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=251
 permalink: /how-to-organize-your-job-search/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/01/Tips-on-How-To-Organized-When-Searching-For-A-Job.jpg
 categories:
   - Job Search

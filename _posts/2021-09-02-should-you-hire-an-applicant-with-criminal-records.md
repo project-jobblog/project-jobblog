@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=907
 permalink: /should-you-hire-an-applicant-with-criminal-records/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/09/Hire-An-Applicant-With-Criminal-Records-1.jpg
 categories:
   - Job Tips

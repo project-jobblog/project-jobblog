@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=321
 permalink: /why-do-hard-skills-matter/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/02/Why-do-Hard-Skills-Matter.jpg
 categories:
   - Career Guides

@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=1009
 permalink: /tips-on-hiring-the-right-employee/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/10/Hiring-the-Right-Employee.jpg
 categories:
   - Employer

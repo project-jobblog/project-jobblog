@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=440
 permalink: /guides-on-how-to-land-a-clerical-job-youll-love/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/personal-assistant-job-description.jpg
 categories:
   - Job Tips

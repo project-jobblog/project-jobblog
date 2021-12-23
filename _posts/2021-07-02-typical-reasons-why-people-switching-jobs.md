@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=753
 permalink: /typical-reasons-why-people-switching-jobs/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/07/Switching-Jobs.jpg
 categories:
   - Job Tips

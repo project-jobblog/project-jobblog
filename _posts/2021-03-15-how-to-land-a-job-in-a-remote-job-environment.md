@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=445
 permalink: /how-to-land-a-job-in-a-remote-job-environment/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/How-to-Land-A-Job-In-A-Remote-Job-Environment.jpg
 categories:
   - Remote Jobs

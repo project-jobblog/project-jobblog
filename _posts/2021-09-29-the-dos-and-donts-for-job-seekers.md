@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=947
 permalink: /the-dos-and-donts-for-job-seekers/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/09/The-Dos-and-Donts-for-Job-Seekers.png
 categories:
   - Job Interview

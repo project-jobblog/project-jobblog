@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=463
 permalink: /where-to-apply-a-job-to-make-a-great-career/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/Where-to-Apply-a-Job-to-Make-a-Great-Career.jpg
 categories:
   - Career Guides

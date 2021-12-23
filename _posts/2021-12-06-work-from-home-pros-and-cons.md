@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=1069
 permalink: /work-from-home-pros-and-cons/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/12/The-Pros-and-Cons-of-Work-from-Home.png
 categories:
   - Work From Home

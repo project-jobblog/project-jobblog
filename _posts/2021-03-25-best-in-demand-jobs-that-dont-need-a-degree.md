@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=487
 permalink: /best-in-demand-jobs-that-dont-need-a-degree/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/Best-In-Demand-Jobs-That-Dont-Need-a-Degree.jpg
 categories:
   - Career Guides

@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=291
 permalink: /what-to-do-when-a-job-offer-is-withdrawn/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/01/What-to-Do-When-a-Job-Offer-Is-Withdrawn.jpg
 categories:
   - Job Interview

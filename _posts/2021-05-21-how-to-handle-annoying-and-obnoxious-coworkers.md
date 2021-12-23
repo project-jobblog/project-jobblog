@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=632
 permalink: /how-to-handle-annoying-and-obnoxious-coworkers/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/05/How-to-Handle-Annoying-and-Obnoxious-Coworkers.jpg
 categories:
   - Career Guides

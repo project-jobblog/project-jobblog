@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=542
 permalink: /how-to-answer-interview-questions-about-weakness/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/04/How-To-Answer-Interview-Questions-About-Weakness.jpg
 categories:
   - Career Guides

@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 permalink: /low-stress-jobs-that-pays-well-in-2022/
 toc: true
 guid: /?p=279

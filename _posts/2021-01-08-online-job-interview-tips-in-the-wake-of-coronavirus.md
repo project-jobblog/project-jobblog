@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /assets/images/job-interview-tips-in-the-wake-of-coronavirus.jpg
 toc: true
 guid: /?p=216

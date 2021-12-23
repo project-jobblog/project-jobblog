@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=1005
 permalink: /high-paying-jobs-for-high-school-graduates/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/10/High-Paying-Jobs-for-High-School-Graduates-1.jpg
 categories:
   - Career Guides

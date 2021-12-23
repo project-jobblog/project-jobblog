@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=1064
 permalink: /safe-workplace-culture/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/12/How-to-Create-A-Safe-Workplace-Culture-1.jpg
 categories:
   - Employer

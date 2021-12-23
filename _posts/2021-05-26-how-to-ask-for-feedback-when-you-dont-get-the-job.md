@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=642
 permalink: /how-to-ask-for-feedback-when-you-dont-get-the-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/05/Ask-for-Feedback-When-You-Dont-Get-the-Job-1.jpg
 categories:
   - Job Interview

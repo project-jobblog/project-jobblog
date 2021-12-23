@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=157
 permalink: /simple-ways-to-deal-with-stress-at-work/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/08/stress-at-work.jpg
 categories:
   - Career Guides

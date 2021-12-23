@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=117
 permalink: /common-mistakes-to-avoid-when-applying-for-a-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2020/12/Common-Mistakes-to-Avoid-When-Applying-for-a-Job.jpg
 categories:
   - Career Guides

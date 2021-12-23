@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=308
 permalink: /how-to-answer-how-well-do-you-work-under-pressure-during-interview/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/02/Work-Pressure.jpg
 categories:
   - Career Guides

@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=618
 permalink: /the-importance-of-job-satisfaction/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/05/Job-Satisfaction.jpg
 categories:
   - Career Guides

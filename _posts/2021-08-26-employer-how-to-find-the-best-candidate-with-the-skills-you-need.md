@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=888
 permalink: /employer-how-to-find-the-best-candidate-with-the-skills-you-need/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/08/How-to-Find-the-Best-Candidate-With-the-Skills-You-Need.jpg
 categories:
   - Career Guides

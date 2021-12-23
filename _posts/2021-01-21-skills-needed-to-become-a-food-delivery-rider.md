@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 permalink: /skills-needed-to-become-a-food-delivery-rider/
 toc: true
 guid: /?p=268

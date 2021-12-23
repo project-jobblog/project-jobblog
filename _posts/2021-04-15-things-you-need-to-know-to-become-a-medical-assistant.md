@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=558
 permalink: /things-you-need-to-know-to-become-a-medical-assistant/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/04/Things-You-Need-To-Know-to-Become-a-Medical-Assistant.jpg
 categories:
   - Medical

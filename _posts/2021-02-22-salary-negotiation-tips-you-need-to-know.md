@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=375
 permalink: /salary-negotiation-tips-you-need-to-know/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/02/Salary-Negotiation.jpg
 categories:
   - Job Offer

@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=1000
 permalink: /potential-reasons-why-you-cant-get-a-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/10/cant-get-a-job.jpg
 categories:
   - Career Guides

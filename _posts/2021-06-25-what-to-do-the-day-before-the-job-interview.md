@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=729
 permalink: /what-to-do-the-day-before-the-job-interview/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/06/day-before-the-job-interview-scaled.jpg
 categories:
   - Job Interview

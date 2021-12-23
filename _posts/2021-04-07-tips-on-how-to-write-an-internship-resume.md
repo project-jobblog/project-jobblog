@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=532
 permalink: /tips-on-how-to-write-an-internship-resume/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/04/Tips-on-How-to-Write-an-Internship-Resume.jpg
 categories:
   - Job Tips

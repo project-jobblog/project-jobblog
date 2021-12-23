@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=892
 permalink: /how-to-prepare-for-internet-downtime-when-you-are-working-from-home/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/08/Internet-Downtime-When-You-Are-Working-From-Home.jpg
 categories:
   - Job Tips

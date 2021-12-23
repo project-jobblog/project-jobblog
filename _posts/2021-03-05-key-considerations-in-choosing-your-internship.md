@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=416
 permalink: /key-considerations-in-choosing-your-internship/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/03/Key-Considerations-in-Choosing-Your-Internship.jpg
 categories:
   - Career Guides

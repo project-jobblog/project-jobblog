@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: ?p=518
 permalink: /how-to-prioritize-tasks-and-manage-your-time/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/04/How-to-Prioritize-Tasks-and-Manage-Your-Time.jpg
 categories:
   - Career Guides

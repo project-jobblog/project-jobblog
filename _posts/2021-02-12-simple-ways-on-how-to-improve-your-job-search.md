@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=344
 permalink: /simple-ways-on-how-to-improve-your-job-search/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/02/Simple-Ways-on-How-to-Improve-Your-Job-Search.jpg
 categories:
   - Career Guides

@@ -1,10 +1,6 @@
 ---
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /assets/images/tips-on-how-to-find-a-new-job-after-being-fired.jpg
 toc: true
 guid: /?p=239

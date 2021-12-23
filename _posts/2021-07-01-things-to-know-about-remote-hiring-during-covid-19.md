@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=383
 permalink: /things-to-know-about-remote-hiring-during-covid-19/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/02/Remote-Hiring-During-COVID-19.jpg
 categories:
   - Career Guides

@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=1013
 permalink: /how-to-adjust-to-a-new-workplace/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/11/How-to-Adjust-to-a-New-Workplace-1.jpg
 categories:
   - Job Tips

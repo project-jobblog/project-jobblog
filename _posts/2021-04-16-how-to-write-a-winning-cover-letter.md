@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=564
 permalink: /how-to-write-a-winning-cover-letter/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/04/How-To-Write-A-Winning-Cover-Letter.jpg
 categories:
   - Cover Letter

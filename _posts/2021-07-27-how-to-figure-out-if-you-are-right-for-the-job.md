@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=264
 permalink: /how-to-figure-out-if-you-are-right-for-the-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/01/How-To-Find-That-One-Perfect-Job.jpg
 categories:
   - Job Search

@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=387
 permalink: /heres-why-you-are-struggling-to-find-a-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/02/Heres-Why-You-Are-Struggling-To-Find-A-Job-1.jpg
 categories:
   - Career Guides

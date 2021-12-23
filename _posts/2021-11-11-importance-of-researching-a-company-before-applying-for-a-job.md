@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=1028
 permalink: /importance-of-researching-a-company-before-applying-for-a-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/11/Importance-of-Researching-a-Company-Before-Applying-For-a-Job.jpg
 categories:
   - Career Guides

@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=926
 permalink: /guides-to-help-you-shift-to-a-hybrid-workplace/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/09/Guides-To-Help-You-Shift-to-a-Hybrid-Workplace-1.jpg
 categories:
   - Hybrid Workplace

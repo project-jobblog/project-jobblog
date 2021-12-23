@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=607
 permalink: /signs-that-you-need-a-new-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/05/Signs-that-You-Need-a-New-Job-1.jpg
 categories:
   - Career Guides

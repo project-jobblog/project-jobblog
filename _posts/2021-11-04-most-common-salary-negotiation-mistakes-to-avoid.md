@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=195
 permalink: /most-common-salary-negotiation-mistakes-to-avoid/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/01/how-to-negotiation-higher-salary-for-new-job.jpg
 categories:
   - Job Interview

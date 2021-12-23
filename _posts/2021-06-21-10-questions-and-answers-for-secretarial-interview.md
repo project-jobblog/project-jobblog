@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=712
 permalink: /10-questions-and-answers-for-secretarial-interview/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/06/Secretarial-Interviews.jpg
 categories:
   - Job Interview

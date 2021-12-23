@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=746
 permalink: /tips-on-how-to-find-entry-level-job/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/06/entry-level-job.jpg
 categories:
   - Career Guides

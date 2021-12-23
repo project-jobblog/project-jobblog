@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=842
 permalink: /how-to-create-a-professional-resume-that-stands-out/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/08/How-to-Create-a-Professional-Resume.jpg
 categories:
   - Career Guides

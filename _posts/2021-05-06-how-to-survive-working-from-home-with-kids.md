@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=594
 permalink: /how-to-survive-working-from-home-with-kids/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/05/Working-From-Home-With-Kids.jpg
 categories:
   - Work From Home

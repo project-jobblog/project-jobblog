@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=167
 permalink: /how-to-make-your-workplace-more-fun/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2020/12/workplace.png
 categories:
   - Career Guides

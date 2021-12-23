@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=708
 permalink: /interview-question-what-is-your-biggest-motivation/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/06/What-Is-Your-Biggest-Motivation-1.png
 categories:
   - Career Guides

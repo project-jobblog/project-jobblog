@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=162
 permalink: /where-to-apply-to-make-a-great-career/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2020/12/Interview-Preparation-1.jpg
 categories:
   - Career Guides

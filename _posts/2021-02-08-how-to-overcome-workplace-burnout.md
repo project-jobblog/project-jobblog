@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=327
 permalink: /how-to-overcome-workplace-burnout/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/02/office-burnout.jpg
 categories:
   - Career Guides

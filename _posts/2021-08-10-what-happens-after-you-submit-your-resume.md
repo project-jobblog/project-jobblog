@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=853
 permalink: /what-happens-after-you-submit-your-resume/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/08/What-Happens-After-You-Submit-Your-Resume.jpg
 categories:
   - Job Interview

@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=585
 permalink: /dos-and-donts-when-you-are-an-overqualified-job-seeker/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/04/Overqualified.jpg
 categories:
   - Career Guides

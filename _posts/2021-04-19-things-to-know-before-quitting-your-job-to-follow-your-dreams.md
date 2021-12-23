@@ -7,12 +7,8 @@ layout: post
 toc: true
 guid: /?p=568
 permalink: /things-to-know-before-quitting-your-job-to-follow-your-dreams/
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
+
+
 image: /wp-content/uploads/2021/04/Things-to-Know-Before-Quitting-Your-Job-to-Follow-Your-Dreams-1.jpg
 categories:
   - Job Tips
