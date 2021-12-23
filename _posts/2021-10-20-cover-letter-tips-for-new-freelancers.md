@@ -50,7 +50,7 @@ Make sure your future employers know you&#8217;re familiar with all facets of yo
 
 ### **Develop a culture of trust**
 
-Employers&#8217; main worries when [hiring a freelancer](https://www.jobssearches.org/searches/keyword-freelance/location-united-states) to execute short or long-term work are usually related to skill level and reliability. They want someone who can complete the job according to their exact specifications and who will not abandon the project before it is completed. This demands a lot of trust and risk, so keep in mind that your bosses are searching for someone they can rely on. Write clearly, assertively, and believe in yourself and your abilities—if you believe you can produce what is expected of you, your employers will as well.
+Employers&#8217; main worries when hiring a freelance to execute short or long-term work are usually related to skill level and reliability. They want someone who can complete the job according to their exact specifications and who will not abandon the project before it is completed. This demands a lot of trust and risk, so keep in mind that your bosses are searching for someone they can rely on. Write clearly, assertively, and believe in yourself and your abilities—if you believe you can produce what is expected of you, your employers will as well.
 
 
 

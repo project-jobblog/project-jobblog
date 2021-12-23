@@ -46,7 +46,7 @@ An interviewer should be happy with that answer if you have no other holes on yo
 
 Your responsibility to your wellbeing and loved ones is at the top of the list of good reasons to leave a job. Although you don&#8217;t have to go into detail if you took a [Family and Medical Leave Act](https://www.dol.gov/agencies/whd/fmla) and then didn&#8217;t return to work until your 12-week period expired, you can provide the interviewer with some main details.
 
-You should explain that this was a one-time problem that has now been fixed, and that the case does not represent a trend. A [hiring manager](https://www.jobssearches.org/searches/keyword-hiring-manager/location-united-states) won&#8217;t be concerned that they&#8217;ll hire you just to fire you after a few months.
+You should explain that this was a one-time problem that has now been fixed, and that the case does not represent a trend. A hiring manager won&#8217;t be concerned that they&#8217;ll hire you just to fire you after a few months.
 
 <div class="wp-block-image">
   <figure class="aligncenter size-large"><img loading="lazy" width="800" height="533" src="/wp-content/uploads/2021/03/Why-did-you-leave-your-last-job.jpg" alt="Why did you leave your last job?" class="wp-image-437" srcset="/wp-content/uploads/2021/03/Why-did-you-leave-your-last-job.jpg 800w, /wp-content/uploads/2021/03/Why-did-you-leave-your-last-job-300x200.jpg 300w, /wp-content/uploads/2021/03/Why-did-you-leave-your-last-job-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>

@@ -23,7 +23,7 @@ Trust. A basic five-letter word with the ability to make or break any relationsh
 
 According to the [survey](https://www.edelman.com/sites/g/files/aatuss191/files/2020-01/2020%20Edelman%20Trust%20Barometer%20Global%20Report.pdf), 76 percent of workers trust their employers. You want to be a part of that 76 percent as a job seeker, but how do you do it? It&#8217;s difficult to tell whether you can trust an organization before you start working for them.
 
-Here are methods you can use during your [job search](http://jobssearches.org/) to determine whether or not each potential employer is trustworthy:
+Here are methods you can use during your job search to determine whether or not each potential employer is trustworthy:
 
 ### **During an interview, ask the right questions**
 
