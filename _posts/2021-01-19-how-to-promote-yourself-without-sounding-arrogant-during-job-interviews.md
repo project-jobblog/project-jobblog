@@ -1,23 +1,23 @@
 ---
-id: 259
-title: How to Promote Yourself Without Sounding Arrogant During Job Interviews
-date: 2021-01-19T16:18:44+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=259
-permalink: /how-to-promote-yourself-without-sounding-arrogant-during-job-interviews/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/01/How-to-Promote-Yourself-Without-Sounding-Arrogant-During-Job-Interviews.jpg
+permalink: /how-to-promote-yourself-without-sounding-arrogant-during-job-interviews/
+toc: true
+guid: /?p=259
+layout: post
+title: How to Promote Yourself Without Sounding Arrogant During Job Interviews
+image: /assets/images/how-to-promote-yourself-without-sounding-arrogant-during-job-interviews.jpg
 categories:
   - Job Interview
   - Job Tips
-
+comments: true
+author: PhCareer
+date: 2021-01-19T16:18:44+00:00
+id: 259
 ---
 Although social media is filled with humble-bragging, it is difficult for many individuals to speak in a face-to-face conversation about their performance. You want to show your very best side when going to a job interview, though, but you don&#8217;t want to show off—and yet, you don&#8217;t want to be too modest.
 
