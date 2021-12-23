@@ -10,7 +10,7 @@ toc: true
 guid: /?p=312
 layout: post
 title: Skill to Have to Land a Job in Retail
-image: /wp-content/uploads/2021/02/Skill-to-Have-to-Land-a-Job-in-Retail.jpg
+image: /assets/images/skill-to-have-to-land-a-job-in-retail.jpg
 categories:
   - Retail
   - Job Search
