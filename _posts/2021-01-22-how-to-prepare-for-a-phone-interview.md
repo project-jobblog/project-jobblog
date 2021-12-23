@@ -1,23 +1,23 @@
 ---
-id: 274
-title: How to Prepare for A Phone Interview?
-date: 2021-01-22T16:49:24+00:00
-author: PhCareer
-layout: post
-toc: true
-guid: /?p=274
-permalink: /how-to-prepare-for-a-phone-interview/
 site-sidebar-layout:
   - default
 site-content-layout:
   - default
 theme-transparent-header-meta:
   - default
-image: /wp-content/uploads/2021/01/How-to-Prepare-for-A-Phone-Interview.jpg
+permalink: /how-to-prepare-for-a-phone-interview/
+toc: true
+guid: /?p=274
+layout: post
+title: How to Prepare for A Phone Interview?
+image: /assets/images/how-to-prepare-for-a-phone-interview.jpg
 categories:
   - Job Interview
   - Job Search
-
+comments: true
+author: PhCareer
+date: 2021-01-22T16:49:24+00:00
+id: 274
 ---
 
 
