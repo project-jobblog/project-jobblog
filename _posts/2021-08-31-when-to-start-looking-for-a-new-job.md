@@ -1,20 +1,18 @@
 ---
-id: 903
-title: When to Start Looking For a New Job?
-date: 2021-08-31T20:09:59+00:00
-author: PhCareer
-layout: post
 toc: true
 guid: /?p=903
+layout: post
+title: When to Start Looking For a New Job?
+image: /assets/images/new-job.webp
 permalink: /when-to-start-looking-for-a-new-job/
-
-
-image: /wp-content/uploads/2021/08/start-looking-for-a-new-job.jpg
+author: PhCareer
+date: 2021-08-31T20:09:59+00:00
 categories:
   - Job Offer
   - Job Search
   - Job Tips
-
+comments: true
+id: 903
 ---
 Some people may wish to start looking for a new job or advance to a higher level. Some people may desire a more stable income or career, while others may be attempting to strike a balance between work and personal life. The reasons could be numerous, but whatever the case, it is prudent to consider a few points before quitting or beginning your job search.
 
