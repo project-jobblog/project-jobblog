@@ -1,19 +1,18 @@
 ---
-id: 308
-title: 'How to Answer &#8220;How Well Do You Work Under Pressure?&#8221; During Interview'
-date: 2021-02-02T17:06:29+00:00
-author: PhCareer
-layout: post
 toc: true
 guid: /?p=308
+layout: post
+title: How to Answer &#8220;How Well Do You Work Under Pressure?&#8221; During
+  Interview
+image: /assets/images/work-under-pressure.webp
 permalink: /how-to-answer-how-well-do-you-work-under-pressure-during-interview/
-
-
-image: /wp-content/uploads/2021/02/Work-Pressure.jpg
+author: PhCareer
+date: 2021-02-02T17:06:29+00:00
 categories:
   - Career Guides
   - Job Interview
- 
+comments: true
+id: 308
 ---
  
 All jobs involve some degree of pressure, whether it is meeting goals, meeting deadlines, or performing several tasks at once-some jobs are worse than others, for example, surgeons or firefighters. In other words, the ability to work under pressure is a skill highly sought after by employers, and it is, therefore, crucial that you have a response that shows that in challenging and stressful circumstances you are completely capable of maintaining your composure.
