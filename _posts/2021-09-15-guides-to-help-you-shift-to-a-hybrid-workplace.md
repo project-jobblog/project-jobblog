@@ -1,20 +1,18 @@
 ---
-id: 926
-title: Guides To Help You Shift to a Hybrid Workplace
-date: 2021-09-15T17:25:41+00:00
-author: PhCareer
-layout: post
 toc: true
 guid: /?p=926
+layout: post
+title: Guides To Help You Shift to a Hybrid Workplace
+image: /assets/images/hybrid-workplace.png
 permalink: /guides-to-help-you-shift-to-a-hybrid-workplace/
-
-
-image: /wp-content/uploads/2021/09/Guides-To-Help-You-Shift-to-a-Hybrid-Workplace-1.jpg
+author: PhCareer
+date: 2021-09-15T17:25:41+00:00
 categories:
   - Hybrid Workplace
   - Work From Home
   - Workplace
-
+comments: true
+id: 926
 ---
 Guides To Help You Shift to a Hybrid Workplace: Many non-essential personnel has had to shift to working remotely since the outbreak began. New obstacles arose as a result of the transition, including navigating virtual meetings and re-creating an effective workstation from home. As the pandemic progresses, some businesses have decided to return to the office 100 percent of the time, while others have adopted a fully remote policy and are considering a hybrid work style.
 
