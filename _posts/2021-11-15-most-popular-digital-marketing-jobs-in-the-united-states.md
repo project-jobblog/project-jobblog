@@ -1,20 +1,17 @@
 ---
-id: 188
-title: Popular Digital Marketing jobs in The United States (2021)
-date: 2021-11-15T16:20:00+00:00
-author: PhCareer
-layout: post
 toc: true
 guid: /?p=188
-permalink: /most-popular-digital-marketing-jobs-in-the-united-states/
-
-
+layout: post
+title: Popular Digital Marketing jobs in The United States (2022)
 image: /wp-content/uploads/2021/01/What-Is-Digital-Marketing.jpg
+permalink: /most-popular-digital-marketing-jobs-in-the-united-states/
+author: PhCareer
+date: 2021-11-15T16:20:00+00:00
 categories:
   - Job Interview
-  - Job Tips
-  - Marketing Jobs
- 
+  - Marketing
+comments: true
+id: 188
 ---
 Many companies/enterprises have switched to a digital medium, generating a lot of employment in the United States in digital marketing. Technology is being used to ease the changes that systems and companies have to deal with.
 
