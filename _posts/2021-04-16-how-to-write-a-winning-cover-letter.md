@@ -1,20 +1,17 @@
 ---
-id: 564
-title: How To Write A Winning Cover Letter
-date: 2021-04-16T18:14:26+00:00
-author: PhCareer
-layout: post
 toc: true
 guid: /?p=564
+layout: post
+title: How To Write A Winning Cover Letter
+image: /assets/images/cover-letter.jfif
 permalink: /how-to-write-a-winning-cover-letter/
-
-
-image: /wp-content/uploads/2021/04/How-To-Write-A-Winning-Cover-Letter.jpg
+author: PhCareer
+date: 2021-04-16T18:14:26+00:00
 categories:
-  - Cover Letter
   - Job Search
-  - Job Tips
-
+  - Resume Guide
+comments: true
+id: 564
 ---
 When you apply for a position, your cover letter is like a handshake—how it&#8217;s you introduce yourself to employers. It should be solid, concise, and make a [great first impression](/how-to-make-a-great-impression-at-work/), just like a good handshake.
 
