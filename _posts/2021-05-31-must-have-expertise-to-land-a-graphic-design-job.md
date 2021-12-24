@@ -1,18 +1,17 @@
 ---
-id: 652
-title: Must-Have Expertise to Land A Graphic Design Job
-date: 2021-05-31T23:10:01+00:00
-author: PhCareer
-layout: post
 toc: true
 guid: /?p=652
+layout: post
+title: Must-Have Expertise to Land A Graphic Design Job
+image: /assets/images/grpahic-design-jobs.jpg
 permalink: /must-have-expertise-to-land-a-graphic-design-job/
-
-
-image: /wp-content/uploads/2021/05/Must-Have-Expertise-to-Land-A-Graphic-Design-Job.jpg
+author: PhCareer
+date: 2021-05-31T23:10:01+00:00
 categories:
-  - Graphic Design
-
+  - Graphic Designer
+  - Work From Home
+comments: true
+id: 652
 ---
 This is what you need to get an edge in today&#8217;s employment market, from&nbsp;[soft skills](/category/soft-skills/)&nbsp;like communication and creativity to typography and coding.
 
