@@ -1,19 +1,17 @@
 ---
-id: 264
-title: How To Find That One Perfect Job?
-date: 2021-07-27T05:03:00+00:00
-author: PhCareer
-layout: post
 toc: true
 guid: /?p=264
+layout: post
+title: How To Find That One Perfect Job?
+image: /assets/images/how-to-find-that-one-perfect-job.jpg
 permalink: /how-to-figure-out-if-you-are-right-for-the-job/
-
-
-image: /wp-content/uploads/2021/01/How-To-Find-That-One-Perfect-Job.jpg
+author: PhCareer
+date: 2021-07-27T05:03:00+00:00
 categories:
   - Job Search
   - Job Tips
-
+comments: true
+id: 264
 ---
 
 
