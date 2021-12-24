@@ -1,19 +1,17 @@
 ---
-id: 195
-title: Mistakes to Avoid While Negotiating a Salary
-date: 2021-11-04T01:41:00+00:00
-author: PhCareer
-layout: post
 toc: true
 guid: /?p=195
+layout: post
+title: Mistakes to Avoid While Negotiating a Salary
+image: /assets/images/negotiating-a-salary.jpg
 permalink: /most-common-salary-negotiation-mistakes-to-avoid/
-
-
-image: /wp-content/uploads/2021/01/how-to-negotiation-higher-salary-for-new-job.jpg
+author: PhCareer
+date: 2021-11-04T01:41:00+00:00
 categories:
   - Job Interview
-  - Job Tips
- 
+  - Career Guide
+comments: true
+id: 195
 ---
 It is never the most enjoyable topic of discussion to talk about your salary. If you&#8217;ve landed a new job or are merely looking for a boost, when it comes to salary negotiation, you have to tread carefully.
 
