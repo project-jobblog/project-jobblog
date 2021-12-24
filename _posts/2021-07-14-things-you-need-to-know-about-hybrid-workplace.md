@@ -1,19 +1,17 @@
 ---
-id: 781
-title: Things You Need To Know About Hybrid Workplace
-date: 2021-07-14T21:07:19+00:00
-author: PhCareer
-layout: post
 toc: true
 guid: /?p=781
+layout: post
+title: Things You Need To Know About Hybrid Workplace
+image: /assets/images/about-hybrid-workplace.jpg
 permalink: /things-you-need-to-know-about-hybrid-workplace/
-
-
-image: /wp-content/uploads/2021/07/Things-You-Need-To-Know-About-Hybrid-Workplace.jpg
+author: PhCareer
+date: 2021-07-14T21:07:19+00:00
 categories:
   - Career Guides
   - Work From Home
-
+comments: true
+id: 781
 ---
 The hybrid workspace model is a sort of work environment that incorporates elements of both [remote work](/how-to-make-a-successful-job-remotely/) and in-office jobs. Some or all employees in a typical hybrid workplace have the option to choose where and when they work, dividing their time between working from home and working in a central office.
 
