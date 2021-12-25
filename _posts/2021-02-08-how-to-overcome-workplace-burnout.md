@@ -1,20 +1,17 @@
 ---
-id: 327
-title: How to Overcome Workplace Burnout ?
-date: 2021-02-08T16:05:45+00:00
-author: PhCareer
-layout: post
 toc: true
 guid: /?p=327
+layout: post
+title: How to Overcome Workplace Burnout ?
+image: /assets/images/office-burnout.jpg
 permalink: /how-to-overcome-workplace-burnout/
-
-
-image: /wp-content/uploads/2021/02/office-burnout.jpg
+author: PhCareer
+date: 2021-02-08T16:05:45+00:00
 categories:
-  - Career Guides
-  - Job Tips
   - Work From Home
- 
+  - Work-Life Balance
+comments: true
+id: 327
 ---
 
 
