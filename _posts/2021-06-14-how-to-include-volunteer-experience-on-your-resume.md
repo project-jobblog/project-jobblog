@@ -1,19 +1,17 @@
 ---
-id: 687
-title: How to Include Volunteer Experience on Your Resume
-date: 2021-06-14T19:50:12+00:00
-author: PhCareer
-layout: post
 toc: true
 guid: /?p=687
+layout: post
+title: How to Include Volunteer Experience on Your Resume
+image: /assets/images/volunteer-experience.jpg
 permalink: /how-to-include-volunteer-experience-on-your-resume/
-
-
-image: /wp-content/uploads/2021/06/How-to-Include-Volunteer-Experience-on-Your-Resume.jpeg
+author: PhCareer
+date: 2021-06-14T19:50:12+00:00
 categories:
-  - Cover Letter
-  - Resume Tips
-
+  - Part-Time Jobs
+  - Job Search
+comments: true
+id: 687
 ---
 It takes more than simply writing to make a captivating volunteer experience section. Here are some pointers on how to properly include volunteer work in your resume:
 
@@ -31,12 +29,12 @@ There is a fairly simple protocol to follow when listing volunteer activities.
 
 This is how it appears:
 
-  * Your job title and/or position
-  * Name of the company/organization
-  * Dates
-  * Location
-  * Accomplishments/Responsibilities
-  * Timeframe for volunteering
+* Your job title and/or position
+* Name of the company/organization
+* Dates
+* Location
+* Accomplishments/Responsibilities
+* Timeframe for volunteering
 
 <blockquote class="wp-block-quote">
   <p>
@@ -60,14 +58,23 @@ Hiring Manager &nbsp;is aware of this because they&#8217;ve seen hundreds of sim
 
 If, on the other hand, you concentrate on demonstrating how you directly contributed to the research, such as by stating that 50% of the data you evaluated was used to advance it, you&#8217;ll have told the recruiter something truly unique and intriguing that will make you stand out.
 
+> **Related Topics:**
+>
+> * [Best High-Paying Part-Time Jobs](/best-high-paying-part-time-jobs/)
+> * [How to Turn Your Internship into a Full-time Job](/how-to-turn-your-internship-into-a-full-time-job/)
+> * [How to Make the Jump from Freelance to Full-time Job](/how-to-make-the-jump-from-freelance-to-full-time-job/) 
+> * [How to Prioritize Tasks and Manage Your Time?](/how-to-prioritize-tasks-and-manage-your-time/) 
+> * [How to Become a Social Media Manager?](/how-to-become-a-social-media-manager/) 
+> * [How to Create A Safe Workplace Culture](/safe-workplace-culture/)
+
 When it comes to your resume, focusing on your accomplishments is the greatest way to give it an edge.
 
 To offer you a more specific example, here&#8217;s a comparison of successful accomplishments:
 
 **Correct Example:**
 
-  * Developed and distributed qualitative questionnaires that received a 90% response rate.
-  * Completed half of the data analysis, which was later used to further the project&#8217;s study.
+* Developed and distributed qualitative questionnaires that received a 90% response rate.
+* Completed half of the data analysis, which was later used to further the project&#8217;s study.
 
 However, you may have fewer accomplishments to highlight in some industries than in others. If you volunteered at a homeless shelter, your daily goal was generally to help others rather than to stand out. It&#8217;s ok to mention responsibilities if that&#8217;s the case.
 
@@ -75,16 +82,16 @@ However, you may have fewer accomplishments to highlight in some industries than
 
 **Correct Example:**
 
-  * Unpacking and dispersing food assistance.
-  * Taking homeless persons into the shelter and registering them.
-  * Oversee the shelter&#8217;s opening and closing twice a week.
+* Unpacking and dispersing food assistance.
+* Taking homeless persons into the shelter and registering them.
+* Oversee the shelter&#8217;s opening and closing twice a week.
 
-### **The most important takeaways** 
+### **The most important takeaways**
 
 And that&#8217;s all there is to it! By now, you should have a good understanding of how to add volunteer work to a resume.
 
 Let&#8217;s go over everything we&#8217;ve talked about thus far:
 
-  * Include volunteer work as a distinct section or as work-related experience (if your volunteer work is relevant to the position you&#8217;re looking for).
-  * When listing your volunteer experiences, emphasize accomplishments over obligations wherever possible. Responsibilities are what put you on the same level as everyone else; your accomplishments are what set you apart!
-  * Volunteer experience can be extremely beneficial to your job application, especially if you are a recent graduate, have a gap in your resume, or are applying to a non-profit organization.
+* Include volunteer work as a distinct section or as work-related experience (if your volunteer work is relevant to the position you&#8217;re looking for).
+* When listing your volunteer experiences, emphasize accomplishments over obligations wherever possible. Responsibilities are what put you on the same level as everyone else; your accomplishments are what set you apart!
+* Volunteer experience can be extremely beneficial to your job application, especially if you are a recent graduate, have a gap in your resume, or are applying to a non-profit organization.
