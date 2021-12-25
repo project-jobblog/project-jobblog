@@ -1,17 +1,17 @@
 ---
-
-
-permalink: /tips-on-how-to-improve-your-soft-skills-at-work/
 toc: true
 guid: /?p=93
 layout: post
 title: Tips on How to Improve your Soft Skills at Work
-image: /wp-content/uploads/2020/12/softskills.jpg
-categories:
-  - Career Guide
-comments: true
+image: /assets/images/softskills.jpg
+permalink: /tips-on-how-to-improve-your-soft-skills-at-work/
 author: PhCareer
 date: 2020-12-08T17:29:18+00:00
+categories:
+  - Career Guide
+  - Part-Time Jobs
+  - Work-Life Balance
+comments: true
 id: 93
 ---
 The talents you possess that go beyond your technical, observable abilities are soft skills. Among others, soft skills concentrate more on psychological, leadership, communication, and problem-solving skills. Although the preparation and experience you have gained over the course of your career are composed of hard skills, soft skills are how you work with others and on your own. While soft skills are more personality-based, you can still develop them.
@@ -28,19 +28,15 @@ Are you someone who can simultaneously juggle several projects? Will you have di
 
 Start by recognizing that the only constant is transition. If the first one doesn&#8217;t work, be open to alternative ideas. Often during difficult situations or if you are unable to reach deadlines, be ready to accept support from colleagues.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img loading="lazy" width="989" height="648" src="/wp-content/uploads/2020/12/soft-skills.png" alt="Tips on How to Improve your Soft Skill at Work" class="wp-image-94" srcset="/wp-content/uploads/2020/12/soft-skills.png 989w, /wp-content/uploads/2020/12/soft-skills-300x197.png 300w, /wp-content/uploads/2020/12/soft-skills-768x503.png 768w" sizes="(max-width: 989px) 100vw, 989px" /></figure>
-</div>
+ 
+
+![soft skills](/assets/images/soft-skills.webp)
 
 ### Always willing to learn
 
 No one is too young or too old in today&#8217;s dynamic work market to understand new abilities and concepts. Just because you&#8217;ve followed one direction effectively doesn&#8217;t mean you can limit yourself. If you are willing to learn new skills, consider taking a course, or volunteering with another team.
 
-
-
 > **Related:  [How to Find Your Dream Job?](/how-to-find-your-dream-job/)**
-
-
 
 ### Be a team player
 
