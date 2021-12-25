@@ -99,6 +99,12 @@ Of course, this will depend on your work. Some jobs, such as positions in custom
 
 But it&#8217;s likely that you will start early and finish early for several occupations, such as software development.
 
+
+
+> **Related: [How to Avoid Distractions and Stay Productive When You Work from Home](/how-to-avoid-distractions-and-stay-productive-when-you-work-from-home/)**
+
+
+
 #### More meals can be cooked at home
 
 There will be more time for workers who work at home to prepare meals. So you don&#8217;t have to waste your weekends planning your meals in advance, and you won&#8217;t have to spend your hard-earned cash in the workplace buying your lunches.
