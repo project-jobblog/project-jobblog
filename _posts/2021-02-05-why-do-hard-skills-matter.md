@@ -10,6 +10,8 @@ date: 2021-02-05T17:18:15+00:00
 categories:
   - Work-Life Balance
   - Career Guide
+  - Human Resources
+  - Marketing
 comments: true
 id: 321
 ---
