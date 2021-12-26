@@ -108,7 +108,8 @@ A broad variety of general knowledge, including customer analysis, pricing, adve
 * Pay per click (PPC)
 * Social media marketing
 
-  <figure class="wp-block-image size-large">
+
+<figure class="wp-block-image size-large">
 
 <img loading="lazy" width="1024" height="724" src="/wp-content/uploads/2021/02/data-mining-1024x724.jpg" alt="job skills" class="wp-image-322" srcset="/wp-content/uploads/2021/02/data-mining-1024x724.jpg 1024w, /wp-content/uploads/2021/02/data-mining-300x212.jpg 300w, /wp-content/uploads/2021/02/data-mining-768x543.jpg 768w, /wp-content/uploads/2021/02/data-mining.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
 
