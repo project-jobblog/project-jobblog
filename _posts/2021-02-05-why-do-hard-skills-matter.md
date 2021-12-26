@@ -1,21 +1,17 @@
 ---
-id: 321
-title: Why do Hard Skills Matter?
-date: 2021-02-05T17:18:15+00:00
-author: PhCareer
-layout: post
 toc: true
 guid: /?p=321
+layout: post
+title: Why Do Hard Skills Matter?
+image: /assets/images/hard-skills.png
 permalink: /why-do-hard-skills-matter/
-
-
-image: /wp-content/uploads/2021/02/Why-do-Hard-Skills-Matter.jpg
+author: PhCareer
+date: 2021-02-05T17:18:15+00:00
 categories:
-  - Career Guides
-  - Job Tips
-  - Marketing Jobs
-  - Retail Jobs
-
+  - Work-Life Balance
+  - Career Guide
+comments: true
+id: 321
 ---
 
 
