@@ -1,19 +1,16 @@
 ---
-id: 805
-title: Can You Get a Tax Deduction for Job Search Expenses?
-date: 2021-07-23T21:49:51+00:00
-author: Zooted
-layout: post
 toc: true
 guid: /?p=805
+layout: post
+title: Can You Get a Tax Deduction for Job Search Expenses?
+image: /assets/images/tax-deduction-for-job-search.webp
 permalink: /can-you-get-a-tax-deduction-for-job-search-expenses/
-
-
-image: /wp-content/uploads/2021/07/Can-You-Get-a-Tax-Deduction-for-Job-Search-Expenses-1.jpg
+author: Zooted
+date: 2021-07-23T21:49:51+00:00
 categories:
-  - Career Guides
-  - Full-time Job
- 
+  - Career Guide
+comments: true
+id: 805
 ---
 Can You Get a Tax Deduction for Job Search Expenses? It can take a lot of time and effort to find a new job. It can also be costly, including travel, shipping mail, transportation, communication, phone calls, and other fees. Thankfully, some of those expenses aren&#8217;t total losses. They can be claimed as a deduction on your tax return, thus saving you money on your taxes. Continue reading to learn how.
 
