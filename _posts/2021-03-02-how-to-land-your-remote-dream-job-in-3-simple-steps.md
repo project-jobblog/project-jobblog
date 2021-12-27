@@ -1,19 +1,18 @@
 ---
-id: 402
-title: How To Land Your Remote Dream Job in 3 Simple Steps?
-date: 2021-03-02T16:51:28+00:00
-author: Zooted
-layout: post
 toc: true
 guid: /?p=402
+layout: post
+title: How To Land Your Remote Dream Job in 3 Simple Steps?
+image: /assets/images/remote-dream-job.png
 permalink: /how-to-land-your-remote-dream-job-in-3-simple-steps/
-
-
-image: /wp-content/uploads/2021/03/How-To-Land-Your-Remote-Dream-Job-in-3-Simple-Steps.jpg
+author: Zooted
+date: 2021-03-02T16:51:28+00:00
 categories:
-  - Remote Jobs
   - Work From Home
-
+  - Part-Time Jobs
+  - Work-Life Balance
+comments: true
+id: 402
 ---
 Before the COVID-19 pandemic, remote job opportunities were on the rise, and they are now more widely available.
 
