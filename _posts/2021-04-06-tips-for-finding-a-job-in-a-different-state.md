@@ -2,7 +2,7 @@
 id: 525
 title: Tips for Finding a Job in a Different State
 date: 2021-04-06T17:06:15+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=525

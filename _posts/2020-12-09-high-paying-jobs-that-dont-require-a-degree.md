@@ -2,7 +2,7 @@
 id: 97
 title: 'High Paying Jobs That Don&#8217;t Require a Degree'
 date: 2020-12-09T17:32:46+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=97

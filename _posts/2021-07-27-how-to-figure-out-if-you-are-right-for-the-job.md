@@ -5,7 +5,7 @@ layout: post
 title: How To Find That One Perfect Job?
 image: /assets/images/how-to-find-that-one-perfect-job.jpg
 permalink: /how-to-figure-out-if-you-are-right-for-the-job/
-author: PhCareer
+author: Zooted
 date: 2021-07-27T05:03:00+00:00
 categories:
   - Job Search

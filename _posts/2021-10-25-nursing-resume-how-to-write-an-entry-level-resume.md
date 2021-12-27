@@ -2,7 +2,7 @@
 id: 996
 title: 'Nursing Resume: How to Write an Entry-Level Resume'
 date: 2021-10-25T20:52:20+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=996

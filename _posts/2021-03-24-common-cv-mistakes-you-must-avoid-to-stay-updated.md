@@ -2,7 +2,7 @@
 id: 483
 title: Common CV Mistakes You Must Avoid to Stay Updated
 date: 2021-03-24T19:06:48+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=483

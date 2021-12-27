@@ -2,7 +2,7 @@
 id: 1013
 title: How to Adjust to a New Workplace?
 date: 2021-11-02T21:26:14+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=1013

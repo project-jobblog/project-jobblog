@@ -2,7 +2,7 @@
 id: 316
 title: How To Stay Calm During A Stressful Job Interview?
 date: 2021-02-04T17:35:15+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=316

@@ -5,7 +5,7 @@ layout: post
 title: Top 10 Best US Cities for Finding Jobs
 image: /wp-content/uploads/2021/03/Top-10-Best-US-Cities-for-Finding-Jobs.jpg
 permalink: /best-us-cities-for-finding-jobs/
-author: PhCareer
+author: Zooted
 date: 2021-11-22T15:27:00+00:00
 categories:
   - Job Search

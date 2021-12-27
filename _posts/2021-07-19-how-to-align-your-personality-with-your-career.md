@@ -2,7 +2,7 @@
 id: 794
 title: How To Align Your Personality With Your Career?
 date: 2021-07-19T21:41:07+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=794

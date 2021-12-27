@@ -2,7 +2,7 @@
 id: 800
 title: How to Overcome Burnout and Stay Motivated as a Recruiter
 date: 2021-07-21T18:05:50+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=800

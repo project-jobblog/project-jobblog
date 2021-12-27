@@ -5,7 +5,7 @@ layout: post
 title: Tips on How To Find Entry-Level Job
 image: /assets/images/entry-level-jobs.jfif
 permalink: /tips-on-how-to-find-entry-level-job/
-author: PhCareer
+author: Zooted
 date: 2021-06-30T20:19:58+00:00
 categories:
   - Job Search

@@ -6,7 +6,7 @@ categories:
   - Career Guide
 toc: true
 comments: true
-author: PhCareer
+author: Zooted
 ---
 They said that the first impressions last a lifetime, so whether you have an incoming interview or a big sales meeting coming, it is important to make sure you give them your best.
 

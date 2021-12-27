@@ -2,7 +2,7 @@
 id: 348
 title: The Fastest Growing Remote jobs in 2022
 date: 2021-02-15T16:44:52+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=348

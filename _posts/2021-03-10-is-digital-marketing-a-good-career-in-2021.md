@@ -2,7 +2,7 @@
 id: 432
 title: Is Digital Marketing a Good Career in 2021?
 date: 2021-03-10T18:43:20+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=432

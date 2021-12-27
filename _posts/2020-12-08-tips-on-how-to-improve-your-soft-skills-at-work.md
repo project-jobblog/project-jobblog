@@ -5,7 +5,7 @@ layout: post
 title: Tips on How to Improve your Soft Skills at Work
 image: /assets/images/softskills.jpg
 permalink: /tips-on-how-to-improve-your-soft-skills-at-work/
-author: PhCareer
+author: Zooted
 date: 2020-12-08T17:29:18+00:00
 categories:
   - Career Guide

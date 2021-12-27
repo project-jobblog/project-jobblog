@@ -2,7 +2,7 @@
 id: 474
 title: Best Entry Level Management Jobs
 date: 2021-03-23T16:36:12+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=474

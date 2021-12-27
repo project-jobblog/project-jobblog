@@ -2,7 +2,7 @@
 id: 790
 title: 5 Career Ideas for STEM Majors
 date: 2021-07-16T21:30:55+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=790

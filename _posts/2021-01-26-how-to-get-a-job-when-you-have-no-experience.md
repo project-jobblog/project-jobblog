@@ -2,7 +2,7 @@
 id: 283
 title: How to Get a Job When You Have No Experience
 date: 2021-01-26T16:30:05+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=283

@@ -2,7 +2,7 @@
 id: 181
 title: Job Search Tips in an Uncertain Job Market
 date: 2021-01-01T15:51:28+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=181

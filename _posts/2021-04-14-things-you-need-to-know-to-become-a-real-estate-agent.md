@@ -2,7 +2,7 @@
 id: 554
 title: Things You Need To Know to Become a Real Estate Agent
 date: 2021-04-14T20:27:34+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=554

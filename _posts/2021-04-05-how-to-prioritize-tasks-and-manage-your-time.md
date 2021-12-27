@@ -2,7 +2,7 @@
 id: 518
 title: How to Prioritize Tasks and Manage Your Time?
 date: 2021-04-05T22:43:07+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: ?p=518

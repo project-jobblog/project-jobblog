@@ -2,7 +2,7 @@
 id: 805
 title: Can You Get a Tax Deduction for Job Search Expenses?
 date: 2021-07-23T21:49:51+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=805

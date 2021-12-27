@@ -2,7 +2,7 @@
 id: 678
 title: Advantages and Disadvantages of Changing Career During the Pandemic
 date: 2021-06-09T19:58:44+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=678

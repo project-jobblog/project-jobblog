@@ -5,7 +5,7 @@ layout: post
 title: "&#8220;Thank You Note&#8221; After a Job Interview"
 image: /assets/images/thank-you-note-after-a-job-interview.jpg
 permalink: /thank-you-note-after-a-job-interview/
-author: PhCareer
+author: Zooted
 date: 2021-02-18T17:37:28+00:00
 categories:
   - Job Interview

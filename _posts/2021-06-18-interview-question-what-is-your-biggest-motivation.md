@@ -5,7 +5,7 @@ layout: post
 title: "Interview Question: What Is Your Biggest Motivation?"
 image: /assets/images/biggest-motivation.jpg
 permalink: /interview-question-what-is-your-biggest-motivation/
-author: PhCareer
+author: Zooted
 date: 2021-06-18T15:46:22+00:00
 categories:
   - Career Guides

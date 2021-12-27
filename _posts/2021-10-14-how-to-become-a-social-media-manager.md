@@ -5,7 +5,7 @@ image: /assets/images/how-to-become-a-social-media-manager.jfif
 toc: true
 guid: /?p=972
 layout: post
-author: PhCareer
+author: Zooted
 permalink: /how-to-become-a-social-media-manager/
 date: 2021-10-14T17:10:03+00:00
 title: How to Become a Social Media Manager?

@@ -2,7 +2,7 @@
 id: 344
 title: Simple Ways on How to Improve Your Job Search
 date: 2021-02-12T21:15:18+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=344

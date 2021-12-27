@@ -5,7 +5,7 @@ image: /assets/images/how-to-avoid-losing-newly-employee.png
 toc: true
 guid: /?p=979
 layout: post
-author: PhCareer
+author: Zooted
 permalink: /how-to-avoid-losing-newly-hired-employees/
 date: 2021-10-19T16:24:06+00:00
 title: How to Avoid Losing Newly Hired Employees?

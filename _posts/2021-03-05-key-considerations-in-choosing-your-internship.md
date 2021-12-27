@@ -2,7 +2,7 @@
 id: 416
 title: Key Considerations in Choosing Your Internship
 date: 2021-03-05T19:42:36+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=416

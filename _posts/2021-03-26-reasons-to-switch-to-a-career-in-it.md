@@ -2,7 +2,7 @@
 id: 491
 title: Reasons to Switch to a Career in IT
 date: 2021-03-26T17:36:40+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=491

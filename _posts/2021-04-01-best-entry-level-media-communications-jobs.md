@@ -2,7 +2,7 @@
 id: 507
 title: 'Best Entry Level Media &#038; Communications Jobs'
 date: 2021-04-01T17:23:56+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: ?p=507

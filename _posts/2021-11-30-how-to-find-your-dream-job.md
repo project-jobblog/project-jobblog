@@ -2,7 +2,7 @@
 id: 1057
 title: How to Find Your Dream Job?
 date: 2021-11-30T22:56:12+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=1057

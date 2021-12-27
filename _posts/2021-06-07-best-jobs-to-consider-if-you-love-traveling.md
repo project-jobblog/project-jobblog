@@ -2,7 +2,7 @@
 id: 667
 title: Best Jobs To Consider If You Love Traveling
 date: 2021-06-07T22:24:51+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=667

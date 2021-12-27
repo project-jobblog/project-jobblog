@@ -5,7 +5,7 @@ layout: post
 title: Must-Have Expertise to Land A Graphic Design Job
 image: /assets/images/grpahic-design-jobs.jpg
 permalink: /must-have-expertise-to-land-a-graphic-design-job/
-author: PhCareer
+author: Zooted
 date: 2021-05-31T23:10:01+00:00
 categories:
   - Graphic Designer

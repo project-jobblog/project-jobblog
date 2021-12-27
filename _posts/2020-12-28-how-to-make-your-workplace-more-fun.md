@@ -2,7 +2,7 @@
 id: 167
 title: How to make your workplace more fun
 date: 2020-12-28T13:47:06+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=167

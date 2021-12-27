@@ -2,7 +2,7 @@
 id: 445
 title: How to Land a Job In A Remote Job Environment
 date: 2021-03-15T15:37:03+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=445

@@ -2,7 +2,7 @@
 id: 458
 title: 'Interview Tips: Secretarial Jobs Question &#038; Answers'
 date: 2021-03-18T16:23:17+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=458

@@ -2,7 +2,7 @@
 id: 547
 title: Highest Starting Salaries for College Majors
 date: 2021-04-13T16:49:47+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=547

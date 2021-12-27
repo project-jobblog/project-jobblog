@@ -11,7 +11,7 @@ categories:
   - Job Search
   - Resume Guide
 comments: true
-author: PhCareer
+author: Zooted
 date: 2021-11-09T21:10:14+00:00
 id: 1024
 ---

@@ -2,7 +2,7 @@
 id: 988
 title: 'Interview Tip: Why Are You Looking for a New Job?'
 date: 2021-10-21T22:05:58+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=988

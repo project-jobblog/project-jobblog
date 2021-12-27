@@ -10,7 +10,7 @@ image: /assets/images/first-day-at-work.jfif
 categories:
   - Career Guide
 comments: true
-author: PhCareer
+author: Zooted
 date: 2021-01-07T16:56:07+00:00
 id: 210
 ---

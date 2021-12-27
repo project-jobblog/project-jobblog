@@ -11,7 +11,7 @@ categories:
   - Job Interview
   - Job Tips
 comments: true
-author: PhCareer
+author: Zooted
 date: 2021-02-19T20:29:44+00:00
 id: 369
 ---

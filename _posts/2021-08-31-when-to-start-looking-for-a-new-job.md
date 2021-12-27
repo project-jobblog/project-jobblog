@@ -5,7 +5,7 @@ layout: post
 title: When to Start Looking For a New Job?
 image: /assets/images/new-job.webp
 permalink: /when-to-start-looking-for-a-new-job/
-author: PhCareer
+author: Zooted
 date: 2021-08-31T20:09:59+00:00
 categories:
   - Job Offer

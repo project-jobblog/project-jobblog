@@ -2,7 +2,7 @@
 id: 607
 title: Signs That You Need A New Job
 date: 2021-05-13T23:05:36+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=607

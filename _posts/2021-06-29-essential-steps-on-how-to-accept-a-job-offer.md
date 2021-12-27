@@ -2,7 +2,7 @@
 id: 741
 title: Essential Steps on How to Accept a Job Offer
 date: 2021-06-29T17:09:40+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=741

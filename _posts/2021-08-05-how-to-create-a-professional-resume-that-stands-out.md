@@ -2,7 +2,7 @@
 id: 842
 title: How to Create a Professional Resume That Stands Out?
 date: 2021-08-05T18:51:43+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=842

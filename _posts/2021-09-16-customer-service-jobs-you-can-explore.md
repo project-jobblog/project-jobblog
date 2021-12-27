@@ -13,7 +13,7 @@ categories:
   - Healthcare
   - Finance
 comments: true
-author: PhCareer
+author: Zooted
 date: 2021-09-16T15:56:00+00:00
 id: 172
 ---

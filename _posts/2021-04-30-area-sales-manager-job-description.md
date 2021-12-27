@@ -2,7 +2,7 @@
 id: 589
 title: Area Sales Manager Job Description
 date: 2021-04-30T19:28:00+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=589

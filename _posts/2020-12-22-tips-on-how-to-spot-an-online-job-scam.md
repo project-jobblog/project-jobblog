@@ -5,7 +5,7 @@ image: /assets/images/job-scam.jpg
 toc: true
 guid: /?p=151
 layout: post
-author: PhCareer
+author: Zooted
 permalink: /tips-on-how-to-spot-an-online-job-scam/
 date: 2020-12-22T16:52:58+00:00
 title: Tips on How to Spot an Online Job Scam

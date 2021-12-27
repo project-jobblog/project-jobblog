@@ -5,7 +5,7 @@ layout: post
 title: How to Overcome Workplace Burnout ?
 image: /assets/images/office-burnout.jpg
 permalink: /how-to-overcome-workplace-burnout/
-author: PhCareer
+author: Zooted
 date: 2021-02-08T16:05:45+00:00
 categories:
   - Work From Home

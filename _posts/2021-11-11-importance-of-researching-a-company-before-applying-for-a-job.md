@@ -2,7 +2,7 @@
 id: 1028
 title: Importance of Researching a Company Before Applying For a Job
 date: 2021-11-11T17:55:55+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=1028

@@ -5,7 +5,7 @@ layout: post
 title: Signs You Chose The Wrong Job Career
 image: /assets/images/wrong-job-career.jpeg
 permalink: /signs-you-chose-the-wrong-job-career/
-author: PhCareer
+author: Zooted
 date: 2020-12-07T20:56:03+00:00
 categories:
   - Job Search

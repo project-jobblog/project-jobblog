@@ -5,7 +5,7 @@ layout: post
 title: Mistakes to Avoid While Negotiating a Salary
 image: /assets/images/negotiating-a-salary.jpg
 permalink: /most-common-salary-negotiation-mistakes-to-avoid/
-author: PhCareer
+author: Zooted
 date: 2021-11-04T01:41:00+00:00
 categories:
   - Job Interview

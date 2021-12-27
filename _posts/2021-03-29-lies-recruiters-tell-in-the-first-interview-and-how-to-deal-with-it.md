@@ -2,7 +2,7 @@
 id: 497
 title: Lies Recruiters Tell in the First Interview and How to Deal with it
 date: 2021-03-29T19:53:31+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=497

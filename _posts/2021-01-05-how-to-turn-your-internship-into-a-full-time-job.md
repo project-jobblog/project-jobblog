@@ -11,7 +11,7 @@ categories:
   - Work From Home
   - Career Guide
 comments: true
-author: PhCareer
+author: Zooted
 date: 2021-01-05T16:04:10+00:00
 id: 199
 ---

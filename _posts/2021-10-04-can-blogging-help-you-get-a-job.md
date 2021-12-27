@@ -5,7 +5,7 @@ image: /wp-content/uploads/2021/10/job-search.jpg
 toc: true
 guid: /?p=951
 layout: post
-author: PhCareer
+author: Zooted
 permalink: /can-blogging-help-you-get-a-job/
 date: 2021-10-04T20:54:28+00:00
 title: Can Blogging Help You Get a Job?

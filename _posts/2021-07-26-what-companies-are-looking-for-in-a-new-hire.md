@@ -2,7 +2,7 @@
 id: 809
 title: What Companies Are Looking for in a New Hire?
 date: 2021-07-26T18:00:23+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=809

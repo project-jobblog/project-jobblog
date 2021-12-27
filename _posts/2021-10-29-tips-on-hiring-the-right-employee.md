@@ -2,7 +2,7 @@
 id: 1009
 title: Tips on Hiring the Right Employee
 date: 2021-10-29T20:13:22+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=1009

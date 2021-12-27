@@ -5,7 +5,7 @@ layout: post
 title: Skills Needed to Become A Copywriter
 image: /assets/images/copywriter.svg
 permalink: /skills-needed-to-become-a-copywriter/
-author: PhCareer
+author: Zooted
 date: 2021-05-20T18:17:23+00:00
 categories:
   - Publishing

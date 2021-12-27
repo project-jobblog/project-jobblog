@@ -5,7 +5,7 @@ layout: post
 title: Guides To Help You Shift to a Hybrid Workplace
 image: /assets/images/hybrid-workplace.png
 permalink: /guides-to-help-you-shift-to-a-hybrid-workplace/
-author: PhCareer
+author: Zooted
 date: 2021-09-15T17:25:41+00:00
 categories:
   - Hybrid Workplace

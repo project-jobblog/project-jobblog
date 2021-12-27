@@ -2,7 +2,7 @@
 id: 537
 title: How to Avoid Employment And Job Scams?
 date: 2021-04-08T18:49:15+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=537

@@ -5,7 +5,7 @@ image: /assets/images/how-to-stay-calm-and-compose-during-a-your-job-interview.w
 toc: true
 guid: /?p=572
 layout: post
-author: PhCareer
+author: Zooted
 permalink: /ways-to-calm-your-job-interview-anxiety/
 date: 2021-09-21T21:28:00+00:00
 title: How to Stay Calm And Compose During a Your Job Interview

@@ -2,7 +2,7 @@
 id: 922
 title: How to Deal with Rejections During the Job Search
 date: 2021-09-08T23:31:01+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=922

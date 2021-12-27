@@ -2,7 +2,7 @@
 id: 558
 title: Things You Need To Know to Become a Medical Assistant
 date: 2021-04-15T22:32:10+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=558

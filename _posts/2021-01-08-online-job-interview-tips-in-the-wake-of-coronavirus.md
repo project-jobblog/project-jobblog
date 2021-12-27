@@ -5,7 +5,7 @@ image: /assets/images/job-interview-tips-in-the-wake-of-coronavirus.jpg
 toc: true
 guid: /?p=216
 layout: post
-author: PhCareer
+author: Zooted
 permalink: /online-job-interview-tips-in-the-wake-of-coronavirus/
 date: 2021-01-08T16:35:20+00:00
 title: Online Job Interview Tips in the Wake of Coronavirus

@@ -2,7 +2,7 @@
 id: 1069
 title: 'The Pros and Cons of &#8220;Work from Home&#8221;'
 date: 2021-12-06T22:48:53+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=1069

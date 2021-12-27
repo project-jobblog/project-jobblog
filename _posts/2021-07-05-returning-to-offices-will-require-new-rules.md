@@ -2,7 +2,7 @@
 id: 757
 title: Returning to Offices Will Require New Rules
 date: 2021-07-05T21:10:28+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=757

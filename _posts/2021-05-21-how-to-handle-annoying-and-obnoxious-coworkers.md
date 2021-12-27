@@ -2,7 +2,7 @@
 id: 632
 title: How to Handle Annoying and Obnoxious Coworkers
 date: 2021-05-21T22:45:29+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=632

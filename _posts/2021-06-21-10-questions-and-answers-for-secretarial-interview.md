@@ -2,7 +2,7 @@
 id: 712
 title: 10 Questions and Answers for Secretarial Interview
 date: 2021-06-21T20:20:05+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=712

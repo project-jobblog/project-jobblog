@@ -2,7 +2,7 @@
 id: 623
 title: How To Find Your First Job After College
 date: 2021-05-18T18:00:12+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=623

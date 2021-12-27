@@ -5,7 +5,7 @@ layout: post
 title: Popular Digital Marketing jobs in The United States (2022)
 image: /wp-content/uploads/2021/01/What-Is-Digital-Marketing.jpg
 permalink: /most-popular-digital-marketing-jobs-in-the-united-states/
-author: PhCareer
+author: Zooted
 date: 2021-11-15T16:20:00+00:00
 categories:
   - Job Interview

@@ -2,7 +2,7 @@
 id: 848
 title: Good Habits You Need to Learn to Succeed in Your Job
 date: 2021-08-09T21:18:46+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=848

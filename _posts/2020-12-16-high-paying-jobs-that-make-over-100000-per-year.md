@@ -5,7 +5,7 @@ layout: post
 title: High Paying Jobs that Makes Over $100,000 Per Year
 image: /assets/images/high-paying-jobs.jpg
 permalink: /high-paying-jobs-that-make-over-100000-per-year/
-author: PhCareer
+author: Zooted
 date: 2020-12-16T18:52:57+00:00
 categories:
   - Web Design

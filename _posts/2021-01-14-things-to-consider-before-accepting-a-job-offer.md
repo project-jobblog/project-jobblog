@@ -10,7 +10,7 @@ image: /assets/images/things-to-consider-before-accepting-a-job-offer.jpg
 categories:
   - Career Guide
 comments: true
-author: PhCareer
+author: Zooted
 date: 2021-01-14T18:01:08+00:00
 id: 244
 ---

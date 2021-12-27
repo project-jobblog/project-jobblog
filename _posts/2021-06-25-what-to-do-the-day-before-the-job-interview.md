@@ -2,7 +2,7 @@
 id: 729
 title: What To Do The Day Before The Job Interview
 date: 2021-06-25T18:06:32+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=729

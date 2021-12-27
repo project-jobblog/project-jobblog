@@ -2,7 +2,7 @@
 id: 297
 title: How to Overcome Job Search Biggest Challenges!
 date: 2021-01-29T17:05:42+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=297

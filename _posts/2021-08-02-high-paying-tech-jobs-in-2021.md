@@ -2,7 +2,7 @@
 id: 304
 title: Best High Paying Tech Jobs in 2021
 date: 2021-08-02T18:26:00+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=304

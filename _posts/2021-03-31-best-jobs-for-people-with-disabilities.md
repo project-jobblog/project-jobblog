@@ -2,7 +2,7 @@
 id: 503
 title: Best Jobs for People with Disabilities
 date: 2021-03-31T17:26:16+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 permalink: /best-jobs-for-people-with-disabilities/

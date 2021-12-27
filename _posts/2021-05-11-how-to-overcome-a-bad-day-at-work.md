@@ -2,7 +2,7 @@
 id: 602
 title: How to Overcome A Bad Day At Work
 date: 2021-05-11T18:28:40+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=602

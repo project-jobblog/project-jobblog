@@ -5,7 +5,7 @@ image: /assets/images/why-job-hunters-prefer-messaging-over-calling.png
 toc: true
 guid: /?p=956
 layout: post
-author: PhCareer
+author: Zooted
 permalink: /why-job-hunters-prefer-messaging-over-calling/
 date: 2021-10-07T22:01:11+00:00
 title: Why Job Hunters Prefer Messaging Over Calling?

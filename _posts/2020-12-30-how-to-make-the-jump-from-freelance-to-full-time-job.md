@@ -2,7 +2,7 @@
 id: 177
 title: How to Make the Jump from Freelance to Full-time Job
 date: 2020-12-30T15:47:40+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=177

@@ -2,7 +2,7 @@
 id: 613
 title: Low-Stress Remote Jobs For Working Parents
 date: 2021-05-14T23:15:18+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=613

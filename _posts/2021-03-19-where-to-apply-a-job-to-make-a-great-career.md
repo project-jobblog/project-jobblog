@@ -2,7 +2,7 @@
 id: 463
 title: Where to Apply a Job to Make a Great Career?
 date: 2021-03-19T15:49:44+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=463

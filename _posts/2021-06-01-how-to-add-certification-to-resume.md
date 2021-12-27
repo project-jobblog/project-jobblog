@@ -2,7 +2,7 @@
 id: 658
 title: How to Add Certification to Resume?
 date: 2021-06-01T22:48:29+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=658

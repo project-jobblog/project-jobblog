@@ -2,7 +2,7 @@
 id: 892
 title: How to Prepare For Internet Downtime When You Are Working From Home
 date: 2021-08-27T16:07:05+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=892

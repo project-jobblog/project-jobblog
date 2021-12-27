@@ -2,7 +2,7 @@
 id: 487
 title: Best In-Demand Jobs That Don’t Need a Degree
 date: 2021-03-25T16:07:50+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=487

@@ -2,7 +2,7 @@
 id: 899
 title: Top Security Tips for Working Remotely
 date: 2021-08-30T14:58:20+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=899

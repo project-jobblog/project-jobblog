@@ -2,7 +2,7 @@
 id: 786
 title: 'Common Signs You&#8217;re Underpaid at Your Current Job'
 date: 2021-07-15T20:46:10+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=786

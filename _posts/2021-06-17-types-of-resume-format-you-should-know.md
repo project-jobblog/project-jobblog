@@ -5,7 +5,7 @@ layout: post
 title: Types of Resume Format You Should Know
 image: /assets/images/types-of-resume.jpg
 permalink: /types-of-resume-format-you-should-know/
-author: PhCareer
+author: Zooted
 date: 2021-06-17T19:46:43+00:00
 categories:
   - Resume Guide

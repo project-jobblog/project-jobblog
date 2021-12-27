@@ -2,7 +2,7 @@
 id: 777
 title: What Are The Advantages of Fixed-Term Contracts?
 date: 2021-07-13T20:40:49+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=777

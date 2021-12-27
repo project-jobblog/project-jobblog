@@ -2,7 +2,7 @@
 id: 454
 title: The Ultimate Job Application Checklist
 date: 2021-08-17T16:16:00+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=454

@@ -2,7 +2,7 @@
 id: 335
 title: Reasons Why You Didn’t Get the Job
 date: 2021-02-10T18:18:43+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=335

@@ -2,7 +2,7 @@
 id: 594
 title: How to Survive Working From Home With Kids?
 date: 2021-05-06T22:54:50+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=594

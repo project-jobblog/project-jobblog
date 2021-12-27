@@ -5,7 +5,7 @@ layout: post
 title: Typical Reasons Why People Switching Jobs
 image: /assets/images/switching-jobs.png
 permalink: /typical-reasons-why-people-switching-jobs/
-author: PhCareer
+author: Zooted
 date: 2021-07-02T17:11:29+00:00
 categories:
   - Job Search

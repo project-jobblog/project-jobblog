@@ -2,7 +2,7 @@
 id: 291
 title: What to Do When a Job Offer Is Withdrawn?
 date: 2021-01-28T18:39:14+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=291

@@ -2,7 +2,7 @@
 id: 637
 title: How to Become a More Successful Job Seeker
 date: 2021-05-24T22:17:00+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=637

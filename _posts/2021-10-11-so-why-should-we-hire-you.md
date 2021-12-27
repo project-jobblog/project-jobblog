@@ -5,7 +5,7 @@ image: /assets/images/why-should-i-hire-you.jpg
 toc: true
 guid: /?p=234
 layout: post
-author: PhCareer
+author: Zooted
 permalink: /so-why-should-we-hire-you/
 date: 2021-10-11T16:11:00+00:00
 title: "How To Answer : Why Should I Hire You?"

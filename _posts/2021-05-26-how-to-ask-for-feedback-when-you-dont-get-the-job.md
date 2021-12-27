@@ -2,7 +2,7 @@
 id: 642
 title: How to Ask for Feedback When You Don’t Get the Job
 date: 2021-05-26T21:24:28+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=642

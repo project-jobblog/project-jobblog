@@ -2,7 +2,7 @@
 id: 426
 title: Tips on How to Become a Successful Freelancer
 date: 2021-03-09T17:03:16+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=426

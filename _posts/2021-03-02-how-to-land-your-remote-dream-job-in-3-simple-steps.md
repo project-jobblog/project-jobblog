@@ -2,7 +2,7 @@
 id: 402
 title: How To Land Your Remote Dream Job in 3 Simple Steps?
 date: 2021-03-02T16:51:28+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=402

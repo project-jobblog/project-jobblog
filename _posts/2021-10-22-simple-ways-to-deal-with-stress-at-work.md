@@ -2,7 +2,7 @@
 id: 157
 title: Simple Ways To Reduce Stress at Work
 date: 2021-10-22T03:12:00+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=157

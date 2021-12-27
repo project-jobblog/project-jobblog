@@ -2,7 +2,7 @@
 id: 383
 title: 'Guide:  Remote Hiring During COVID-19'
 date: 2021-07-01T06:00:00+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=383

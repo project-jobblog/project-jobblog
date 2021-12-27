@@ -5,7 +5,7 @@ layout: post
 title: Common Signs You&#8217;re in a Toxic Work Environment
 image: /assets/images/toxic-work-environment.png
 permalink: /common-signs-youre-in-a-toxic-work-environment/
-author: PhCareer
+author: Zooted
 date: 2021-07-29T20:17:49+00:00
 categories:
   - Career Guide

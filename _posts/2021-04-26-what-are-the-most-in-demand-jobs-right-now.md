@@ -2,7 +2,7 @@
 id: 577
 title: 'What  Are The Most In-Demand Jobs Right Now?'
 date: 2021-04-26T18:59:44+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=577

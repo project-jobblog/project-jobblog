@@ -5,7 +5,7 @@ layout: post
 title: The Benefits And Drawbacks of Telecommuting
 image: /assets/images/telecommuting.png
 permalink: /the-benefits-and-drawbacks-of-telecommuting/
-author: PhCareer
+author: Zooted
 date: 2020-12-02T18:03:50+00:00
 categories:
   - Work From Home

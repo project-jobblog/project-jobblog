@@ -2,7 +2,7 @@
 id: 358
 title: Perfect High-Paying Jobs for Fashion Lovers
 date: 2021-02-17T16:36:03+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=358

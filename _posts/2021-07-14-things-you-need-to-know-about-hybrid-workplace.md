@@ -5,7 +5,7 @@ layout: post
 title: Things You Need To Know About Hybrid Workplace
 image: /assets/images/about-hybrid-workplace.jpg
 permalink: /things-you-need-to-know-about-hybrid-workplace/
-author: PhCareer
+author: Zooted
 date: 2021-07-14T21:07:19+00:00
 categories:
   - Career Guides

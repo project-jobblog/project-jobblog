@@ -5,7 +5,7 @@ layout: post
 title: The Dos and Don’ts for Job Seekers
 image: /assets/images/the-dos-and-don’ts-for-job-seekers.jfif
 permalink: /the-dos-and-donts-for-job-seekers/
-author: PhCareer
+author: Zooted
 date: 2021-09-29T21:49:22+00:00
 categories:
   - Job Interview

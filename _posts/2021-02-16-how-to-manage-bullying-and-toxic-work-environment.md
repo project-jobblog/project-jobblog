@@ -2,7 +2,7 @@
 id: 354
 title: How to Manage Bullying and Toxic Work Environment?
 date: 2021-02-16T16:51:16+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=354

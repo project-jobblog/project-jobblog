@@ -2,7 +2,7 @@
 id: 682
 title: Must-Have Expertise to Land A Successful Advertising Job
 date: 2021-06-10T22:23:04+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=682

@@ -2,7 +2,7 @@
 id: 117
 title: 'Common Mistakes to Avoid When Applying  for a Job'
 date: 2020-12-11T16:53:55+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=117

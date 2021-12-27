@@ -2,7 +2,7 @@
 id: 542
 title: How To Answer Interview Questions About Weakness
 date: 2021-04-09T17:48:47+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=542

@@ -2,7 +2,7 @@
 id: 937
 title: How to Get Along with Coworkers On A New Job?
 date: 2021-09-20T22:58:31+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=937

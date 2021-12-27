@@ -2,7 +2,7 @@
 id: 918
 title: How to Get Hired Faster?
 date: 2021-09-07T23:11:36+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=918

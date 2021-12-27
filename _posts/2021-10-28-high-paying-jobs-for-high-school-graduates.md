@@ -2,7 +2,7 @@
 id: 1005
 title: High-Paying Jobs for High School Graduates
 date: 2021-10-28T22:15:14+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=1005

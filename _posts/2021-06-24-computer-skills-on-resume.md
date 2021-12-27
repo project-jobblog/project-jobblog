@@ -2,7 +2,7 @@
 id: 724
 title: How to List Computer Skills on a Resume
 date: 2021-06-24T19:28:59+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=724

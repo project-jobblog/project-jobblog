@@ -5,7 +5,7 @@ image: /wp-content/uploads/2020/12/how-to-answer-common-interview-questions-best
 toc: true
 guid: /?p=83
 layout: post
-author: PhCareer
+author: Zooted
 permalink: /what-to-expect-in-a-final-job-interview/
 date: 2020-12-04T20:28:26+00:00
 title: What to Expect in a Final Job Interview?

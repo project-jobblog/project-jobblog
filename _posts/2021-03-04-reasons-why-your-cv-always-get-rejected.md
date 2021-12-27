@@ -2,7 +2,7 @@
 id: 411
 title: Reasons Why your CV Always Get Rejected?
 date: 2021-03-04T18:46:00+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=411

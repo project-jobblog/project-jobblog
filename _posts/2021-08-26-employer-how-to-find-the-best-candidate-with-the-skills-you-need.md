@@ -2,7 +2,7 @@
 id: 888
 title: 'Employer: How to Find the Best Candidate With the Skills You Need'
 date: 2021-08-26T22:37:39+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=888

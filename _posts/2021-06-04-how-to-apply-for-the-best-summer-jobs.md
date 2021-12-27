@@ -2,7 +2,7 @@
 id: 663
 title: How to Apply for the Best Summer Jobs
 date: 2021-06-04T17:48:42+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=663

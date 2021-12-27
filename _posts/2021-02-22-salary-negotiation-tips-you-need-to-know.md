@@ -2,7 +2,7 @@
 id: 375
 title: 'Salary Negotiation: Tips You Need to Know'
 date: 2021-02-22T16:21:45+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=375

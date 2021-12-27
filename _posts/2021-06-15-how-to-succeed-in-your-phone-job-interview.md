@@ -5,7 +5,7 @@ layout: post
 title: How to Succeed in Your Phone Job Interview
 image: /assets/images/how-to-succeed-in-your-phone-job-interview-1.jpg
 permalink: /how-to-succeed-in-your-phone-job-interview/
-author: PhCareer
+author: Zooted
 date: 2021-06-15T21:39:08+00:00
 categories:
   - Career Guides

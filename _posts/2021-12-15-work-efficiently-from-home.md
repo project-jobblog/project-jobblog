@@ -1,7 +1,7 @@
 ---
 title: How to Work Efficiently from Home During Lockdown?
 date: '2021-12-15 21:11:38 +0000'
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: "/?p=1074"

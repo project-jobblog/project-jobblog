@@ -2,7 +2,7 @@
 id: 340
 title: Tips for Fresh Graduates to Succeed in Their First Job
 date: 2021-02-11T16:26:39+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=340

@@ -2,7 +2,7 @@
 id: 1053
 title: Positive Ways to Handle Employee Resignation
 date: 2021-11-29T22:20:15+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=1053

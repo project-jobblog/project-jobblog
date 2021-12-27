@@ -2,7 +2,7 @@
 id: 162
 title: Where to Apply to Make a Great Career
 date: 2020-12-24T15:58:10+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=162

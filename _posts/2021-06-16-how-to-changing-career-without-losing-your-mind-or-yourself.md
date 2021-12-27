@@ -2,7 +2,7 @@
 id: 695
 title: 'How To:  Changing Career Without Losing Your Mind Or Yourself'
 date: 2021-06-16T21:02:04+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=695

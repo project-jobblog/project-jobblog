@@ -2,7 +2,7 @@
 id: 392
 title: How To Decide What Skills To Include On Your Resume
 date: 2021-02-26T16:39:22+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=392

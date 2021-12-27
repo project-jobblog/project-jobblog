@@ -5,7 +5,7 @@ image: /assets/images/cover-letter-tips.jfif
 toc: true
 guid: /?p=984
 layout: post
-author: PhCareer
+author: Zooted
 permalink: /cover-letter-tips-for-new-freelancers/
 date: 2021-10-20T21:41:19+00:00
 title: Cover Letter Tips for New Freelancers

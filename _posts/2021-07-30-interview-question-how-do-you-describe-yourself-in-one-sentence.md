@@ -2,7 +2,7 @@
 id: 827
 title: 'Interview Question: How Do You Describe Yourself In One Sentence?'
 date: 2021-07-30T19:21:31+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=827

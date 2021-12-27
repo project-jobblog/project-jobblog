@@ -2,7 +2,7 @@
 id: 532
 title: Tips on How to Write an Internship Resume
 date: 2021-04-07T19:58:46+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=532

@@ -2,7 +2,7 @@
 id: 907
 title: Should You Hire An Applicant With Criminal Records?
 date: 2021-09-02T22:24:43+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=907

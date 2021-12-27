@@ -5,7 +5,7 @@ layout: post
 title: How To Write A Winning Cover Letter
 image: /assets/images/cover-letter.jfif
 permalink: /how-to-write-a-winning-cover-letter/
-author: PhCareer
+author: Zooted
 date: 2021-04-16T18:14:26+00:00
 categories:
   - Job Search

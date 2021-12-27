@@ -2,7 +2,7 @@
 id: 568
 title: Things to Know Before Quitting Your Job to Follow Your Dreams
 date: 2021-04-19T21:37:47+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=568

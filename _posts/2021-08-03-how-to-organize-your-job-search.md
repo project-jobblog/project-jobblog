@@ -2,7 +2,7 @@
 id: 251
 title: Tips on How To Organized When Searching For A Job
 date: 2021-08-03T16:32:00+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=251

@@ -6,7 +6,7 @@ title: How to Answer &#8220;How Well Do You Work Under Pressure?&#8221; During
   Interview
 image: /assets/images/work-under-pressure.webp
 permalink: /how-to-answer-how-well-do-you-work-under-pressure-during-interview/
-author: PhCareer
+author: Zooted
 date: 2021-02-02T17:06:29+00:00
 categories:
   - Career Guides

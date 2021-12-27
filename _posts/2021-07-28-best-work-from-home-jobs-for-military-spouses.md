@@ -2,7 +2,7 @@
 id: 818
 title: Best Work From Home Jobs for Military Spouses
 date: 2021-07-28T22:03:35+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=818

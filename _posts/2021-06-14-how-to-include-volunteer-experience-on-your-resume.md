@@ -5,7 +5,7 @@ layout: post
 title: How to Include Volunteer Experience on Your Resume
 image: /assets/images/volunteer-experience.jpg
 permalink: /how-to-include-volunteer-experience-on-your-resume/
-author: PhCareer
+author: Zooted
 date: 2021-06-14T19:50:12+00:00
 categories:
   - Part-Time Jobs

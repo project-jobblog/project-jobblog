@@ -5,7 +5,7 @@ layout: post
 title: Why Do Hard Skills Matter?
 image: /assets/images/hard-skills.png
 permalink: /why-do-hard-skills-matter/
-author: PhCareer
+author: Zooted
 date: 2021-02-05T17:18:15+00:00
 categories:
   - Work-Life Balance

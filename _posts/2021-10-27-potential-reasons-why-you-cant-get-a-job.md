@@ -2,7 +2,7 @@
 id: 1000
 title: Potential Reasons Why You Can’t Get a Job
 date: 2021-10-27T19:14:14+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=1000

@@ -2,7 +2,7 @@
 id: 1038
 title: Tips, Tools, and Approach for Remote Working
 date: 2021-11-17T20:38:52+00:00
-author: PhCareer
+author: Zooted
 layout: post
 toc: true
 guid: /?p=1038
