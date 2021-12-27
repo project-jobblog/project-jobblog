@@ -1,18 +1,17 @@
 ---
-id: 602
-title: How to Overcome A Bad Day At Work
-date: 2021-05-11T18:28:40+00:00
-author: Zooted
-layout: post
 toc: true
 guid: /?p=602
+layout: post
+title: How to Overcome A Bad Day At Work
+image: /assets/images/bad-day-at-work.png
 permalink: /how-to-overcome-a-bad-day-at-work/
-
-
-image: /wp-content/uploads/2021/05/How-to-Overcome-A-Bad-Day-At-Work-1.jpg
+author: Zooted
+date: 2021-05-11T18:28:40+00:00
 categories:
-  - Career Guides
-
+  - Work From Home
+  - Work-Life Balance
+comments: true
+id: 602
 ---
 Have you ever had a bad day at work where maintaining your sanity was the greatest challenge? It may be a faulty printer or a coworker who stole your idea that sends you over the edge, but it&#8217;s important to handle the annoyances of a poor job environment professionally, even though steam is billowing from your ears.
 
