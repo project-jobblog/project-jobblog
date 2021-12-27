@@ -25,7 +25,7 @@ So, if you want a new career or advance your career in general, you can make it 
 
 Instead of applying to something you think you&#8217;d be successful at, you should have a plan in place before starting your job saearch. Six months down the track, this is likely to result in a work quest that remains stagnant.
 
-Create a list of [dream jobs](/tips-you-need-to-find-your-dream-job-and-get-hired-faster/) you&#8217;d like to do instead. Consider this a fresh start, a chance to follow a career you&#8217;ve always wanted to do. Bear in mind that the consistency of the applications is much more critical than the quantity. You should spend more time searching for what you want to do rather than what you should do.
+Create a list of [dream jobs](/how-to-find-your-dream-job/) you&#8217;d like to do instead. Consider this a fresh start, a chance to follow a career you&#8217;ve always wanted to do. Bear in mind that the consistency of the applications is much more critical than the quantity. You should spend more time searching for what you want to do rather than what you should do.
 
 ### **Update You Resume**
 

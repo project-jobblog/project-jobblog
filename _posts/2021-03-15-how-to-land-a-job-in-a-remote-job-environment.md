@@ -21,7 +21,7 @@ Remote job environments have become more widespread than ever before, transformi
 
 Some of the old adages still hold true when it comes to preparation: dress properly, arrive early, and be prepared to answer challenging questions. A virtual work environment, on the other hand, comes with a special interview process due to the absence of tangible body language and the inclusion of technology.
 
-It&#8217;s easy to be intimidated by it all, but there&#8217;s no need to be. We&#8217;ve compiled ways to land your [dream job](/tips-you-need-to-find-your-dream-job-and-get-hired-faster/) in a virtual workplace while still looking normal in this socially-distanced environment.
+It&#8217;s easy to be intimidated by it all, but there&#8217;s no need to be. We&#8217;ve compiled ways to land your [dream job](/how-to-find-your-dream-job/) in a virtual workplace while still looking normal in this socially-distanced environment.
 
 ### **Experiment with different video conferencing systems**
 

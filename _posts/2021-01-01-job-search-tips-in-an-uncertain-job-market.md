@@ -20,7 +20,7 @@ A job search requires perseverance and patience. Moreover, as the job market has
 
 Worrying does not help, nor does it alter reality. The best bet for finding a position in an unpredictable market is to accept the problem and then work for a solution. Trust your skills and sharpen the saw. When a new chance knocks on your door, you never know.
 
-And when that happens, [make sure that you&#8217;re ready](/how-to-make-a-great-impression-at-work/).
+And when that happens, [make sure that you&#8217;re ready](/tips-to-make-a-great-first-impression-on-your-first-day-of-work/).
 
 ### Establish Relationships
 

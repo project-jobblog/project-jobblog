@@ -55,7 +55,7 @@ Paid online surveys are ideal if you&#8217;re searching for a simple method to m
 
 The main benefit of paid surveys is that they don&#8217;t require any prior experience. In fact, you can do it while laying in bed or watching TV. It&#8217;s definitely one of the simplest work-at-home opportunities available.
 
-Companies may collect feedback on products from consumers like you by using a site like [Survey Junkie](https://www.surveyjunkie.com/). That implies you may determine a product&#8217;s success and be compensated for it. It&#8217;s as simple as clicking your finger.
+Companies may collect feedback on products from consumers like you by using a site like Survey Junkie. That implies you may determine a product&#8217;s success and be compensated for it. It&#8217;s as simple as clicking your finger.
 
 ### **Work as an Online Editor**
 

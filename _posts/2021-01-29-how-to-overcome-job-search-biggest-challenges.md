@@ -44,7 +44,7 @@ A referral provides you with a greater chance of being noticed and recruited by 
 
 ### **_Relying solely on Job Advertisements_**
 
-Although job adverts are a valuable source of job openings, in order to secure a new role, you should not rely solely on them. Instead, why not make a list of the top employers you would like to work for and then search for openings on their personal websites? By using this technique, you&#8217;re much more likely to [find your dream job](/tips-you-need-to-find-your-dream-job-and-get-hired-faster/)!
+Although job adverts are a valuable source of job openings, in order to secure a new role, you should not rely solely on them. Instead, why not make a list of the top employers you would like to work for and then search for openings on their personal websites? By using this technique, you&#8217;re much more likely to [find your dream job](/how-to-find-your-dream-job/)!
 
 When looking for new jobs, you can also spend a lot of time on [LinkedIn](https://business.linkedin.com/en-uk/marketing-solutions/blog/posts/content-marketing/2017/17-steps-to-a-better-LinkedIn-profile-in-2017); you will obtain [job tips](/category/job-tips/) based on your abilities and experience with their personalized algorithm, so you will be more likely to succeed by using this tool.
 

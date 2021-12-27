@@ -20,7 +20,7 @@ Are you a student about to graduate or someone looking for job experience? An in
 
 So, how do you choose the best internship for you?
 
-Your primary focus should be to demonstrate applicable job experience. Those with internships on their resumes have a better chance of landing a position and earning a higher salary. This is because an internship will serve as a springboard for gaining experience, marketing those experiences, and using those experiences to [find the right job.](/tips-you-need-to-find-your-dream-job-and-get-hired-faster/)
+Your primary focus should be to demonstrate applicable job experience. Those with internships on their resumes have a better chance of landing a position and earning a higher salary. This is because an internship will serve as a springboard for gaining experience, marketing those experiences, and using those experiences to [find the right job.](/how-to-find-your-dream-job/)
 
 **Here are some things to think about while looking for an internship**
 

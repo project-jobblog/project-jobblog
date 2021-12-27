@@ -13,7 +13,7 @@ categories:
 comments: true
 id: 564
 ---
-When you apply for a position, your cover letter is like a handshake—how it&#8217;s you introduce yourself to employers. It should be solid, concise, and make a [great first impression](/how-to-make-a-great-impression-at-work/), just like a good handshake.
+When you apply for a position, your cover letter is like a handshake—how it&#8217;s you introduce yourself to employers. It should be solid, concise, and make a [great first impression](/tips-to-make-a-great-first-impression-on-your-first-day-of-work/), just like a good handshake.
 
 This isn&#8217;t an area of the job application process where you want to cut corners. A cover letter encourages you to go into greater depth than your resume allows, clarify holes in your work experience or your need for a career change, and make a compelling argument for why you will be a [good candidate for the job](/how-to-figure-out-if-you-are-right-for-the-job/). In addition, a strong cover letter will help you secure an interview and, eventually, a career.
 

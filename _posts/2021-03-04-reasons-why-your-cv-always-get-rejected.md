@@ -15,7 +15,7 @@ categories:
   - Resume Tips
 
 ---
-[First impressions matter](/how-to-make-a-great-impression-at-work/), particularly when it comes to a CV. When your CV is in front of a recruiter, you will normally have between 10 and 30 seconds to impress them, so don&#8217;t let your CV become a rejected CV.
+[First impressions matter](/tips-to-make-a-great-first-impression-on-your-first-day-of-work/), particularly when it comes to a CV. When your CV is in front of a recruiter, you will normally have between 10 and 30 seconds to impress them, so don&#8217;t let your CV become a rejected CV.
 
 To have a chance of getting the job, you must master the art of writing a stellar CV that is tailored to the position you are applying for, as well as know how to avoid the pitfalls that could jeopardize your chances.
 

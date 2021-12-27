@@ -91,7 +91,7 @@ So be prepared to analyze what you enjoyed and did not enjoy your last organizat
 
 <blockquote class="wp-block-quote">
   <p>
-    <strong>Also Read <a href="/tips-you-need-to-find-your-dream-job-and-get-hired-faster/">Tips you Need to Find your Dream Job and Get Hired Faster</a></strong>
+    <strong>Also Read <a href="/how-to-find-your-dream-job/">Tips you Need to Find your Dream Job and Get Hired Faster</a></strong>
   </p>
 </blockquote>
 

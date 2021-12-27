@@ -14,7 +14,7 @@ categories:
   - Job Tips
 
 ---
-In the United States, there are over 3 million office and clerical jobs. The sector has become more competitive as a result of the high demand for clerical jobs. So, what can you do to [land your dream job](/tips-you-need-to-find-your-dream-job-and-get-hired-faster/) in a comfortable office environment?
+In the United States, there are over 3 million office and clerical jobs. The sector has become more competitive as a result of the high demand for clerical jobs. So, what can you do to [land your dream job](/how-to-find-your-dream-job/) in a comfortable office environment?
 
 To help you prepare for an interview, scroll down to learn more about how to land a clerical job, as well as basic interview questions.
 

@@ -89,4 +89,4 @@ We send out non-verbal messages with our body language, apart from verbal contac
   * Arms folded in front of the body
   * Minimal or tense facial expression
 
-You are guaranteed to survive the first day at work with ease with these tips. So, go ahead and make a terrific [first-day impression](/how-to-make-a-great-impression-at-work/).
+You are guaranteed to survive the first day at work with ease with these tips. So, go ahead and make a terrific [first-day impression](/tips-to-make-a-great-first-impression-on-your-first-day-of-work/).

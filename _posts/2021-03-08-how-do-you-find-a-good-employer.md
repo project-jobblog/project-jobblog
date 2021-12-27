@@ -56,7 +56,7 @@ Be wary of company job sites, particularly if you believe that companies want to
   * Competitive Salary
   * Amazing Benefoits
 
-But, before you get too excited about the prospect of [landing your dream job](/tips-you-need-to-find-your-dream-job-and-get-hired-faster/), do some research. When you compare those feedback to the promises made by the job site, you will determine whether or not the statements made by employers are true.
+But, before you get too excited about the prospect of [landing your dream job](/how-to-find-your-dream-job/), do some research. When you compare those feedback to the promises made by the job site, you will determine whether or not the statements made by employers are true.
 
 ### **Talk to existing staff**
 

@@ -21,7 +21,7 @@ For several reasons, job candidates are rejected from job applications. Lying on
 
 ### The Handshake
 
-There is nothing worse than a handshake that is limp, frail, and awkward. Since when you meet the hiring manager or your future boss, it&#8217;s the first thing you do, you have to nail it to [make the right impression](/how-to-make-a-great-impression-at-work/).
+There is nothing worse than a handshake that is limp, frail, and awkward. Since when you meet the hiring manager or your future boss, it&#8217;s the first thing you do, you have to nail it to [make the right impression](/tips-to-make-a-great-first-impression-on-your-first-day-of-work/).
 
 To reach out first, lock eyes, get the correct grip (not too tight), and hold on tightly for a few seconds, is the secret to a winning handshake.
 

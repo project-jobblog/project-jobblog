@@ -21,7 +21,7 @@ The phase of job searching can be busy. Candidates spend time crafting and submi
 
 When you&#8217;re an [introvert](https://www.webmd.com/balance/introvert-personality-overview) or hate networking, it can be hard to collect the energy from the network. However, some of the most successful networkers are generally better at listening than talking. They take the time to build relationships with individuals, seek input, and ask for advice, instead of asking for a job. As is the case for other stuff, over time, successful networking occurs and requires effort.
 
-To develop and communicate with your professional network, take small steps every day, and you may just find your way to your [dream job](/tips-you-need-to-find-your-dream-job-and-get-hired-faster/).
+To develop and communicate with your professional network, take small steps every day, and you may just find your way to your [dream job](/how-to-find-your-dream-job/).
 
 ### **_Be strategic when reaching out_**
 

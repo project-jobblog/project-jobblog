@@ -52,7 +52,7 @@ The problem with leaving your job and throwing in the towel at your current work
 
 <blockquote class="wp-block-quote">
   <p>
-    <strong>Also Read: <a href="/how-to-make-a-great-impression-at-work/">How to Make a Great Impression At Work?</a></strong>
+    <strong>Also Read: <a href="/tips-to-make-a-great-first-impression-on-your-first-day-of-work/">How to Make a Great Impression At Work?</a></strong>
   </p>
 </blockquote>
 
