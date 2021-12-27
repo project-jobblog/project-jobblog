@@ -1,18 +1,18 @@
 ---
-id: 618
-title: The Importance of Job Satisfaction
-date: 2021-05-17T22:26:52+00:00
-author: Zooted
-layout: post
 toc: true
 guid: /?p=618
+layout: post
+title: The Importance of Job Satisfaction
+image: /assets/images/job-satisfaction.png
 permalink: /the-importance-of-job-satisfaction/
-
-
-image: /wp-content/uploads/2021/05/Job-Satisfaction.jpg
+author: Zooted
+date: 2021-05-17T22:26:52+00:00
 categories:
-  - Career Guides
-
+  - Hybrid Workplace
+  - Work From Home
+  - Work-Life Balance
+comments: true
+id: 618
 ---
 While it&#8217;s easy to become fixated on a job that matches your major, the necessary credentials, and the pay, there are many other considerations to consider when looking for work. Overall work satisfaction is an important consideration.
 
