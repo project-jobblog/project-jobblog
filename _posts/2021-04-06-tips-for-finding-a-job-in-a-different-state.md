@@ -1,18 +1,18 @@
 ---
-id: 525
-title: Tips for Finding a Job in a Different State
-date: 2021-04-06T17:06:15+00:00
-author: Zooted
-layout: post
 toc: true
 guid: /?p=525
+layout: post
+title: Tips for Finding a Job in a Different State
+image: /assets/images/job-in-a-different-state.png
 permalink: /tips-for-finding-a-job-in-a-different-state/
-
-
-image: /wp-content/uploads/2021/04/Tips-for-Finding-a-Job-in-a-Different-State-1.jpg
+author: Zooted
+date: 2021-04-06T17:06:15+00:00
 categories:
   - Job Search
-
+  - Job Interview
+  - Job Hiring
+comments: true
+id: 525
 ---
 Are you stuck in a drab job? Do you require a change of environment? Are you relocating to another state? Relocating can be both exciting and stressful, particularly when it comes to finding a new job.
 
