@@ -41,15 +41,13 @@ Now that you are aware of the company&#8217;s needs, think of ways you can help 
   <figure class="aligncenter size-large"><img loading="lazy" width="600" height="400" src="/wp-content/uploads/2021/01/why-should-we-hire-you.jpg" alt="So, Why Should We Hire You?" class="wp-image-235" srcset="/wp-content/uploads/2021/01/why-should-we-hire-you.jpg 600w, /wp-content/uploads/2021/01/why-should-we-hire-you-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 </div>
 
-
-
-**Related Topics:**
-
-* [Tips on Hiring the Right Employee](/tips-on-hiring-the-right-employee/)
-* [How to Get Hired Faster?](/how-to-get-hired-faster/)
-* [How To Answer : Why Should We Hire You?](/so-why-should-we-hire-you/)
-* [Should You Hire An Applicant With Criminal Records?](/should-you-hire-an-applicant-with-criminal-records/)
-* [What Companies Are Looking for in a New Hire?](/what-companies-are-looking-for-in-a-new-hire/)
+> **Related Topics:**
+>
+> * [Tips on Hiring the Right Employee](/tips-on-hiring-the-right-employee/)
+> * [How to Get Hired Faster?](/how-to-get-hired-faster/)
+> * [How To Answer : Why Should We Hire You?](/so-why-should-we-hire-you/)
+> * [Should You Hire An Applicant With Criminal Records?](/should-you-hire-an-applicant-with-criminal-records/)
+> * [What Companies Are Looking for in a New Hire?](/what-companies-are-looking-for-in-a-new-hire/)
 
 
 
