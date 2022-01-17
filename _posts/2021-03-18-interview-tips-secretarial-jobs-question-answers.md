@@ -1,19 +1,17 @@
 ---
-id: 458
-title: 'Interview Tips: Secretarial Jobs Question &#038; Answers'
-date: 2021-03-18T16:23:17+00:00
-author: Zooted
-layout: post
 toc: true
 guid: /?p=458
+layout: post
+title: "Interview Tips: Secretarial Jobs Question &#038; Answers"
+image: /assets/images/interview-tips-secretarial-jobs.jpg
 permalink: /interview-tips-secretarial-jobs-question-answers/
-
-
-image: /wp-content/uploads/2021/03/Secretarial-Job-Question-and-Answers.jpg
+author: Zooted
+date: 2021-03-18T16:23:17+00:00
 categories:
-  - Career Guides
   - Job Interview
-
+  - Human Resources
+comments: true
+id: 458
 ---
 Sample secretarial jobs interview questions that interviewers frequently ask. The interview answer guidelines will assist you in preparing your best answers in order to land the secretary job of your dreams.
 
