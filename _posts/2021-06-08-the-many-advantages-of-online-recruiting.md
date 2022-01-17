@@ -1,18 +1,18 @@
 ---
-id: 672
-title: The Many Advantages of Online Recruiting
-date: 2021-06-08T18:49:20+00:00
-author: Zooted
-layout: post
 toc: true
 guid: /?p=672
+layout: post
+title: The Many Advantages of Online Recruiting
+image: /assets/images/online-recruiting.png
 permalink: /the-many-advantages-of-online-recruiting/
-
-
-image: /wp-content/uploads/2021/06/The-Benefits-of-Online-Recruiting.jpg
+author: Zooted
+date: 2021-06-08T18:49:20+00:00
 categories:
-  - Employer
-
+  - Job Search
+  - Job Hiring
+  - Work From Home
+comments: true
+id: 672
 ---
 Online recruiting has swiftly become the favored method of talent scouting as recruiters seek to migrate into the digital arena. As a result, many businesses are paying more attention to their online recruiting methods, with social media proving to be an especially efficient way of finding new personnel. Indeed, professional networking sites have created a targeted, easily available pool of prospects, allowing recruiters to prescreen potential recruits based on their profiles&#8217; content.
 
