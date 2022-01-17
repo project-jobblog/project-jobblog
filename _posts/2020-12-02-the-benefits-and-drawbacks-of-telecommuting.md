@@ -15,6 +15,7 @@ id: 75
 ---
 Telecommuting is becoming more common, and there are a few major benefits and reasons why. There are still several inconveniences or drawbacks of telecommuting, however.
 
+
 ## Definition of Telecommuting Job
 
 Telecommuting jobs are positions that do not require the employee to be at a certain place in the workplace. They enable the employee to work with a sufficient internet connection and required equipment from home, a co-working room, or anywhere else. Such positions are also known as telecommuting positions or remote positions.
