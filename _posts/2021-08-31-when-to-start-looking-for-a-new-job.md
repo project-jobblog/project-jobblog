@@ -11,7 +11,7 @@ categories:
   - Job Offer
   - Job Search
   - Job Tips
-comments: true
+comments: false
 id: 903
 ---
 Some people may wish to start looking for a new job or advance to a higher level. Some people may desire a more stable income or career, while others may be attempting to strike a balance between work and personal life. The reasons could be numerous, but whatever the case, it is prudent to consider a few points before quitting or beginning your job search.

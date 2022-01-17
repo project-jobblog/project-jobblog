@@ -10,7 +10,7 @@ date: 2021-11-15T16:20:00+00:00
 categories:
   - Job Interview
   - Marketing
-comments: true
+comments: false
 id: 188
 ---
 Many companies/enterprises have switched to a digital medium, generating a lot of employment in the United States in digital marketing. Technology is being used to ease the changes that systems and companies have to deal with.

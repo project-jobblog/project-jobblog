@@ -5,7 +5,7 @@ image: /assets/images/make-a-good-impression-on-your-first-day.png
 categories:
   - Career Guide
 toc: true
-comments: true
+comments: false
 author: Zooted
 ---
 They said that the first impressions last a lifetime, so whether you have an incoming interview or a big sales meeting coming, it is important to make sure you give them your best.

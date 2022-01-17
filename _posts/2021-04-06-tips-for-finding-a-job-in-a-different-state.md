@@ -11,7 +11,7 @@ categories:
   - Job Search
   - Job Interview
   - Job Hiring
-comments: true
+comments: false
 id: 525
 ---
 Are you stuck in a drab job? Do you require a change of environment? Are you relocating to another state? Relocating can be both exciting and stressful, particularly when it comes to finding a new job.

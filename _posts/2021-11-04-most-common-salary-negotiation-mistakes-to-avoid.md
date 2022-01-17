@@ -10,7 +10,7 @@ date: 2021-11-04T01:41:00+00:00
 categories:
   - Job Interview
   - Career Guide
-comments: true
+comments: false
 id: 195
 ---
 It is never the most enjoyable topic of discussion to talk about your salary. If you&#8217;ve landed a new job or are merely looking for a boost, when it comes to salary negotiation, you have to tread carefully.

@@ -11,7 +11,7 @@ categories:
   - Work From Home
   - Freelance Jobs
   - Work-Life Balance
-comments: true
+comments: false
 id: 718
 ---
 Make the most of this one-of-a-kind scenario to argue for a permanent flexible work arrangement. While many organizations and companies had adopted flexible work arrangements even before the coronavirus epidemic pushed the switch to a wholly virtual workforce, some employers were concerned that such arrangements would reduce employee productivity and collaboration in the long run.

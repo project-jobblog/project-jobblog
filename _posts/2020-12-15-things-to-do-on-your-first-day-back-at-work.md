@@ -10,7 +10,7 @@ image: /assets/images/first-day-back-at-work.png
 categories:
   - Career Guide
   - Job Search
-comments: true
+comments: false
 author: Zooted
 date: 2020-12-15T16:51:43+00:00
 id: 125

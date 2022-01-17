@@ -10,7 +10,7 @@ date: 2020-12-07T20:56:03+00:00
 categories:
   - Job Search
   - Career Guide
-comments: true
+comments: false
 id: 88
 ---
 It is a setback to take the wrong career direction, but it&#8217;s not an impossible setback from which to come back.

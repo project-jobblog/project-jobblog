@@ -11,7 +11,7 @@ categories:
   - Job Interview
   - Job Search
   - Job Tips
-comments: true
+comments: false
 author: Zooted
 date: 2021-03-11T17:45:30+00:00
 id: 436

@@ -10,7 +10,7 @@ date: 2021-03-18T16:23:17+00:00
 categories:
   - Job Interview
   - Human Resources
-comments: true
+comments: false
 id: 458
 ---
 Sample secretarial jobs interview questions that interviewers frequently ask. The interview answer guidelines will assist you in preparing your best answers in order to land the secretary job of your dreams.

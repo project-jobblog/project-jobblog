@@ -9,7 +9,7 @@ author: Zooted
 permalink: /tips-on-how-to-spot-an-online-job-scam/
 date: 2020-12-22T16:52:58+00:00
 title: Tips on How to Spot an Online Job Scam
-comments: true
+comments: false
 id: 151
 categories:
   - Career Guide

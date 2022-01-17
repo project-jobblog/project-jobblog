@@ -10,7 +10,7 @@ date: 2021-06-14T19:50:12+00:00
 categories:
   - Part-Time Jobs
   - Job Search
-comments: true
+comments: false
 id: 687
 ---
 It takes more than simply writing to make a captivating volunteer experience section. Here are some pointers on how to properly include volunteer work in your resume:

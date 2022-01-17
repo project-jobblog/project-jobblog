@@ -10,7 +10,7 @@ image: /assets/images/video-interviews.jpg
 categories:
   - Career Guides
   - Job Interview
-comments: true
+comments: false
 author: Zooted
 date: 2021-06-28T17:06:23+00:00
 id: 735

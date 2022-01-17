@@ -9,7 +9,7 @@ author: Zooted
 permalink: /how-to-find-a-new-job-after-being-laid-off/
 date: 2021-10-13T16:29:00+00:00
 title: Tips On How to Find a New Job After Being Fired
-comments: true
+comments: false
 id: 239
 categories:
   - Job Search

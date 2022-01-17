@@ -9,7 +9,7 @@ author: Zooted
 permalink: /cover-letter-tips-for-new-freelancers/
 date: 2021-10-20T21:41:19+00:00
 title: Cover Letter Tips for New Freelancers
-comments: true
+comments: false
 id: 984
 categories:
   - Career Guides

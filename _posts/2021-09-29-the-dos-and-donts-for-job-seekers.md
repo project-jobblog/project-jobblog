@@ -10,7 +10,7 @@ date: 2021-09-29T21:49:22+00:00
 categories:
   - Job Interview
   - Job Search
-comments: true
+comments: false
 id: 947
 ---
 The Dos and Don’ts for Job Seekers! You&#8217;ve finished your degree! Of course, this deserves a round of applause and a pat on the back, but it also signals that it&#8217;s time to start serious about job seeking. Just when you thought you were finally free from all of your studies&#8217; hard work, the idea of finding a job presents itself—and you may not know where to begin your search.

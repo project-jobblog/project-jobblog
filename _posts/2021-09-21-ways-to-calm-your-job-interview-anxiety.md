@@ -9,7 +9,7 @@ author: Zooted
 permalink: /ways-to-calm-your-job-interview-anxiety/
 date: 2021-09-21T21:28:00+00:00
 title: How to Stay Calm And Compose During a Your Job Interview
-comments: true
+comments: false
 id: 572
 categories:
   - Job Interview

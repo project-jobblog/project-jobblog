@@ -10,7 +10,7 @@ image: /wp-content/uploads/2021/11/resume-icons.jpg
 categories:
   - Job Search
   - Resume Guide
-comments: true
+comments: false
 author: Zooted
 date: 2021-11-09T21:10:14+00:00
 id: 1024

@@ -9,7 +9,7 @@ author: Zooted
 permalink: /online-job-interview-tips-in-the-wake-of-coronavirus/
 date: 2021-01-08T16:35:20+00:00
 title: Online Job Interview Tips in the Wake of Coronavirus
-comments: true
+comments: false
 id: 216
 categories:
   - Job Interview

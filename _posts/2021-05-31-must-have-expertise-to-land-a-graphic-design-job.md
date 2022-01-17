@@ -10,7 +10,7 @@ date: 2021-05-31T23:10:01+00:00
 categories:
   - Graphic Designer
   - Work From Home
-comments: true
+comments: false
 id: 652
 ---
 This is what you need to get an edge in today&#8217;s employment market, from&nbsp;[soft skills](/category/soft-skills/)&nbsp;like communication and creativity to typography and coding.

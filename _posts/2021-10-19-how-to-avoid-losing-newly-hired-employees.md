@@ -9,7 +9,7 @@ author: Zooted
 permalink: /how-to-avoid-losing-newly-hired-employees/
 date: 2021-10-19T16:24:06+00:00
 title: How to Avoid Losing Newly Hired Employees?
-comments: true
+comments: false
 id: 979
 categories:
   - Career Guide

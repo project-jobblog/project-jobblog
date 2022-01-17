@@ -9,7 +9,7 @@ author: Zooted
 date: 2021-06-21T20:20:05+00:00
 categories:
   - Job Interview
-comments: true
+comments: false
 id: 712
 ---
 Interviewers usually ask sample secretarial interview questions. The interview answer guidelines will assist you in preparing your finest responses in order to land the secretary position you desire.

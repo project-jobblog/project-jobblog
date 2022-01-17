@@ -9,7 +9,7 @@ author: Zooted
 date: 2021-01-29T17:05:42+00:00
 categories:
   - Job Search
-comments: true
+comments: false
 id: 297
 ---
 It&#8217;s perfectly natural to feel discouraged and defeated when searching for a new job, whether the competition is too fierce, you unwittingly make a significant mistake or two in your job search, or the lack of callbacks, interviews, and abundance of rejection gets you down. And while an unsuccessful job search can be frustrating, it is not the solution to embrace some old job or give up entirely and comfort yourself with a tub of ice cream.

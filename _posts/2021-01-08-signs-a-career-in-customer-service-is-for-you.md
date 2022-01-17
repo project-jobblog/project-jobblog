@@ -10,7 +10,7 @@ image: /assets/images/full-time-job.jpg
 categories:
   - Work From Home
   - Career Guide
-comments: true
+comments: false
 author: Zooted
 date: 2021-01-08T22:48:11+00:00
 id: 220

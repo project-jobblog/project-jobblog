@@ -7,7 +7,7 @@ categories:
   - Career Guide
   - Work From Home
 toc: true
-comments: true
+comments: false
 author: Zooted
 ---
 Video interview is here to stay, whether you like them or not. You must know what to do and how to do it if you apply for a job and are requested to participate in a video interview. This is some recommendations for a successful video interview are listed below.

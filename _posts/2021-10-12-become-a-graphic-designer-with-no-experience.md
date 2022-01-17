@@ -9,7 +9,7 @@ author: Zooted
 permalink: /become-a-graphic-designer-with-no-experience/
 date: 2021-10-12T15:45:49+00:00
 title: Become A Graphic Designer With No Experience
-comments: true
+comments: false
 id: 963
 categories:
   - Graphic Designer

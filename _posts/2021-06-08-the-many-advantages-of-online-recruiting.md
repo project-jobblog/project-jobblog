@@ -11,7 +11,7 @@ categories:
   - Job Search
   - Job Hiring
   - Work From Home
-comments: true
+comments: false
 id: 672
 ---
 Online recruiting has swiftly become the favored method of talent scouting as recruiters seek to migrate into the digital arena. As a result, many businesses are paying more attention to their online recruiting methods, with social media proving to be an especially efficient way of finding new personnel. Indeed, professional networking sites have created a targeted, easily available pool of prospects, allowing recruiters to prescreen potential recruits based on their profiles&#8217; content.

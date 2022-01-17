@@ -11,7 +11,7 @@ categories:
   - Management Consulting
   - Information Technology
   - Marketing
-comments: true
+comments: false
 author: Zooted
 date: 2021-11-24T23:15:26+00:00
 id: 1046

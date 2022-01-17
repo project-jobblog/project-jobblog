@@ -11,7 +11,7 @@ categories:
   - Job Search
   - Career Guide
   - Federal
-comments: true
+comments: false
 id: 746
 ---
 Workers in the entry-level job have the opportunity to learn new skills in a new field while also developing technical talents that they may lack. This employment is ideal for retirees, those who have been unemployed for a long time, or those who want to change careers.

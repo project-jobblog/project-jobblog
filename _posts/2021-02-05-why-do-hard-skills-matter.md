@@ -12,7 +12,7 @@ categories:
   - Career Guide
   - Human Resources
   - Marketing
-comments: true
+comments: false
 id: 321
 ---
 When considering job applicants for open positions, employers search for a mixture of both hard skills and soft skills; both types of abilities are needed for on-the-job success.

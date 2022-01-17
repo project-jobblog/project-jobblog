@@ -10,7 +10,7 @@ image: /assets/images/good-employer.png
 categories:
   - Career Guides
   - Job Interview
-comments: true
+comments: false
 author: Zooted
 date: 2021-03-08T16:49:39+00:00
 id: 422

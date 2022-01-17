@@ -11,7 +11,7 @@ categories:
   - Work From Home
   - Job Search
   - Administrative
-comments: true
+comments: false
 author: Zooted
 date: 2020-12-10T18:01:44+00:00
 id: 108

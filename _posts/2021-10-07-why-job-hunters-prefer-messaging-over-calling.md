@@ -9,7 +9,7 @@ author: Zooted
 permalink: /why-job-hunters-prefer-messaging-over-calling/
 date: 2021-10-07T22:01:11+00:00
 title: Why Job Hunters Prefer Messaging Over Calling?
-comments: true
+comments: false
 id: 956
 categories:
   - Job Search

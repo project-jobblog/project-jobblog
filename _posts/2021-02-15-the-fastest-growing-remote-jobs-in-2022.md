@@ -11,7 +11,7 @@ categories:
   - Work From Home
   - Job Search
   - Work-Life Balance
-comments: true
+comments: false
 id: 348
 ---
 While the workplace has been devastated by the pandemic, the bright note is that it has expanded access in many career fields to remote jobs. During the pandemic, more than half the businesses [hired new workers remotely](http://rh-us.mediaroom.com/2020-09-30-Survey-More-Than-Half-Of-Companies-Hired-New-Staff-Remotely-During-The-Pandemic). And data from the U.S. Census finds that [more than half](https://www.bloomberg.com/news/articles/2020-11-24/half-the-labor-force-in-major-u-s-cities-is-working-from-home) of the labor force is operating from home in major metro areas such as San Francisco, Washington, D.C., Boston, and Seattle.

@@ -10,7 +10,7 @@ image: /assets/images/stay-productive-when-you-work-from-home.jpeg
 categories:
   - Work From Home
   - Career Guide
-comments: true
+comments: false
 author: Zooted
 date: 2020-12-18T16:40:44+00:00
 id: 141

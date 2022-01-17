@@ -10,7 +10,7 @@ date: 2021-04-16T18:14:26+00:00
 categories:
   - Job Search
   - Resume Guide
-comments: true
+comments: false
 id: 564
 ---
 When you apply for a position, your cover letter is like a handshake—how it&#8217;s you introduce yourself to employers. It should be solid, concise, and make a [great first impression](/tips-to-make-a-great-first-impression-on-your-first-day-of-work/), just like a good handshake.

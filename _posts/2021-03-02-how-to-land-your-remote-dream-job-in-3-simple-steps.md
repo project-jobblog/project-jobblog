@@ -11,7 +11,7 @@ categories:
   - Work From Home
   - Part-Time Jobs
   - Work-Life Balance
-comments: true
+comments: false
 id: 402
 ---
 Before the COVID-19 pandemic, remote job opportunities were on the rise, and they are now more widely available.

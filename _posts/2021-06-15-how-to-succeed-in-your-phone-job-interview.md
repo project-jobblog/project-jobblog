@@ -10,7 +10,7 @@ date: 2021-06-15T21:39:08+00:00
 categories:
   - Career Guides
   - Job Interview
-comments: true
+comments: false
 id: 691
 ---
 The best phone job interview guide guarantees that you conduct yourself professionally and confidently throughout phone interviews.

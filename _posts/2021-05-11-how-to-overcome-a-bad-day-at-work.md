@@ -10,7 +10,7 @@ date: 2021-05-11T18:28:40+00:00
 categories:
   - Work From Home
   - Work-Life Balance
-comments: true
+comments: false
 id: 602
 ---
 Have you ever had a bad day at work where maintaining your sanity was the greatest challenge? It may be a faulty printer or a coworker who stole your idea that sends you over the edge, but it&#8217;s important to handle the annoyances of a poor job environment professionally, even though steam is billowing from your ears.

@@ -10,7 +10,7 @@ image: /assets/images/how-to-get-a-job-at-18-with-no-experience.jpg
 categories:
   - Job Search
   - Career Guide
-comments: true
+comments: false
 author: Zooted
 date: 2021-01-06T19:05:24+00:00
 id: 205

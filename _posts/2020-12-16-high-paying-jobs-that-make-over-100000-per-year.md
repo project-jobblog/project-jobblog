@@ -12,7 +12,7 @@ categories:
   - Administrative
   - Design
   - Hybrid Workplace
-comments: true
+comments: false
 id: 130
 ---
 In the healthcare, technology, and financial industries, the highest-paying workers are most frequently found. It requires many years of industry experience for several professionals before you have the credentials to be offered a high paying job. Early in your career, however, some positions pay well. While certain high paying jobs require long hours and significant decision-making, others require rigorous physical labor or team leadership.

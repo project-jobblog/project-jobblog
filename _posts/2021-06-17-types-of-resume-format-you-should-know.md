@@ -9,7 +9,7 @@ author: Zooted
 date: 2021-06-17T19:46:43+00:00
 categories:
   - Resume Guide
-comments: true
+comments: false
 id: 701
 ---
 Wait, there are different types of resume? Yes, of course. In fact, there are three different sorts of resumes: chronological, functional, and a blend of the two. Let&#8217;s go over the basics of each kind and look at a specific example.

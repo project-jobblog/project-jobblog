@@ -10,7 +10,7 @@ image: /assets/images/searching-for-a-job.jpg
 categories:
   - Job Search
   - Job Tips
-comments: true
+comments: false
 author: Zooted
 date: 2021-01-11T16:20:52+00:00
 id: 226

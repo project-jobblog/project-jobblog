@@ -11,7 +11,7 @@ categories:
   - Career Guide
   - Part-Time Jobs
   - Work-Life Balance
-comments: true
+comments: false
 id: 93
 ---
 The talents you possess that go beyond your technical, observable abilities are soft skills. Among others, soft skills concentrate more on psychological, leadership, communication, and problem-solving skills. Although the preparation and experience you have gained over the course of your career are composed of hard skills, soft skills are how you work with others and on your own. While soft skills are more personality-based, you can still develop them.

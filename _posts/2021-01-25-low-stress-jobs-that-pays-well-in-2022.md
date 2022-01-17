@@ -10,7 +10,7 @@ image: /assets/images/low-stress-jobs-that-pays-well-in-2022.jpg
 categories:
   - Job Search
   - Biotech
-comments: true
+comments: false
 author: Zooted
 date: 2021-01-25T17:39:59+00:00
 id: 279

@@ -13,7 +13,7 @@ categories:
   - Healthcare
   - Engineering
   - Entertainment
-comments: true
+comments: false
 id: 467
 ---
 Top 10 Best US Cities for Finding Jobs: Are you considering relocating in order to find a better job? If job opportunities in your city are few and far between these days, relocation may be the solution.

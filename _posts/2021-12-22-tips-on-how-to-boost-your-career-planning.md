@@ -7,7 +7,7 @@ categories:
   - Career Guide
   - Job Search
 toc: true
-comments: true
+comments: false
 author: Zooted
 ---
 You've probably heard that career planning is vital for professional success, whether you're fresh to the industry or have already achieved significant progress in your sector. After all, having a strategy can help you stay focused and make it simpler to take chances when they arise.

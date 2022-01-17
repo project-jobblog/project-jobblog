@@ -11,7 +11,7 @@ categories:
   - Hybrid Workplace
   - Work From Home
   - Work-Life Balance
-comments: true
+comments: false
 id: 618
 ---
 While it&#8217;s easy to become fixated on a job that matches your major, the necessary credentials, and the pay, there are many other considerations to consider when looking for work. Overall work satisfaction is an important consideration.

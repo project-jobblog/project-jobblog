@@ -11,7 +11,7 @@ categories:
   - Job Interview
   - Job Offer
   - Job Search
-comments: true
+comments: false
 id: 365
 ---
 The thank-you note of the job seeker determines their chances of securing the job. &#8220;***Does receiving a thank-you email/note affect the decision-making process after interviewing a candidate?***&#8220;. According to hiring managers, it matters. In reality, almost one in five interviewers dismissed a candidate completely because they did not receive more than one.

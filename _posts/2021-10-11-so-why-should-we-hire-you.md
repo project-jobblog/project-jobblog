@@ -10,7 +10,7 @@ date: 2021-10-11T16:11:00+00:00
 categories:
   - Job Search
   - Job Hiring
-comments: true
+comments: false
 id: 234
 ---
 It&#8217;s an interview question which can make the palms of any candidate sweat. It not only forces you to look inwardly and present arguments why you are amazing, but it can also build or destroy your chances of landing the job.

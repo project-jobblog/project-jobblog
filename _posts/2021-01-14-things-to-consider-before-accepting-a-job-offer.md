@@ -9,7 +9,7 @@ title: Things to Consider Before Accepting a Job Offer
 image: /assets/images/things-to-consider-before-accepting-a-job-offer.jpg
 categories:
   - Career Guide
-comments: true
+comments: false
 author: Zooted
 date: 2021-01-14T18:01:08+00:00
 id: 244

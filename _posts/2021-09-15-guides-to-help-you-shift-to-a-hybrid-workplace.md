@@ -11,7 +11,7 @@ categories:
   - Hybrid Workplace
   - Work From Home
   - Workplace
-comments: true
+comments: false
 id: 926
 ---
 Guides To Help You Shift to a Hybrid Workplace: Many non-essential personnel has had to shift to working remotely since the outbreak began. New obstacles arose as a result of the transition, including navigating virtual meetings and re-creating an effective workstation from home. As the pandemic progresses, some businesses have decided to return to the office 100 percent of the time, while others have adopted a fully remote policy and are considering a hybrid work style.

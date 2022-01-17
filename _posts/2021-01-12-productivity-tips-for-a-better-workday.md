@@ -10,7 +10,7 @@ image: /assets/images/productivity-tips-for-a-better-workday.jpg
 categories:
   - Career Guides
   - Work From Home
-comments: true
+comments: false
 author: Zooted
 date: 2021-01-12T00:12:43+00:00
 id: 230

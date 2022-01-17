@@ -9,7 +9,7 @@ author: Zooted
 permalink: /how-to-become-a-social-media-manager/
 date: 2021-10-14T17:10:03+00:00
 title: How to Become a Social Media Manager?
-comments: true
+comments: false
 id: 972
 categories:
   - Job Search

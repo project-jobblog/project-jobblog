@@ -10,7 +10,7 @@ image: /assets/images/full-time-job.webp
 categories:
   - Work From Home
   - Career Guide
-comments: true
+comments: false
 author: Zooted
 date: 2021-01-05T16:04:10+00:00
 id: 199

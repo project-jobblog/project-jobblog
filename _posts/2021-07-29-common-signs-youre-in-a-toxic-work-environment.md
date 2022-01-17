@@ -9,7 +9,7 @@ author: Zooted
 date: 2021-07-29T20:17:49+00:00
 categories:
   - Career Guide
-comments: true
+comments: false
 id: 823
 ---
 Common Signs You&#8217;re in a Toxic Work Environment. Teams that are productive, joyful, and engaged have one thing in common: they operate in a pleasant, supportive, and healthy environment. Toxic work environments? They do appear to be a little different. Gossip, conflict, and poor communication are all too common in bad circumstances. So, how can you determine if toxicity is a problem at your company? Keep an eye out for warning signs of a toxic work environment and find out what you can do about it.

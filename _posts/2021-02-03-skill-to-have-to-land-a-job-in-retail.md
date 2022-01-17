@@ -10,7 +10,7 @@ image: /assets/images/skill-to-have-to-land-a-job-in-retail.jpg
 categories:
   - Retail
   - Job Search
-comments: true
+comments: false
 author: Zooted
 date: 2021-02-03T17:03:29+00:00
 id: 312

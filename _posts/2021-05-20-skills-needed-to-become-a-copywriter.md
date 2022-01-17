@@ -10,7 +10,7 @@ date: 2021-05-20T18:17:23+00:00
 categories:
   - Publishing
   - Work From Home
-comments: true
+comments: false
 id: 627
 ---
 One of the most common career paths for arts and humanities graduates is copywriter. Although many copywriting positions require an essay-based degree, the demands of the work necessitate the development of basic writing skills that are not taught in formal education.

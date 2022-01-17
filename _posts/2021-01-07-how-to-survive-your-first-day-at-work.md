@@ -9,7 +9,7 @@ title: How To Survive Your First Day At Work?
 image: /assets/images/first-day-at-work.jfif
 categories:
   - Career Guide
-comments: true
+comments: false
 author: Zooted
 date: 2021-01-07T16:56:07+00:00
 id: 210

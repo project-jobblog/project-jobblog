@@ -10,7 +10,7 @@ date: 2021-07-27T05:03:00+00:00
 categories:
   - Job Search
   - Job Tips
-comments: true
+comments: false
 id: 264
 ---
 How To Find That One Perfect Job? Increasing concern has risen in the US about a lack of skilled workers to fill job openings, resulting in a high unemployment rate even as there are thousands of vacancies in the job market. The large gap between the skill requirements of companies and those available in the talent pool is often cited as one of the main reasons for holding back the economic development of the country.
