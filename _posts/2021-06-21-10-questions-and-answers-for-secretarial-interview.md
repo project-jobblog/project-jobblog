@@ -1,18 +1,16 @@
 ---
-id: 712
-title: 10 Questions and Answers for Secretarial Interview
-date: 2021-06-21T20:20:05+00:00
-author: Zooted
-layout: post
 toc: true
 guid: /?p=712
+layout: post
+title: 10 Questions and Answers for Secretarial Interview
+image: /assets/images/secretarial-interview.png
 permalink: /10-questions-and-answers-for-secretarial-interview/
-
-
-image: /wp-content/uploads/2021/06/Secretarial-Interviews.jpg
+author: Zooted
+date: 2021-06-21T20:20:05+00:00
 categories:
   - Job Interview
-
+comments: true
+id: 712
 ---
 Interviewers usually ask sample secretarial interview questions. The interview answer guidelines will assist you in preparing your finest responses in order to land the secretary position you desire.
 
