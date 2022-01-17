@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "netlify-plugin-jekyll-cache": "^1.0.0"
+  }
+}
